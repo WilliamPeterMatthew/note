@@ -6,16 +6,26 @@
     <link>https://www.zhangkai.xin/</link>
     <description>A Konjac in Province H.A.'s Note</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 02 Sep 2021 07:59:19 GMT</pubDate>
-    <lastBuildDate>Thu, 02 Sep 2021 07:59:19 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Sep 2021 12:56:45 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Sep 2021 12:56:45 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>使用CC BY-NC-SA 4.0许可 | © 2018 - 2021 张开昕 版权所有</copyright>
     <item>
-      <title>项目主页</title>
+      <title>CPPU-TimeTableSearching</title>
+      <link>https://www.zhangkai.xin/project/cpputts/</link>
+      <guid>https://www.zhangkai.xin/project/cpputts/</guid>
+      <source url="https://www.zhangkai.xin/rss.xml">CPPU-TimeTableSearching</source>
+      <content:encoded><![CDATA[<p>CPPU查询某一节课有多少人上课
+<a href="https://github.com/WilliamPeterMatthew/CPPU-TimeTableSearching/releases" target="_blank" rel="noopener noreferrer">Github下载</a> | <a href="https://gitee.com/WilliamPeterMatthew/CPPU-TimeTableSearching/releases/" target="_blank" rel="noopener noreferrer">Gitee下载</a></p>
+<p>现在，点击左方的导航学习使用吧。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>说明主页</title>
       <link>https://www.zhangkai.xin/home/</link>
       <guid>https://www.zhangkai.xin/home/</guid>
-      <source url="https://www.zhangkai.xin/rss.xml">项目主页</source>
+      <source url="https://www.zhangkai.xin/rss.xml">说明主页</source>
       <content:encoded><![CDATA[<p>欢迎点击上方内容查看我的笔记内容</p>
 ]]></content:encoded>
     </item>
@@ -42,6 +52,14 @@
 <p><img src="https://www.zhangkai.xin/pic/0076VEu5ly1g09gtou8spj30u009eacd.jpg" alt="" /></p>
 ]]></content:encoded>
       <enclosure url="https://www.zhangkai.xin/pic/qq_1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>项目说明列表</title>
+      <link>https://www.zhangkai.xin/project/</link>
+      <guid>https://www.zhangkai.xin/project/</guid>
+      <source url="https://www.zhangkai.xin/rss.xml">项目说明列表</source>
+      <content:encoded><![CDATA[<p>点击上方的链接查看我的项目说明</p>
+]]></content:encoded>
     </item>
     <item>
       <title>博客主页</title>
