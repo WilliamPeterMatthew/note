@@ -6,11 +6,11 @@
     <link>https://note.zhangkai.xin/</link>
     <description>A Konjac in Province H.A.'s Note</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 03 Jul 2022 07:21:31 GMT</pubDate>
-    <lastBuildDate>Sun, 03 Jul 2022 07:21:31 GMT</lastBuildDate>
+    <pubDate>Sun, 03 Jul 2022 10:47:18 GMT</pubDate>
+    <lastBuildDate>Sun, 03 Jul 2022 10:47:18 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <copyright>笔记非常自豪地使用了&lt;a href="https://vuepress.vuejs.org/" target="_blank"&gt; VuePress &lt;/a&gt;生成 | 主题是&lt;a href="https://github.com/vuepress-theme-hope/vuepress-theme-hope" target="_blank"&gt; Hope &lt;/a&gt;&lt;br&gt;主题作者为&lt;a href="https://github.com/Mister-Hope"&gt; Mr.Hope &lt;/a&gt; | 经过&lt;a href="https://github.com/WilliamPeterMatthew"&gt; WilliamPeterMatthew &lt;/a&gt;修改&lt;br&gt;使用 CC BY-NC-SA 4.0 许可 | &amp;copy; 2018 - 2022 张开昕 版权所有&lt;br&gt;&lt;a href="http://beian.miit.gov.cn/" target="_blank" rel="noopener nofollow"&gt;&lt;img src="/pic/beian/icp备案.png" width="18" height="18"&gt; 豫ICP备20022692号-1&lt;/a&gt; | &lt;a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41030502000313" target="_blank" rel="noopener nofollow"&gt;&lt;img src="/pic/beian/公安备案.png" width="18" height="18"&gt; 豫公网安备 41030502000313号&lt;/a&gt;&lt;div class="copyright"&gt;&lt;br&gt;&lt;a href="/NSP-IS-PRC.html" target="_blank" rel="noopener nofollow"&gt;中华人民共和国国家信息安全等级保护第一级（自主保护级）&lt;/a&gt;&lt;br&gt;&lt;/div&gt;</copyright>
+    <copyright>笔记非常自豪地使用了&lt;a href="https://vuepress.vuejs.org/" target="_blank"&gt; VuePress &lt;/a&gt;生成 | 主题是&lt;a href="https://github.com/vuepress-theme-hope/vuepress-theme-hope" target="_blank"&gt; Hope &lt;/a&gt;&lt;br&gt;主题作者为&lt;a href="https://github.com/Mister-Hope"&gt; Mr.Hope &lt;/a&gt; | 经过&lt;a href="https://github.com/WilliamPeterMatthew"&gt; WilliamPeterMatthew &lt;/a&gt;修改&lt;br&gt;使用 CC BY-NC-SA 4.0 许可 | &amp;copy; 2018 - 2022 张开昕 版权所有&lt;br&gt;&lt;a href="http://beian.miit.gov.cn/" target="_blank" rel="noopener nofollow"&gt;&lt;img src="/pic/beian/icp备案.png" width="18" height="18"&gt; 豫ICP备20022692号-1&lt;/a&gt; | &lt;a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41030502000313" target="_blank" rel="noopener nofollow"&gt;&lt;img src="/pic/beian/公安备案.png" width="18" height="18"&gt; 豫公网安备 41030502000313号&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href="/NSP-IS-PRC.html" target="_self" rel="noopener nofollow"&gt;中华人民共和国国家信息安全等级保护第一级（自主保护级）&lt;/a&gt;&lt;br&gt;</copyright>
     <item>
       <title>关于</title>
       <link>https://note.zhangkai.xin/about/</link>
@@ -34,6 +34,18 @@
 <p><img src="/pic/0076VEu5ly1g09gtou8spj30u009eacd.jpg" alt="" /></p>
 ]]></content:encoded>
       <enclosure url="https://note.zhangkai.xin/pic/qq_1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>CPPU-OneClickLogin</title>
+      <link>https://note.zhangkai.xin/project/cppuocl/</link>
+      <guid>https://note.zhangkai.xin/project/cppuocl/</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">CPPU-OneClickLogin</source>
+      <content:encoded><![CDATA[<p>CPPU一键登录校园网</p>
+<p><a href="https://github.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases" target="_blank" rel="noopener noreferrer">Github下载</a> | <a href="https://gitee.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases/" target="_blank" rel="noopener noreferrer">Gitee下载</a></p>
+<h2 id="使用"> 使用</h2>
+<p>点击上方链接进入本项目仓库发行版界面，下载最新档到本地并打开目录。</p>
+<p>修改文件 <code>账号密码.txt</code> ，该文件第一行为你的账号，第二行为你的密码，然后运行从发行版中下载的程序即可登录。</p>
+]]></content:encoded>
     </item>
     <item>
       <title>【置顶】我和友链了解一下</title>
@@ -96,15 +108,11 @@
       <enclosure url="https://note.zhangkai.xin/pic/qq_1.png" type="image/png"/>
     </item>
     <item>
-      <title>CPPU-OneClickLogin</title>
-      <link>https://note.zhangkai.xin/project/cppuocl/</link>
-      <guid>https://note.zhangkai.xin/project/cppuocl/</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">CPPU-OneClickLogin</source>
-      <content:encoded><![CDATA[<p>CPPU一键登录校园网</p>
-<p><a href="https://github.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases" target="_blank" rel="noopener noreferrer">Github下载</a> | <a href="https://gitee.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases/" target="_blank" rel="noopener noreferrer">Gitee下载</a></p>
-<h2 id="使用"> 使用</h2>
-<p>点击上方链接进入本项目仓库发行版界面，下载最新档到本地并打开目录。</p>
-<p>修改文件 <code>账号密码.txt</code> ，该文件第一行为你的账号，第二行为你的密码，然后运行从发行版中下载的程序即可登录。</p>
+      <title>说明主页</title>
+      <link>https://note.zhangkai.xin/project/</link>
+      <guid>https://note.zhangkai.xin/project/</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">说明主页</source>
+      <content:encoded><![CDATA[<p>欢迎点击上方内容查看我的笔记内容。</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -297,14 +305,6 @@ XX
 XXX
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br></div></div><p>第一行最后一部分就是统计出的人数，下方就是统计出来的人员名单。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>说明主页</title>
-      <link>https://note.zhangkai.xin/project/</link>
-      <guid>https://note.zhangkai.xin/project/</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">说明主页</source>
-      <content:encoded><![CDATA[<p>欢迎点击上方内容查看我的笔记内容。</p>
 ]]></content:encoded>
     </item>
     <item>
