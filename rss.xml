@@ -6,8 +6,8 @@
     <link>https://note.cf.zhangkai.xin/</link>
     <description>A Konjac in Province H.A.'s Note</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 03 Jul 2022 10:47:18 GMT</pubDate>
-    <lastBuildDate>Sun, 03 Jul 2022 10:47:18 GMT</lastBuildDate>
+    <pubDate>Mon, 04 Jul 2022 17:43:01 GMT</pubDate>
+    <lastBuildDate>Mon, 04 Jul 2022 17:43:01 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>笔记非常自豪地使用了&lt;a href="https://vuepress.vuejs.org/" target="_blank"&gt; VuePress &lt;/a&gt;生成 | 主题是&lt;a href="https://github.com/vuepress-theme-hope/vuepress-theme-hope" target="_blank"&gt; Hope &lt;/a&gt;&lt;br&gt;主题作者为&lt;a href="https://github.com/Mister-Hope"&gt; Mr.Hope &lt;/a&gt; | 经过&lt;a href="https://github.com/WilliamPeterMatthew"&gt; WilliamPeterMatthew &lt;/a&gt;修改&lt;br&gt;使用 CC BY-NC-SA 4.0 许可 | &amp;copy; 2018 - 2022 张开昕 版权所有&lt;br&gt;&lt;a href="http://beian.miit.gov.cn/" target="_blank" rel="noopener nofollow"&gt;&lt;img src="/pic/beian/icp备案.png" width="18" height="18"&gt; 豫ICP备20022692号-1&lt;/a&gt; | &lt;a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41030502000313" target="_blank" rel="noopener nofollow"&gt;&lt;img src="/pic/beian/公安备案.png" width="18" height="18"&gt; 豫公网安备 41030502000313号&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href="/NSP-IS-PRC.html" target="_self" rel="noopener nofollow"&gt;中华人民共和国国家信息安全等级保护第一级（自主保护级）&lt;/a&gt;&lt;br&gt;</copyright>
@@ -36,18 +36,6 @@
       <enclosure url="https://note.cf.zhangkai.xin/pic/qq_1.png" type="image/png"/>
     </item>
     <item>
-      <title>CPPU-OneClickLogin</title>
-      <link>https://note.cf.zhangkai.xin/project/cppuocl/</link>
-      <guid>https://note.cf.zhangkai.xin/project/cppuocl/</guid>
-      <source url="https://note.cf.zhangkai.xin/rss.xml">CPPU-OneClickLogin</source>
-      <content:encoded><![CDATA[<p>CPPU一键登录校园网</p>
-<p><a href="https://github.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases" target="_blank" rel="noopener noreferrer">Github下载</a> | <a href="https://gitee.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases/" target="_blank" rel="noopener noreferrer">Gitee下载</a></p>
-<h2 id="使用"> 使用</h2>
-<p>点击上方链接进入本项目仓库发行版界面，下载最新档到本地并打开目录。</p>
-<p>修改文件 <code>账号密码.txt</code> ，该文件第一行为你的账号，第二行为你的密码，然后运行从发行版中下载的程序即可登录。</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>【置顶】我和友链了解一下</title>
       <link>https://note.cf.zhangkai.xin/articles/friend-links/</link>
       <guid>https://note.cf.zhangkai.xin/articles/friend-links/</guid>
@@ -69,8 +57,8 @@
 <a href="https://www.luogu.org/blog/asdfghjkl123/" target="_blank" rel="noopener noreferrer">asdfghjkl123（徐方舟）</a><br>
 <a href="https://www.luogu.org/blog/Davids/" target="_blank" rel="noopener noreferrer">David_Liu（刘大维）</a><br>
 <a href="https://micardi.github.io/" target="_blank" rel="noopener noreferrer">Micardi（陈旭坤）</a><br>
-⚠<a href="https://cs18.coding.me/" target="_blank" rel="noopener noreferrer">cs18（孙锦洋）</a><br>
-⚠<a href="https://francis_noco.coding.me/" target="_blank" rel="noopener noreferrer">(Francis_)noco（孙启皓）</a><br>
+<br>
+<br>
 <a href="https://www.zybuluo.com/Bei-S/note/1381469" target="_blank" rel="noopener noreferrer">Yue-S（王子骏）</a><br>
 <a href="https://www.luogu.org/blog/speedforce/" target="_blank" rel="noopener noreferrer">Ezio_0420（李明达）</a></p>
 <h3 id="学长学姐"> 学长学姐</h3>
@@ -93,7 +81,7 @@
 <a href="https://www.th31nk.ltd" target="_blank" rel="noopener noreferrer">th31nk（石冀）</a>
 <a href="https://www.meowers.ltd" target="_blank" rel="noopener noreferrer">2hl0k3r（徐浩翔）</a></p>
 <h2 id="几位oier"> 几位OIer</h2>
-<p><a href="http://www.koalast.xyz/" target="_blank" rel="noopener noreferrer">ST.Koala(赵圣元)</a></p>
+<p></p>
 <h2 id="几位老师"> 几位老师</h2>
 <p><a href="https://www.luogu.com.cn/user/12287" target="_blank" rel="noopener noreferrer">yxdgogogo（杨晓东）(Luogu Space)</a><br>
 <a href="https://www.luogu.com.cn/user/35392" target="_blank" rel="noopener noreferrer">Danbo_1010（贺帅）(Luogu Space)</a></p>
@@ -106,6 +94,24 @@
 </blockquote>
 ]]></content:encoded>
       <enclosure url="https://note.cf.zhangkai.xin/pic/qq_1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>CPPU-OneClickLogin</title>
+      <link>https://note.cf.zhangkai.xin/project/cppuocl/</link>
+      <guid>https://note.cf.zhangkai.xin/project/cppuocl/</guid>
+      <source url="https://note.cf.zhangkai.xin/rss.xml">CPPU-OneClickLogin</source>
+      <content:encoded><![CDATA[<p>CPPU一键登录校园网</p>
+<p><a href="https://github.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases" target="_blank" rel="noopener noreferrer">Github下载</a> | <a href="https://gitee.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases/" target="_blank" rel="noopener noreferrer">Gitee下载</a></p>
+<h2 id="使用"> 使用</h2>
+<p>点击上方链接进入本项目仓库发行版界面，下载最新档到本地并打开目录。</p>
+<p>修改文件 <code>账号密码.txt</code> ，该文件第一行为你的账号，第二行为你的密码，然后运行从发行版中下载的程序即可登录。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>笔记主页</title>
+      <link>https://note.cf.zhangkai.xin/</link>
+      <guid>https://note.cf.zhangkai.xin/</guid>
+      <source url="https://note.cf.zhangkai.xin/rss.xml">笔记主页</source>
     </item>
     <item>
       <title>说明主页</title>
@@ -306,12 +312,6 @@ XXX
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br></div></div><p>第一行最后一部分就是统计出的人数，下方就是统计出来的人员名单。</p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>笔记主页</title>
-      <link>https://note.cf.zhangkai.xin/</link>
-      <guid>https://note.cf.zhangkai.xin/</guid>
-      <source url="https://note.cf.zhangkai.xin/rss.xml">笔记主页</source>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
   <author>
     <name>William Peter Matthew</name>
   </author>
-  <updated>2022-07-03T10:47:18.550Z</updated>
+  <updated>2022-07-04T17:43:01.711Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://note.cf.zhangkai.xin/atom.xml"/>
   <link rel="alternate" href="https://note.cf.zhangkai.xin/"/>
@@ -18,7 +18,7 @@
     <title type="html">关于</title>
     <id>https://note.cf.zhangkai.xin/about/</id>
     <link href="https://note.cf.zhangkai.xin/about/"/>
-    <updated>2022-07-03T10:47:53.702Z</updated>
+    <updated>2022-07-04T17:43:33.413Z</updated>
     <content type="html"><![CDATA[<h2 id="我"> 我？</h2>
 <p>张开昕（男，2002/04/20 — ），（经常使用WilliamPeterMatthew、Peter_Matthew作为用户名，）一个曾经的HA省OIer，一名大学本科在读生，喜爱计算机。。。<br>
 <a href="https://www.zhangkai.xin/" target="_blank" rel="noopener noreferrer">.Xin博客</a> <a href="https://www.zhangkai.xin/atom.xml" target="_blank" rel="noopener noreferrer">RSS订阅</a></p>
@@ -45,29 +45,10 @@
     <rights>Copyright by William Peter Matthew</rights>
   </entry>
   <entry>
-    <title type="html">CPPU-OneClickLogin</title>
-    <id>https://note.cf.zhangkai.xin/project/cppuocl/</id>
-    <link href="https://note.cf.zhangkai.xin/project/cppuocl/"/>
-    <updated>2022-07-03T10:47:53.702Z</updated>
-    <content type="html"><![CDATA[<p>CPPU一键登录校园网</p>
-<p><a href="https://github.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases" target="_blank" rel="noopener noreferrer">Github下载</a> | <a href="https://gitee.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases/" target="_blank" rel="noopener noreferrer">Gitee下载</a></p>
-<h2 id="使用"> 使用</h2>
-<p>点击上方链接进入本项目仓库发行版界面，下载最新档到本地并打开目录。</p>
-<p>修改文件 <code>账号密码.txt</code> ，该文件第一行为你的账号，第二行为你的密码，然后运行从发行版中下载的程序即可登录。</p>
-]]></content>
-    <author>
-      <name>William Peter Matthew</name>
-    </author>
-    <contributor>
-      <name>William Peter Matthew</name>
-    </contributor>
-    <rights>Copyright by William Peter Matthew</rights>
-  </entry>
-  <entry>
     <title type="html">【置顶】我和友链了解一下</title>
     <id>https://note.cf.zhangkai.xin/articles/friend-links/</id>
     <link href="https://note.cf.zhangkai.xin/articles/friend-links/"/>
-    <updated>2022-07-03T10:47:53.705Z</updated>
+    <updated>2022-07-04T17:43:33.416Z</updated>
     <content type="html"><![CDATA[<h2 id="我"> 我？</h2>
 <p>张开昕（男，2002/04/20 — ），（经常使用WilliamPeterMatthew、Peter_Matthew作为用户名，）一个曾经的HA省OIer，一名大学本科在读生，喜爱计算机。。。<br>
 <a href="https://www.zhangkai.xin/" target="_blank" rel="noopener noreferrer">.Xin博客</a> <a href="https://www.zhangkai.xin/atom.xml" target="_blank" rel="noopener noreferrer">RSS订阅</a></p>
@@ -85,8 +66,8 @@
 <a href="https://www.luogu.org/blog/asdfghjkl123/" target="_blank" rel="noopener noreferrer">asdfghjkl123（徐方舟）</a><br>
 <a href="https://www.luogu.org/blog/Davids/" target="_blank" rel="noopener noreferrer">David_Liu（刘大维）</a><br>
 <a href="https://micardi.github.io/" target="_blank" rel="noopener noreferrer">Micardi（陈旭坤）</a><br>
-⚠<a href="https://cs18.coding.me/" target="_blank" rel="noopener noreferrer">cs18（孙锦洋）</a><br>
-⚠<a href="https://francis_noco.coding.me/" target="_blank" rel="noopener noreferrer">(Francis_)noco（孙启皓）</a><br>
+<br>
+<br>
 <a href="https://www.zybuluo.com/Bei-S/note/1381469" target="_blank" rel="noopener noreferrer">Yue-S（王子骏）</a><br>
 <a href="https://www.luogu.org/blog/speedforce/" target="_blank" rel="noopener noreferrer">Ezio_0420（李明达）</a></p>
 <h3 id="学长学姐"> 学长学姐</h3>
@@ -109,7 +90,7 @@
 <a href="https://www.th31nk.ltd" target="_blank" rel="noopener noreferrer">th31nk（石冀）</a>
 <a href="https://www.meowers.ltd" target="_blank" rel="noopener noreferrer">2hl0k3r（徐浩翔）</a></p>
 <h2 id="几位oier"> 几位OIer</h2>
-<p><a href="http://www.koalast.xyz/" target="_blank" rel="noopener noreferrer">ST.Koala(赵圣元)</a></p>
+<p></p>
 <h2 id="几位老师"> 几位老师</h2>
 <p><a href="https://www.luogu.com.cn/user/12287" target="_blank" rel="noopener noreferrer">yxdgogogo（杨晓东）(Luogu Space)</a><br>
 <a href="https://www.luogu.com.cn/user/35392" target="_blank" rel="noopener noreferrer">Danbo_1010（贺帅）(Luogu Space)</a></p>
@@ -130,10 +111,42 @@
     <rights>Copyright by William Peter Matthew</rights>
   </entry>
   <entry>
+    <title type="html">CPPU-OneClickLogin</title>
+    <id>https://note.cf.zhangkai.xin/project/cppuocl/</id>
+    <link href="https://note.cf.zhangkai.xin/project/cppuocl/"/>
+    <updated>2022-07-04T17:43:33.416Z</updated>
+    <content type="html"><![CDATA[<p>CPPU一键登录校园网</p>
+<p><a href="https://github.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases" target="_blank" rel="noopener noreferrer">Github下载</a> | <a href="https://gitee.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases/" target="_blank" rel="noopener noreferrer">Gitee下载</a></p>
+<h2 id="使用"> 使用</h2>
+<p>点击上方链接进入本项目仓库发行版界面，下载最新档到本地并打开目录。</p>
+<p>修改文件 <code>账号密码.txt</code> ，该文件第一行为你的账号，第二行为你的密码，然后运行从发行版中下载的程序即可登录。</p>
+]]></content>
+    <author>
+      <name>William Peter Matthew</name>
+    </author>
+    <contributor>
+      <name>William Peter Matthew</name>
+    </contributor>
+    <rights>Copyright by William Peter Matthew</rights>
+  </entry>
+  <entry>
+    <title type="html">笔记主页</title>
+    <id>https://note.cf.zhangkai.xin/</id>
+    <link href="https://note.cf.zhangkai.xin/"/>
+    <updated>2022-07-04T17:43:33.425Z</updated>
+    <author>
+      <name>William Peter Matthew</name>
+    </author>
+    <contributor>
+      <name>William Peter Matthew</name>
+    </contributor>
+    <rights>Copyright by William Peter Matthew</rights>
+  </entry>
+  <entry>
     <title type="html">说明主页</title>
     <id>https://note.cf.zhangkai.xin/project/</id>
     <link href="https://note.cf.zhangkai.xin/project/"/>
-    <updated>2022-07-03T10:47:53.705Z</updated>
+    <updated>2022-07-04T17:43:33.425Z</updated>
     <content type="html"><![CDATA[<p>欢迎点击上方内容查看我的笔记内容。</p>
 ]]></content>
     <author>
@@ -148,7 +161,7 @@
     <title type="html">CPPU-TimeTableSearching</title>
     <id>https://note.cf.zhangkai.xin/project/cpputts/</id>
     <link href="https://note.cf.zhangkai.xin/project/cpputts/"/>
-    <updated>2022-07-03T10:47:53.709Z</updated>
+    <updated>2022-07-04T17:43:33.429Z</updated>
     <content type="html"><![CDATA[<p>CPPU查询某一节课有多少人上课</p>
 <p><a href="https://github.com/WilliamPeterMatthew/CPPU-TimeTableSearching/releases" target="_blank" rel="noopener noreferrer">Github下载</a> | <a href="https://gitee.com/WilliamPeterMatthew/CPPU-TimeTableSearching/releases/" target="_blank" rel="noopener noreferrer">Gitee下载</a></p>
 <h2 id="初始化"> 初始化</h2>
@@ -335,19 +348,6 @@ XXX
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br></div></div><p>第一行最后一部分就是统计出的人数，下方就是统计出来的人员名单。</p>
 ]]></content>
-    <author>
-      <name>William Peter Matthew</name>
-    </author>
-    <contributor>
-      <name>William Peter Matthew</name>
-    </contributor>
-    <rights>Copyright by William Peter Matthew</rights>
-  </entry>
-  <entry>
-    <title type="html">笔记主页</title>
-    <id>https://note.cf.zhangkai.xin/</id>
-    <link href="https://note.cf.zhangkai.xin/"/>
-    <updated>2022-07-03T10:47:53.718Z</updated>
     <author>
       <name>William Peter Matthew</name>
     </author>
