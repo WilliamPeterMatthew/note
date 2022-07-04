@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://note.cf.zhangkai.xin/sitemap.xml
+Sitemap: https://note.gh.zhangkai.xin/sitemap.xml

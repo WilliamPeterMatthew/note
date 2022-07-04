@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-  <id>https://note.cf.zhangkai.xin/</id>
+  <id>https://note.gh.zhangkai.xin/</id>
   <title>Peter_Matthew的笔记</title>
   <subtitle>A Konjac in Province H.A.'s Note</subtitle>
   <author>
@@ -8,16 +8,16 @@
   </author>
   <updated>2022-07-04T17:43:01.711Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
-  <link rel="self" href="https://note.cf.zhangkai.xin/atom.xml"/>
-  <link rel="alternate" href="https://note.cf.zhangkai.xin/"/>
+  <link rel="self" href="https://note.gh.zhangkai.xin/atom.xml"/>
+  <link rel="alternate" href="https://note.gh.zhangkai.xin/"/>
   <rights>笔记非常自豪地使用了&lt;a href="https://vuepress.vuejs.org/" target="_blank"&gt; VuePress &lt;/a&gt;生成 | 主题是&lt;a href="https://github.com/vuepress-theme-hope/vuepress-theme-hope" target="_blank"&gt; Hope &lt;/a&gt;&lt;br&gt;主题作者为&lt;a href="https://github.com/Mister-Hope"&gt; Mr.Hope &lt;/a&gt; | 经过&lt;a href="https://github.com/WilliamPeterMatthew"&gt; WilliamPeterMatthew &lt;/a&gt;修改&lt;br&gt;使用 CC BY-NC-SA 4.0 许可 | &amp;copy; 2018 - 2022 张开昕 版权所有&lt;br&gt;&lt;a href="http://beian.miit.gov.cn/" target="_blank" rel="noopener nofollow"&gt;&lt;img src="/pic/beian/icp备案.png" width="18" height="18"&gt; 豫ICP备20022692号-1&lt;/a&gt; | &lt;a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41030502000313" target="_blank" rel="noopener nofollow"&gt;&lt;img src="/pic/beian/公安备案.png" width="18" height="18"&gt; 豫公网安备 41030502000313号&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href="/NSP-IS-PRC.html" target="_self" rel="noopener nofollow"&gt;中华人民共和国国家信息安全等级保护第一级（自主保护级）&lt;/a&gt;&lt;br&gt;</rights>
   <contributor>
     <name>William Peter Matthew</name>
   </contributor>
   <entry>
     <title type="html">关于</title>
-    <id>https://note.cf.zhangkai.xin/about/</id>
-    <link href="https://note.cf.zhangkai.xin/about/"/>
+    <id>https://note.gh.zhangkai.xin/about/</id>
+    <link href="https://note.gh.zhangkai.xin/about/"/>
     <updated>2022-07-04T17:43:33.413Z</updated>
     <content type="html"><![CDATA[<h2 id="我"> 我？</h2>
 <p>张开昕（男，2002/04/20 — ），（经常使用WilliamPeterMatthew、Peter_Matthew作为用户名，）一个曾经的HA省OIer，一名大学本科在读生，喜爱计算机。。。<br>
@@ -46,8 +46,8 @@
   </entry>
   <entry>
     <title type="html">【置顶】我和友链了解一下</title>
-    <id>https://note.cf.zhangkai.xin/articles/friend-links/</id>
-    <link href="https://note.cf.zhangkai.xin/articles/friend-links/"/>
+    <id>https://note.gh.zhangkai.xin/articles/friend-links/</id>
+    <link href="https://note.gh.zhangkai.xin/articles/friend-links/"/>
     <updated>2022-07-04T17:43:33.416Z</updated>
     <content type="html"><![CDATA[<h2 id="我"> 我？</h2>
 <p>张开昕（男，2002/04/20 — ），（经常使用WilliamPeterMatthew、Peter_Matthew作为用户名，）一个曾经的HA省OIer，一名大学本科在读生，喜爱计算机。。。<br>
@@ -112,8 +112,8 @@
   </entry>
   <entry>
     <title type="html">CPPU-OneClickLogin</title>
-    <id>https://note.cf.zhangkai.xin/project/cppuocl/</id>
-    <link href="https://note.cf.zhangkai.xin/project/cppuocl/"/>
+    <id>https://note.gh.zhangkai.xin/project/cppuocl/</id>
+    <link href="https://note.gh.zhangkai.xin/project/cppuocl/"/>
     <updated>2022-07-04T17:43:33.416Z</updated>
     <content type="html"><![CDATA[<p>CPPU一键登录校园网</p>
 <p><a href="https://github.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases" target="_blank" rel="noopener noreferrer">Github下载</a> | <a href="https://gitee.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases/" target="_blank" rel="noopener noreferrer">Gitee下载</a></p>
@@ -131,8 +131,8 @@
   </entry>
   <entry>
     <title type="html">笔记主页</title>
-    <id>https://note.cf.zhangkai.xin/</id>
-    <link href="https://note.cf.zhangkai.xin/"/>
+    <id>https://note.gh.zhangkai.xin/</id>
+    <link href="https://note.gh.zhangkai.xin/"/>
     <updated>2022-07-04T17:43:33.425Z</updated>
     <author>
       <name>William Peter Matthew</name>
@@ -144,8 +144,8 @@
   </entry>
   <entry>
     <title type="html">说明主页</title>
-    <id>https://note.cf.zhangkai.xin/project/</id>
-    <link href="https://note.cf.zhangkai.xin/project/"/>
+    <id>https://note.gh.zhangkai.xin/project/</id>
+    <link href="https://note.gh.zhangkai.xin/project/"/>
     <updated>2022-07-04T17:43:33.425Z</updated>
     <content type="html"><![CDATA[<p>欢迎点击上方内容查看我的笔记内容。</p>
 ]]></content>
@@ -159,8 +159,8 @@
   </entry>
   <entry>
     <title type="html">CPPU-TimeTableSearching</title>
-    <id>https://note.cf.zhangkai.xin/project/cpputts/</id>
-    <link href="https://note.cf.zhangkai.xin/project/cpputts/"/>
+    <id>https://note.gh.zhangkai.xin/project/cpputts/</id>
+    <link href="https://note.gh.zhangkai.xin/project/cpputts/"/>
     <updated>2022-07-04T17:43:33.429Z</updated>
     <content type="html"><![CDATA[<p>CPPU查询某一节课有多少人上课</p>
 <p><a href="https://github.com/WilliamPeterMatthew/CPPU-TimeTableSearching/releases" target="_blank" rel="noopener noreferrer">Github下载</a> | <a href="https://gitee.com/WilliamPeterMatthew/CPPU-TimeTableSearching/releases/" target="_blank" rel="noopener noreferrer">Gitee下载</a></p>
