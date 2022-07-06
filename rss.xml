@@ -6,50 +6,26 @@
     <link>https://note.gh.zhangkai.xin/</link>
     <description>A Konjac in Province H.A.'s Note</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 04 Jul 2022 17:43:01 GMT</pubDate>
-    <lastBuildDate>Mon, 04 Jul 2022 17:43:01 GMT</lastBuildDate>
-    <generator>@mr-hope/vuepress-plugin-feed</generator>
+    <pubDate>Wed, 06 Jul 2022 05:58:48 GMT</pubDate>
+    <lastBuildDate>Wed, 06 Jul 2022 05:58:48 GMT</lastBuildDate>
+    <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <copyright>笔记非常自豪地使用了&lt;a href="https://vuepress.vuejs.org/" target="_blank"&gt; VuePress &lt;/a&gt;生成 | 主题是&lt;a href="https://github.com/vuepress-theme-hope/vuepress-theme-hope" target="_blank"&gt; Hope &lt;/a&gt;&lt;br&gt;主题作者为&lt;a href="https://github.com/Mister-Hope"&gt; Mr.Hope &lt;/a&gt; | 经过&lt;a href="https://github.com/WilliamPeterMatthew"&gt; WilliamPeterMatthew &lt;/a&gt;修改&lt;br&gt;使用 CC BY-NC-SA 4.0 许可 | &amp;copy; 2018 - 2022 张开昕 版权所有&lt;br&gt;&lt;a href="http://beian.miit.gov.cn/" target="_blank" rel="noopener nofollow"&gt;&lt;img src="/pic/beian/icp备案.png" width="18" height="18"&gt; 豫ICP备20022692号-1&lt;/a&gt; | &lt;a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41030502000313" target="_blank" rel="noopener nofollow"&gt;&lt;img src="/pic/beian/公安备案.png" width="18" height="18"&gt; 豫公网安备 41030502000313号&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href="/NSP-IS-PRC.html" target="_self" rel="noopener nofollow"&gt;中华人民共和国国家信息安全等级保护第一级（自主保护级）&lt;/a&gt;&lt;br&gt;</copyright>
-    <item>
-      <title>关于</title>
-      <link>https://note.gh.zhangkai.xin/about/</link>
-      <guid>https://note.gh.zhangkai.xin/about/</guid>
-      <source url="https://note.gh.zhangkai.xin/rss.xml">关于</source>
-      <content:encoded><![CDATA[<h2 id="我"> 我？</h2>
-<p>张开昕（男，2002/04/20 — ），（经常使用WilliamPeterMatthew、Peter_Matthew作为用户名，）一个曾经的HA省OIer，一名大学本科在读生，喜爱计算机。。。<br>
-<a href="https://www.gh.zhangkai.xin/" target="_blank" rel="noopener noreferrer">.Xin博客</a> <a href="https://www.gh.zhangkai.xin/atom.xml" target="_blank" rel="noopener noreferrer">RSS订阅</a></p>
-<p><a href="http://sighttp.qq.com/authd?IDKEY=950ae6bebc382b5f992bb615a23334fb90cbfae4201b1473" target="_blank" rel="noopener noreferrer"><img src="/pic/qq_1.png" alt="与我进行QQ交谈" /></a></p>
-<p>Email: <a href="mailto:contact@zhangkai.xin">contact@zhangkai.xin</a></p>
-<h2 id="笔记的搭建"> 笔记的搭建</h2>
-<p>笔记采用<a href="https://vuepress.vuejs.org/" target="_blank" rel="noopener noreferrer">VuePress</a>搭建并使用<a href="https://github.com/vuepress-theme-hope/vuepress-theme-hope" target="_blank" rel="noopener noreferrer">Hope</a>主题。<br>
-主题作者为<a href="https://github.com/Mister-Hope" target="_blank" rel="noopener noreferrer">Mr.Hope</a>，经过<a href="https://github.com/WilliamPeterMatthew" target="_blank" rel="noopener noreferrer">WilliamPeterMatthew</a>改动。</p>
-<h2 id="协议"> 协议</h2>
-<blockquote>
-<p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank" rel="noopener noreferrer"><img src="/pic/license/BY-NC-SA_80x15.png" alt="知识共享许可协议" /></a></p>
-<p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank" rel="noopener noreferrer"><img src="/pic/license/BY-NC-SA_88x31.png" alt="知识共享许可协议" /></a></p>
-<p>笔记的作品均采用<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank" rel="noopener noreferrer">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。<br>
-更多关于此协议的详细信息可以查看<a href="https://github.com/WilliamPeterMatthew/note/blob/master/LICENSE-zh_CN" target="_blank" rel="noopener noreferrer">LICENSE</a>文件或者查看其官方的<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans" target="_blank" rel="noopener noreferrer">legalcode</a>版本。</p>
-</blockquote>
-<p><img src="/pic/0076VEu5ly1g09gtou8spj30u009eacd.jpg" alt="" /></p>
-]]></content:encoded>
-      <enclosure url="https://note.gh.zhangkai.xin/pic/qq_1.png" type="image/png"/>
-    </item>
     <item>
       <title>【置顶】我和友链了解一下</title>
-      <link>https://note.gh.zhangkai.xin/articles/friend-links/</link>
-      <guid>https://note.gh.zhangkai.xin/articles/friend-links/</guid>
+      <link>https://note.gh.zhangkai.xin/posts/friend-links.html</link>
+      <guid>https://note.gh.zhangkai.xin/posts/friend-links.html</guid>
       <source url="https://note.gh.zhangkai.xin/rss.xml">【置顶】我和友链了解一下</source>
-      <content:encoded><![CDATA[<h2 id="我"> 我？</h2>
+      <pubDate>Sat, 28 Aug 2021 11:27:14 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="我" tabindex="-1"> 我？</h2>
 <p>张开昕（男，2002/04/20 — ），（经常使用WilliamPeterMatthew、Peter_Matthew作为用户名，）一个曾经的HA省OIer，一名大学本科在读生，喜爱计算机。。。<br>
 <a href="https://www.gh.zhangkai.xin/" target="_blank" rel="noopener noreferrer">.Xin博客</a> <a href="https://www.gh.zhangkai.xin/atom.xml" target="_blank" rel="noopener noreferrer">RSS订阅</a></p>
-<p><a href="http://sighttp.qq.com/authd?IDKEY=950ae6bebc382b5f992bb615a23334fb90cbfae4201b1473" target="_blank" rel="noopener noreferrer"><img src="/pic/qq_1.png" alt="与我进行QQ交谈" /></a></p>
+<p><a href="http://sighttp.qq.com/authd?IDKEY=950ae6bebc382b5f992bb615a23334fb90cbfae4201b1473" target="_blank" rel="noopener noreferrer"><img src="/pic/qq_1.png" alt="与我进行QQ交谈"></a></p>
 <p>Email: <a href="mailto:contact@zhangkai.xin">contact@zhangkai.xin</a></p>
-<h2 id="小学同学"> 小学同学</h2>
-<h3 id="同届"> 同届</h3>
+<h2 id="小学同学" tabindex="-1"> 小学同学</h2>
+<h3 id="同届" tabindex="-1"> 同届</h3>
 <p><a href="https://hbai.site/" target="_blank" rel="noopener noreferrer">H. Bai（白颢阳）</a></p>
-<h2 id="高中同学"> 高中同学</h2>
-<h3 id="同届-2"> 同届</h3>
+<h2 id="高中同学" tabindex="-1"> 高中同学</h2>
+<h3 id="同届-1" tabindex="-1"> 同届</h3>
 <p><a href="https://syrsteven.github.io/" target="_blank" rel="noopener noreferrer">Steven7（尚元睿）</a><br>
 <a href="https://utjb.gitee.io/" target="_blank" rel="noopener noreferrer">树下（柴靖博）</a><br>
 <a href="https://www.luogu.org/blog/czj586240000/" target="_blank" rel="noopener noreferrer">陈子骏</a><br>
@@ -57,39 +33,39 @@
 <a href="https://www.luogu.org/blog/asdfghjkl123/" target="_blank" rel="noopener noreferrer">asdfghjkl123（徐方舟）</a><br>
 <a href="https://www.luogu.org/blog/Davids/" target="_blank" rel="noopener noreferrer">David_Liu（刘大维）</a><br>
 <a href="https://micardi.github.io/" target="_blank" rel="noopener noreferrer">Micardi（陈旭坤）</a><br>
-<br>
-<br>
+<a href="https://cs18.coding.me/" target="_blank" rel="noopener noreferrer">cs18（孙锦洋）</a><br>
+<a href="https://francis_noco.coding.me/" target="_blank" rel="noopener noreferrer">(Francis_)noco（孙启皓）</a><br>
 <a href="https://www.zybuluo.com/Bei-S/note/1381469" target="_blank" rel="noopener noreferrer">Yue-S（王子骏）</a><br>
 <a href="https://www.luogu.org/blog/speedforce/" target="_blank" rel="noopener noreferrer">Ezio_0420（李明达）</a></p>
-<h3 id="学长学姐"> 学长学姐</h3>
+<h3 id="学长学姐" tabindex="-1"> 学长学姐</h3>
 <p><a href="https://pb0207.github.io/" target="_blank" rel="noopener noreferrer">pb0207（彭博）</a><br>
 <a href="https://prostkhala.github.io/" target="_blank" rel="noopener noreferrer">ProSTKhala（苏同）</a><br>
 <a href="https://zhangche0526.github.io/" target="_blank" rel="noopener noreferrer">zhangche0526（张澈）</a><br>
 <a href="https://www.zybuluo.com/KirinBill/note/878927" target="_blank" rel="noopener noreferrer">KirinBill（徐文博）</a><br>
 <a href="https://www.zybuluo.com/zzzc18/note/789450" target="_blank" rel="noopener noreferrer">zzzc18（张维璞）</a><br>
 <a href="https://fancypei.github.io/" target="_blank" rel="noopener noreferrer">Fancy（裴一凡）</a></p>
-<h3 id="学弟学妹"> 学弟学妹</h3>
+<h3 id="学弟学妹" tabindex="-1"> 学弟学妹</h3>
 <p><a href="https://wa-automaton.github.io/" target="_blank" rel="noopener noreferrer">_WA自动机（许铎）</a><br>
 <a href="https://www.luogu.com.cn/blog/Vectory/" target="_blank" rel="noopener noreferrer">Vectory（赵正阳）</a><br>
 <a href="https://ctp314.github.io/" target="_blank" rel="noopener noreferrer">CTP_314（卢宸昊）</a><br>
 <a href="https://ztw0609.blog.luogu.org/" target="_blank" rel="noopener noreferrer">快乐的ZTW（张泰玮）</a></p>
-<h2 id="大学同学"> 大学同学</h2>
-<h3 id="同届-3"> 同届</h3>
+<h2 id="大学同学" tabindex="-1"> 大学同学</h2>
+<h3 id="同届-2" tabindex="-1"> 同届</h3>
 <p><a href="http://ghostshell.ltd/" target="_blank" rel="noopener noreferrer">GIN-DYD（戴煜东）</a></p>
-<h3 id="学长学姐-2"> 学长学姐</h3>
+<h3 id="学长学姐-1" tabindex="-1"> 学长学姐</h3>
 <p><a href="https://www.zhwer.cn/" target="_blank" rel="noopener noreferrer">暖暖草果（郑皓文）</a>
 <a href="https://www.th31nk.ltd" target="_blank" rel="noopener noreferrer">th31nk（石冀）</a>
 <a href="https://www.meowers.ltd" target="_blank" rel="noopener noreferrer">2hl0k3r（徐浩翔）</a></p>
-<h2 id="几位oier"> 几位OIer</h2>
-<p></p>
-<h2 id="几位老师"> 几位老师</h2>
+<h2 id="几位oier" tabindex="-1"> 几位OIer</h2>
+<p><a href="http://www.koalast.xyz/" target="_blank" rel="noopener noreferrer">ST.Koala(赵圣元)</a></p>
+<h2 id="几位老师" tabindex="-1"> 几位老师</h2>
 <p><a href="https://www.luogu.com.cn/user/12287" target="_blank" rel="noopener noreferrer">yxdgogogo（杨晓东）(Luogu Space)</a><br>
 <a href="https://www.luogu.com.cn/user/35392" target="_blank" rel="noopener noreferrer">Danbo_1010（贺帅）(Luogu Space)</a></p>
-<p><img src="/pic/0076VEu5ly1g09gtou8spj30u009eacd.jpg" alt="" /></p>
+<p><img src="/pic/0076VEu5ly1g09gtou8spj30u009eacd.jpg" alt=""></p>
 <hr>
 <blockquote>
-<p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank" rel="noopener noreferrer"><img src="/pic/license/BY-NC-SA_80x15.png" alt="知识共享许可协议" /></a></p>
-<p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank" rel="noopener noreferrer"><img src="/pic/license/BY-NC-SA_88x31.png" alt="知识共享许可协议" /></a></p>
+<p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank" rel="noopener noreferrer"><img src="/pic/license/BY-NC-SA_80x15.png" alt="知识共享许可协议"></a></p>
+<p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank" rel="noopener noreferrer"><img src="/pic/license/BY-NC-SA_88x31.png" alt="知识共享许可协议"></a></p>
 <p>本作品采用<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank" rel="noopener noreferrer">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。</p>
 </blockquote>
 ]]></content:encoded>
@@ -102,23 +78,9 @@
       <source url="https://note.gh.zhangkai.xin/rss.xml">CPPU-OneClickLogin</source>
       <content:encoded><![CDATA[<p>CPPU一键登录校园网</p>
 <p><a href="https://github.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases" target="_blank" rel="noopener noreferrer">Github下载</a> | <a href="https://gitee.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases/" target="_blank" rel="noopener noreferrer">Gitee下载</a></p>
-<h2 id="使用"> 使用</h2>
+<h2 id="使用" tabindex="-1"> 使用</h2>
 <p>点击上方链接进入本项目仓库发行版界面，下载最新档到本地并打开目录。</p>
 <p>修改文件 <code>账号密码.txt</code> ，该文件第一行为你的账号，第二行为你的密码，然后运行从发行版中下载的程序即可登录。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>笔记主页</title>
-      <link>https://note.gh.zhangkai.xin/</link>
-      <guid>https://note.gh.zhangkai.xin/</guid>
-      <source url="https://note.gh.zhangkai.xin/rss.xml">笔记主页</source>
-    </item>
-    <item>
-      <title>说明主页</title>
-      <link>https://note.gh.zhangkai.xin/project/</link>
-      <guid>https://note.gh.zhangkai.xin/project/</guid>
-      <source url="https://note.gh.zhangkai.xin/rss.xml">说明主页</source>
-      <content:encoded><![CDATA[<p>欢迎点击上方内容查看我的笔记内容。</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -128,7 +90,7 @@
       <source url="https://note.gh.zhangkai.xin/rss.xml">CPPU-TimeTableSearching</source>
       <content:encoded><![CDATA[<p>CPPU查询某一节课有多少人上课</p>
 <p><a href="https://github.com/WilliamPeterMatthew/CPPU-TimeTableSearching/releases" target="_blank" rel="noopener noreferrer">Github下载</a> | <a href="https://gitee.com/WilliamPeterMatthew/CPPU-TimeTableSearching/releases/" target="_blank" rel="noopener noreferrer">Gitee下载</a></p>
-<h2 id="初始化"> 初始化</h2>
+<h2 id="初始化" tabindex="-1"> 初始化</h2>
 <p>首先，点击上方链接进入本项目仓库发行版界面，下载最新档到本地并打开目录。</p>
 <ol>
 <li>使用有权限的账号登录本(专)科生教务管理系统</li>
@@ -139,7 +101,7 @@
 <li>点击批量生成课表</li>
 <li>选择学年学期与学员队，单击确定并等待教务系统生成出所有人的课表</li>
 </ol>
-<h3 id="文件夹模式"> 文件夹模式</h3>
+<h3 id="文件夹模式" tabindex="-1"> 文件夹模式</h3>
 <p>由于作为办公室主任，需要方便自己管理本队的文件，所以在这里我提供了方便管理的文件夹模式。（如果你不需要文件夹模式，我还提供了下载完课表和本程序后直接统计的办法，请跳至 <strong>非文件夹模式</strong> 章节）</p>
 <p>下载课表rar文件并按照如下文件目录放置文件。</p>
 <div><pre><code>└CPPU-TimeTableSearching
@@ -184,9 +146,8 @@
   ├成队.py
   ├队.py
   └配置.py
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br></div></div><p>现在请跳转至 <strong>配置</strong> 章节对程序进行配置。</p>
-<h3 id="非文件夹模式"> 非文件夹模式</h3>
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><p>现在请跳转至 <strong>配置</strong> 章节对程序进行配置。</p>
+<h3 id="非文件夹模式" tabindex="-1"> 非文件夹模式</h3>
 <p>我知道不少队使用本项目仅仅是为了统计自己队的人员在队情况，因此提供了一份只用下载解压的模式。</p>
 <p>下载课表rar文件并解压，然后如下文件目录放置文件。</p>
 <div><pre><code>└CPPU-TimeTableSearching
@@ -201,42 +162,40 @@
   ├成队.py
   ├队.py
   └配置.py
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div><p>现在请跳转至 <strong>配置</strong> 章节对程序进行配置。</p>
-<h2 id="配置"> 配置</h2>
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><p>现在请跳转至 <strong>配置</strong> 章节对程序进行配置。</p>
+<h2 id="配置" tabindex="-1"> 配置</h2>
 <p>首先，你需要进入目录<code>统计用</code>。接着，你应该用文本编辑器（例如记事本）打开<code>配置.py</code>，编辑配置。</p>
-<h3 id="semester"> semester</h3>
+<h3 id="semester" tabindex="-1"> semester</h3>
 <p>type: str</p>
 <p>请在等号后填入学期，格式为<code>'xxxx-xxxx学年 第X学期'</code>，例如：<code>'2021-2022学年 第一学期'</code>，请注意不要删掉前后的单引号。这是CPPU学期的标准格式。</p>
-<h3 id="totalweeks"> totalweeks</h3>
+<h3 id="totalweeks" tabindex="-1"> totalweeks</h3>
 <p>type: int</p>
 <p>请在等号后填入学期的总周数，按我上学的情况，一般是20周。</p>
-<h3 id="startyear-startmonth-startday"> startyear,startmonth,startday</h3>
+<h3 id="startyear-startmonth-startday" tabindex="-1"> startyear,startmonth,startday</h3>
 <p>type: int, type: int, type: int</p>
 <p>请在等号后填入学期开始日日期，三个数字间用英文半角逗号<code>,</code>分隔，例如：<code>2021,8,30</code>。</p>
-<h3 id="classnum"> classnum</h3>
+<h3 id="classnum" tabindex="-1"> classnum</h3>
 <p>type: int</p>
 <p>请在等号后填入你们队教学班级的总数，比如我们队就是6个教学班级。 <em>该配置项为文件夹模式特有配置项，非文件夹模式下可删除该项。</em></p>
-<h3 id="filepre"> filepre</h3>
+<h3 id="filepre" tabindex="-1"> filepre</h3>
 <p>type: str</p>
 <p>请在等号后填入你下载到的课表文件的前缀，格式为<code>'xxXXx队x班（XX）_xxxxxxxxxx_'</code>，比如我们队就是<code>'20政治1队1班（政工）_2020200001_'</code>。你无需在意每个数字具体应当为多少，只需要其长度和这串字符串相同即可，例如我们队的话直接填入<code>'xxXXx队x班（XX）_xxxxxxxxxx_'</code>就可以正常工作。请注意不要删掉前后的单引号。</p>
-<h3 id="filesuf"> filesuf</h3>
+<h3 id="filesuf" tabindex="-1"> filesuf</h3>
 <p>type: str</p>
 <p>请在等号后填入你下载到的课表文件的后缀，一般就是<code>'_学员课表.xls'</code>，你可以根据需要修改。请注意不要删掉前后的单引号。</p>
-<h3 id="foldermode"> foldermode</h3>
+<h3 id="foldermode" tabindex="-1"> foldermode</h3>
 <p>type: bool</p>
 <p>请在等号后填入是否启用文件夹模式，值为True时为文件夹模式，值为False时为非文件夹模式。具体的文件放置方法请参考 <strong>初始化</strong> 章节。</p>
-<h3 id="foldersuf"> foldersuf</h3>
+<h3 id="foldersuf" tabindex="-1"> foldersuf</h3>
 <p>type: str</p>
 <p>请在等号后填入你下载到的课表文件的文件夹后缀，格式为<code>'XXXX一队'</code>，比如我们队就是<code>'公安政治一队'</code>，请注意不要删掉前后的单引号。 <em>该配置项为非文件夹模式特有配置项，文件夹模式下可删除该项。</em></p>
-<h2 id="快速统计队内全学期上课时间对应的上课人数"> 快速统计队内全学期上课时间对应的上课人数</h2>
+<h2 id="快速统计队内全学期上课时间对应的上课人数" tabindex="-1"> 快速统计队内全学期上课时间对应的上课人数</h2>
 <p>统计时分文件夹模式和非文件夹模式，请跳至对应章节查看统计方法。</p>
-<h3 id="文件夹模式下统计"> 文件夹模式下统计</h3>
+<h3 id="文件夹模式下统计" tabindex="-1"> 文件夹模式下统计</h3>
 <p>你应该按如下步骤执行脚本</p>
 <div><pre><code>python 班.py
 python 成队.py
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>这样可以生成一份课表统计列表，文件放在<code>统计用\xxxx-xxxx学年 第X学期</code>文件夹中，方便安排队内事务。</p>
+</code></pre><div aria-hidden="true"><div></div><div></div></div></div><p>这样可以生成一份课表统计列表，文件放在<code>统计用\xxxx-xxxx学年 第X学期</code>文件夹中，方便安排队内事务。</p>
 <p>对于xxxx-xxxx学年 第X学期文件夹中的文件说明如下：</p>
 <p>你会看到如下列表的文件</p>
 <div><pre><code>└CPPU-TimeTableSearching
@@ -247,48 +206,41 @@ python 成队.py
    ├2n.xls
    ├...
    └xn.xls
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><p>所有xls文件与CPPU课表格式相同。</p>
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><p>所有xls文件与CPPU课表格式相同。</p>
 <ul>
 <li>0n.xls中包含的信息是全队统计的上课人数。</li>
 <li>xn.xls中包含的信息是按班统计后的单个教学班的上课人数。</li>
 </ul>
-<h3 id="非文件夹模式下统计"> 非文件夹模式下统计</h3>
+<h3 id="非文件夹模式下统计" tabindex="-1"> 非文件夹模式下统计</h3>
 <p>你应该执行如下脚本</p>
 <div><pre><code>python 队.py
-</code></pre>
-<div><span>1</span><br></div></div><p>这样可以生成一份课表统计列表，文件放在<code>统计用\xxxx-xxxx学年 第X学期</code>文件夹中，方便安排队内事务。你会在该文件夹下看到文件<code>0n.xls</code></p>
+</code></pre><div aria-hidden="true"><div></div></div></div><p>这样可以生成一份课表统计列表，文件放在<code>统计用\xxxx-xxxx学年 第X学期</code>文件夹中，方便安排队内事务。你会在该文件夹下看到文件<code>0n.xls</code></p>
 <div><pre><code>└CPPU-TimeTableSearching
  └统计用
   └xxxx-xxxx学年 第X学期
    └0n.xls
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>xls文件与CPPU课表格式相同。</p>
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div></div></div><p>xls文件与CPPU课表格式相同。</p>
 <ul>
 <li>0n.xls中包含的信息是全队统计的上课人数。</li>
 </ul>
-<h2 id="查询某节课有多少人有课-无课以及对应的名单"> 查询某节课有多少人有课/无课以及对应的名单</h2>
+<h2 id="查询某节课有多少人有课-无课以及对应的名单" tabindex="-1"> 查询某节课有多少人有课/无课以及对应的名单</h2>
 <p>你应该执行以下命令查询某一天某一节课的人员情况。</p>
 <div><pre><code>python 查询.py
-</code></pre>
-<div><span>1</span><br></div></div><p>你会在执行中收到如下询问</p>
+</code></pre><div aria-hidden="true"><div></div></div></div><p>你会在执行中收到如下询问</p>
 <div><pre><code>年：
 月：
 日：
 课（12、34、56、78、910）：
 有课人员（0）/无课人员（1）：
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>你应该给出回答，例如</p>
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div></div></div><p>你应该给出回答，例如</p>
 <div><pre><code>年：2021
 月：9
 日：13
 课（12、34、56、78、910）：910
 有课人员（0）/无课人员（1）：0
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>你会看到如下提示</p>
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div></div></div><p>你会看到如下提示</p>
 <div><pre><code>查询结果已保存在文件X:\...\CPPU-TimeTableSearching\统计用\结果xxxxxxxxxxxxxx.txt中
-</code></pre>
-<div><span>1</span><br></div></div><p>你可以在当前目录下找到结果xxxxxxxxxxxxxx.txt，打开即可查看到查询结果，根据示例中的回答，文件内容如下</p>
+</code></pre><div aria-hidden="true"><div></div></div></div><p>你可以在当前目录下找到结果xxxxxxxxxxxxxx.txt，打开即可查看到查询结果，根据示例中的回答，文件内容如下</p>
 <div><pre><code>2021年09月13日 星期一 第910节课 xxx人有课
 XXX
 XX
@@ -309,8 +261,7 @@ XX
 XXX
 XX
 XXX
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br></div></div><p>第一行最后一部分就是统计出的人数，下方就是统计出来的人员名单。</p>
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><p>第一行最后一部分就是统计出的人数，下方就是统计出来的人员名单。</p>
 ]]></content:encoded>
     </item>
   </channel>
