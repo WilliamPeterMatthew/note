@@ -5,8 +5,6 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>国家信息安全等级保护定级说明</title>
-<link rel="icon" href="/logo.ico" type="image/x-icon" />
-<link rel="shortcut icon" href="/logo.ico" type="image/x-icon"/>
 <link href="css/simpleGridTemplate.css" rel="stylesheet" type="text/css">
 </head>
 <body>
@@ -21,7 +19,7 @@
     <div class="column">
       <p>  《<a href ="/GAT 1389-2017.pdf" target="_blank" rel="noopener nofollow">GA/T 1389-2017 信息安全技术 网络安全等级保护定级指南</a>》及《<a href ="/GBT 22240-2020.pdf" target="_blank" rel="noopener nofollow">GB/T 22240-2020 信息安全技术 网络安全等级保护定级指南</a>》规定，根据等级保护对象在国家安全、经济建设、社会生活中的重要程度，以及一旦遭到破坏、丧失功能或者数据被篡改、泄露、丢失、损毁后，对国家安全、社会秩序、公共利益以及公民、法人和其他组织的合法权益的侵害程度等因素，等级保护对象的安全保护等级分为以下五级：</p>
       <ol type="a">
-        <b><li>第一级（自主保护级），等级保护对象受到破坏后，会对相关公民、法人和其他组织的合法权益造成损害，但不危害国家安全、社会秩序和公共利益；</li></b>
+        <li><b>第一级（自主保护级），等级保护对象受到破坏后，会对相关公民、法人和其他组织的合法权益造成损害，但不危害国家安全、社会秩序和公共利益；</b></li>
         <li>第二级（指导保护级），等级保护对象受到破坏后，会对相关公民、法人和其他组织的合法权益造成严重损害或特别严重损害，或者对社会秩序和公共利益造成危害，但不危害国家安全；</li>
         <li>第三级（监督保护级），等级保护对象受到破坏后，会对社会秩序和公共利益造成严重危害，或者对国家安全造成危害；</li>
         <li>第四级（强制保护级），等级保护对象受到破坏后，会对社会秩序和公共利益造成特别严重危害，或者对国家安全造成严重危害；</li>
@@ -73,7 +71,8 @@
     <div class="button" onclick="history.back()">返回上一页</div>
   </footer>
   <!-- Copyrights Section -->
-  <div class="copyright">&copy;2020 - <span id="nowyear" class="nowyear"></span><br><a href="http://beian.miit.gov.cn/" target="_blank" rel="noopener nofollow"><img src="/pic/beian/icp备案.png" width="18" height="18"> 豫ICP备20022692号-1</a> | <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41030502000313" target="_blank" rel="noopener nofollow"><img src="/pic/beian/公安备案.png" width="18" height="18"> 豫公网安备 41030502000313号</a><br><br><a href="#" target="_self" rel="noopener nofollow">中华人民共和国国家信息安全等级保护第一级（自主保护级）</a><br></div>
+  <div class="copyright">&copy;2020 - <span id="nowyear" class="nowyear"></span><br><a href="http://beian.miit.gov.cn/" target="_blank" rel="noopener nofollow"><img src="/pic/beian/icp备案.png" width="18" height="18"> 豫ICP备20022692号-1</a> | <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41030502000313" target="_blank" rel="noopener nofollow"><img src="/pic/beian/公安备案.png" width="18" height="18"> 豫公网安备 41030502000313号</a></div>
+  <div class="copyright"><a href="#" target="_self" rel="noopener nofollow">中华人民共和国国家信息安全等级保护第一级（自主保护级）</a></div>
 </div>
 <script>
     var year=new Date().getFullYear();
