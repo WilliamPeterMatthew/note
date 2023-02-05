@@ -75,8 +75,8 @@ Email: [contact@zhangkai.xin](mailto:contact@zhangkai.xin)
 \u7B14\u8BB0\u91C7\u7528[VuePress](https://vuepress.vuejs.org/)\u642D\u5EFA\u5E76\u4F7F\u7528[Hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope)\u4E3B\u9898\u3002  
 \u4E3B\u9898\u4F5C\u8005\u4E3A[Mr.Hope](https://github.com/Mister-Hope)\uFF0C\u7ECF\u8FC7[WilliamPeterMatthew](https://github.com/WilliamPeterMatthew)\u6539\u52A8\u3002  
 
-\u670D\u52A1\u5668\u6587\u4EF6\u66F4\u65B0\u65F6\u95F4\uFF1A<a class="ServerUpdateTime" href="/ServerUpdateTime" target="_self" rel="noopener nofollow">SUTFileContent</a>  
-\u6700\u540E\u8FDB\u884C\u540C\u6B65\u7684\u65F6\u95F4\uFF1A<a class="GitSyncTime" href="/GitSyncTime" target="_self" rel="noopener nofollow">GSTFileContent</a>  
+\u670D\u52A1\u5668\u6587\u4EF6\u66F4\u65B0\u65F6\u95F4\uFF1A<a class="ServerUpdateTime" href="/ServerUpdateTime" target="_self" rel="noopener nofollow">2023-02-06 02:51:04</a>  
+\u6700\u540E\u8FDB\u884C\u540C\u6B65\u7684\u65F6\u95F4\uFF1A<a class="GitSyncTime" href="/GitSyncTime" target="_self" rel="noopener nofollow">2023-02-06 03:22:37</a>  
 
 ## \u534F\u8BAE
 > [![\u77E5\u8BC6\u5171\u4EAB\u8BB8\u53EF\u534F\u8BAE](/pic/license/BY-NC-SA_80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)  
