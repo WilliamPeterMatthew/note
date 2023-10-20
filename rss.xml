@@ -6,8 +6,8 @@
     <link>https://note.gh.zhangkai.xin/</link>
     <description>A Konjac in Province H.A.'s Note</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 05 Feb 2023 18:50:17 GMT</pubDate>
-    <lastBuildDate>Sun, 05 Feb 2023 18:50:17 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Oct 2023 06:59:16 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Oct 2023 06:59:16 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -70,18 +70,6 @@
 </blockquote>
 ]]></content:encoded>
       <enclosure url="https://note.gh.zhangkai.xin/pic/qq_1.png" type="image/png"/>
-    </item>
-    <item>
-      <title>CPPU-OneClickLogin</title>
-      <link>https://note.gh.zhangkai.xin/project/cppuocl/</link>
-      <guid>https://note.gh.zhangkai.xin/project/cppuocl/</guid>
-      <source url="https://note.gh.zhangkai.xin/rss.xml">CPPU-OneClickLogin</source>
-      <content:encoded><![CDATA[<p>CPPU一键登录校园网</p>
-<p><a href="https://github.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases" target="_blank" rel="noopener noreferrer">Github下载</a> | <a href="https://gitee.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases/" target="_blank" rel="noopener noreferrer">Gitee下载</a></p>
-<h2 id="使用" tabindex="-1"> 使用</h2>
-<p>点击上方链接进入本项目仓库发行版界面，下载最新档到本地并打开目录。</p>
-<p>修改文件 <code>账号密码.txt</code> ，该文件第一行为你的账号，第二行为你的密码，然后运行从发行版中下载的程序即可登录。</p>
-]]></content:encoded>
     </item>
     <item>
       <title>CPPU-TimeTableSearching</title>
@@ -262,6 +250,18 @@ XXX
 XX
 XXX
 </code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><p>第一行最后一部分就是统计出的人数，下方就是统计出来的人员名单。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>CPPU-OneClickLogin</title>
+      <link>https://note.gh.zhangkai.xin/project/cppuocl/</link>
+      <guid>https://note.gh.zhangkai.xin/project/cppuocl/</guid>
+      <source url="https://note.gh.zhangkai.xin/rss.xml">CPPU-OneClickLogin</source>
+      <content:encoded><![CDATA[<p>CPPU一键登录校园网</p>
+<p><a href="https://github.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases" target="_blank" rel="noopener noreferrer">Github下载</a> | <a href="https://gitee.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases/" target="_blank" rel="noopener noreferrer">Gitee下载</a></p>
+<h2 id="使用" tabindex="-1"> 使用</h2>
+<p>点击上方链接进入本项目仓库发行版界面，下载最新档到本地并打开目录。</p>
+<p>修改文件 <code>账号密码.txt</code> ，该文件第一行为你的账号，第二行为你的密码，然后运行从发行版中下载的程序即可登录。</p>
 ]]></content:encoded>
     </item>
   </channel>
