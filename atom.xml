@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-  <id>https://note.gh.zhangkai.xin/</id>
+  <id>https://note.zhangkai.xin/</id>
   <title>Peter_Matthew的笔记</title>
   <subtitle>A Konjac in Province H.A.'s Note</subtitle>
-  <updated>2024-03-02T15:39:10.474Z</updated>
+  <updated>2025-02-08T17:28:18.558Z</updated>
   <generator>vuepress-plugin-feed2</generator>
-  <link rel="self" href="https://note.gh.zhangkai.xin/atom.xml"/>
-  <link rel="alternate" href="https://note.gh.zhangkai.xin/"/>
+  <link rel="self" href="https://note.zhangkai.xin/atom.xml"/>
+  <link rel="alternate" href="https://note.zhangkai.xin/"/>
   <entry>
     <title type="html">【置顶】我和友链了解一下</title>
-    <id>https://note.gh.zhangkai.xin/posts/friend-links.html</id>
-    <link href="https://note.gh.zhangkai.xin/posts/friend-links.html"/>
-    <updated>2024-03-02T15:39:10.488Z</updated>
+    <id>https://note.zhangkai.xin/posts/friend-links.html</id>
+    <link href="https://note.zhangkai.xin/posts/friend-links.html"/>
+    <updated>2025-02-08T17:28:18.562Z</updated>
     <content type="html"><![CDATA[<h2 id="我" tabindex="-1"> 我？</h2>
 <p>张开昕（男，2002/04/20 — ），（经常使用WilliamPeterMatthew、Peter_Matthew作为用户名，）一个曾经的HA省OIer，一名大学本科在读生，喜爱计算机。。。<br>
-<a href="https://www.gh.zhangkai.xin/" target="_blank" rel="noopener noreferrer">我的博客</a> <a href="https://www.gh.zhangkai.xin/atom.xml" target="_blank" rel="noopener noreferrer">RSS订阅</a></p>
+<a href="https://www.zhangkai.xin/" target="_blank" rel="noopener noreferrer">我的博客</a> <a href="https://www.zhangkai.xin/atom.xml" target="_blank" rel="noopener noreferrer">RSS订阅</a></p>
 <p><a href="http://sighttp.qq.com/authd?IDKEY=950ae6bebc382b5f992bb615a23334fb90cbfae4201b1473" target="_blank" rel="noopener noreferrer"><img src="/pic/qq_1.png" alt="与我进行QQ交谈"></a></p>
 <p>Email: <a href="mailto:contact@zhangkai.xin">contact@zhangkai.xin</a></p>
 <h2 id="小学同学" tabindex="-1"> 小学同学</h2>
@@ -68,22 +68,79 @@
     <published>2021-08-28T11:27:14.000Z</published>
   </entry>
   <entry>
-    <title type="html">CPPU-OneClickLogin</title>
-    <id>https://note.gh.zhangkai.xin/project/cppuocl/</id>
-    <link href="https://note.gh.zhangkai.xin/project/cppuocl/"/>
-    <updated>2024-03-02T15:39:10.488Z</updated>
-    <content type="html"><![CDATA[<p>CPPU一键登录校园网</p>
-<p><a href="https://github.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases" target="_blank" rel="noopener noreferrer">Github下载</a> | <a href="https://gitee.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases/" target="_blank" rel="noopener noreferrer">Gitee下载</a></p>
-<h2 id="使用" tabindex="-1"> 使用</h2>
-<p>点击上方链接进入本项目仓库发行版界面，下载最新档到本地并打开目录。</p>
-<p>修改文件 <code>账号密码.txt</code> ，该文件第一行为你的账号，第二行为你的密码，然后运行从发行版中下载的程序即可登录。</p>
+    <title type="html">Hydro-Docker</title>
+    <id>https://note.zhangkai.xin/posts/hydro-docker.html</id>
+    <link href="https://note.zhangkai.xin/posts/hydro-docker.html"/>
+    <updated>2025-02-08T17:28:18.562Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p>对于CPPU正在运行的版本，我写了一个特别的版本在这里：<a href="https://github.com/WPMZKX/CPPUOJ-Docker" target="_blank" rel="noopener noreferrer">CPPUOJ-Docker</a>。</p>
+<p><img src="https://img.shields.io/github/v/release/WPMZKX/CPPUOJ-Docker?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WPMZKX/CPPUOJ-Docker?display_date=published_at" alt="GitHub Release Date"></p>
+</blockquote>
+<h2 id="hydro-docker" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/Hydro-Docker" target="_blank" rel="noopener noreferrer">Hydro-Docker</a></h2>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/Hydro-Docker?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/Hydro-Docker?display_date=published_at" alt="GitHub Release Date"></p>
+<blockquote>
+<p>以下内容魔改自 <a href="https://github.com/hydro-dev/Hydro" target="_blank" rel="noopener noreferrer">源仓库</a> 的 <code>Hydro/install/docker</code> 文件夹，脚本内容不一定为最新版，请核对后使用</p>
+</blockquote>
+<h2 id="docker-安装方式仅适用于可熟练使用-docker-compose-维护容器的用户-并要求您有基础的错误排查能力" tabindex="-1"> docker 安装方式仅适用于可熟练使用 docker-compose 维护容器的用户，并要求您有基础的错误排查能力</h2>
+<h2 id="该安装模块非官方维护-即不会提供任何技术支持" tabindex="-1"> 该安装模块非官方维护，即不会提供任何技术支持</h2>
+<h2 id="普通用户请务必使用自动脚本安装-这可大大提高您一次成功的可能性" tabindex="-1"> 普通用户请务必使用自动脚本安装，这可大大提高您一次成功的可能性</h2>
+<p>本文假设您已经安装了 <code>Docker</code> 、 <code>docker-compose</code> 、 <code>git</code> 。</p>
+<p><strong>未安装请先安装</strong>。</p>
+<h2 id="开始安装-不建议使用windows" tabindex="-1"> 开始安装（不建议使用Windows）</h2>
+<ol>
+<li>
+<p>请选择磁盘空间富裕的位置，运行下面的命令。</p>
+<p><code>git clone https://github.com/WilliamPeterMatthew/Hydro-Docker.git &amp;&amp; cd Hydro-Docker</code></p>
+</li>
+<li>
+<p>启动服务。</p>
+<p><code>docker-compose up -d</code></p>
+</li>
+</ol>
+<p>因为是在本机制作docker镜像，所以耗时可能会比较久。根据网速情况，大约5到30分钟就可以自动搭建完成，全程无需人工干预。</p>
+<p>等命令执行完成，然后运行 <code>docker ps -a</code>，当看到所有的容器的状态没有<code>Exited (x) xxx</code>就代表 OJ 已经启动成功。</p>
+<h2 id="注意" tabindex="-1"> 注意</h2>
+<p>安装过程中，会默认注册一个超级管理员账号，用来做测评账号。用户名：<code>hydro</code>，密码：<code>hydro123</code>。<strong>请务必及时修改密码</strong>。修改该账号密码后，请修改<code>data/judge/config/judge.yaml</code>中的<code>password</code>。否则可能会无法测评。</p>
+<p>可以尝试在Hydro上登录该账号，若无法登录该账号，需要手动执行以下指令<br>
+<code>hydrooj cli user create Hydro@hydro.local hydro hydro123</code><br>
+<code>hydrooj cli user setPassword 1 hydro123</code><br>
+<code>hydrooj cli user setJudge 1</code><br>
+来确保评测机可以正常连接到后端。</p>
+<p>如果无法访问端口，且Hydro的日志正常，请执行以下指令<br>
+<code>hydrooj cli system set server.host 0.0.0.0</code></p>
+<h2 id="测评机默认编译器" tabindex="-1"> 测评机默认编译器</h2>
+<p>测评机默认安装了以下几个编译器，如有需要，请自行安装。</p>
+<p>编译器列表：</p>
+<ol>
+<li>gcc</li>
+<li>python3</li>
+<li>g++</li>
+<li>fp-compiler</li>
+<li>openjdk-17-jdk-headless</li>
+<li>rustc</li>
+<li>ghc</li>
+<li>cabal-install</li>
+<li>libjavascriptcoregtk-4.0-bin</li>
+<li>golang</li>
+<li>ruby</li>
+<li>mono-runtime</li>
+<li>mono-mcs</li>
+</ol>
+<h2 id="hydro使用" tabindex="-1"> Hydro使用</h2>
+<p>参考 <a href="https://hydro.js.org/" target="_blank" rel="noopener noreferrer">官方文档</a> ，主要操作请进入 <code>oj-backend</code> 容器操作，涉及作为独立进程的评测机，请进入 <code>oj-judge</code> 容器操作。</p>
+<p>进入容器的方法是<br>
+<code>docker exec -it &lt;容器名&gt; /bin/bash</code><br>
+例如<br>
+<code>docker exec -it oj-backend /bin/bash</code></p>
 ]]></content>
   </entry>
   <entry>
     <title type="html">CPPU-TimeTableSearching</title>
-    <id>https://note.gh.zhangkai.xin/project/cpputts/</id>
-    <link href="https://note.gh.zhangkai.xin/project/cpputts/"/>
-    <updated>2024-03-02T15:39:10.489Z</updated>
+    <id>https://note.zhangkai.xin/project/cpputts/</id>
+    <link href="https://note.zhangkai.xin/project/cpputts/"/>
+    <updated>2025-02-08T17:28:18.563Z</updated>
     <content type="html"><![CDATA[<p>CPPU查询某一节课有多少人上课</p>
 <p><a href="https://github.com/WilliamPeterMatthew/CPPU-TimeTableSearching/releases" target="_blank" rel="noopener noreferrer">Github下载</a> | <a href="https://gitee.com/WilliamPeterMatthew/CPPU-TimeTableSearching/releases/" target="_blank" rel="noopener noreferrer">Gitee下载</a></p>
 <h2 id="初始化" tabindex="-1"> 初始化</h2>
@@ -261,10 +318,30 @@ XXX
 ]]></content>
   </entry>
   <entry>
+    <title type="html">警察大学校赛客户端</title>
+    <id>https://note.zhangkai.xin/project/cppujcdxxs/</id>
+    <link href="https://note.zhangkai.xin/project/cppujcdxxs/"/>
+    <updated>2025-02-08T17:28:18.563Z</updated>
+    <content type="html"><![CDATA[<p>警察大学校赛客户端，主要给机房用户在比赛时连接CPPU OJ使用，以便于现场监考。</p>
+<p>由于机房使用了Win7x86系统，所以特别进行了适配。</p>
+<p>目前分为Tauri版和Electron版。</p>
+<h2 id="tauri版" tabindex="-1"> Tauri版</h2>
+<p>文件包含exe格式和msi格式的安装包，适配了x86架构和x86_64架构。</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-Tauri?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/JcdxXS-Tauri?display_date=published_at" alt="GitHub Release Date"></p>
+<p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-Tauri/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
+<h2 id="electron版" tabindex="-1"> Electron版</h2>
+<p>文件包含exe格式的安装包和zip格式的便携版压缩包，适配了x86架构和x86_64架构。</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-Electron?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/JcdxXS-Electron?display_date=published_at" alt="GitHub Release Date"></p>
+<p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-Electron/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
+]]></content>
+  </entry>
+  <entry>
     <title type="html">使用手册 - 赛后工作</title>
-    <id>https://note.gh.zhangkai.xin/project/pingfen/four.html</id>
-    <link href="https://note.gh.zhangkai.xin/project/pingfen/four.html"/>
-    <updated>2024-03-02T15:39:10.489Z</updated>
+    <id>https://note.zhangkai.xin/project/pingfen/four.html</id>
+    <link href="https://note.zhangkai.xin/project/pingfen/four.html"/>
+    <updated>2025-02-08T17:28:18.563Z</updated>
     <content type="html"><![CDATA[<h2 id="分数导出" tabindex="-1"> <i></i> 分数导出</h2>
 <p>点击 <i></i> 分数列表，进入页面。</p>
 <p>在此页面，你可以 <i></i> 删除分数、 <i></i> 选择多个分数并批量删除分数，点击 <i></i> 和 <i></i> 可以修改排序。为尽可能保障比赛公平， <strong>比赛后台无法直接修改分数</strong> ，仅能删除。如需修改，请通过数据库后台修改，或删除分数后修改 <i></i> 现场控制中的评委页面，在 <i></i> 评委列表同步对应评委的页面，然后通过评委端重新打分。</p>
@@ -276,9 +353,9 @@ XXX
   </entry>
   <entry>
     <title type="html">使用手册 - 管理站点</title>
-    <id>https://note.gh.zhangkai.xin/project/pingfen/one.html</id>
-    <link href="https://note.gh.zhangkai.xin/project/pingfen/one.html"/>
-    <updated>2024-03-02T15:39:10.489Z</updated>
+    <id>https://note.zhangkai.xin/project/pingfen/one.html</id>
+    <link href="https://note.zhangkai.xin/project/pingfen/one.html"/>
+    <updated>2025-02-08T17:28:18.563Z</updated>
     <content type="html"><![CDATA[<h2 id="登录管理后台" tabindex="-1"> <i></i> 登录管理后台</h2>
 <p>在您初次安装好此站点后，您已经在网站文件夹根目录下建立 <code>.env</code> 文件，并且导入了数据库文件 <code>pingfen.sql</code> 。</p>
 <p>接下来，您应该在右上角可以看到 <i></i> 图标，点击后可以进入管理后台的登录页面。我们已经在数据库中添加了一个超级管理员，账号是 <code>superadmin</code> ，密码是 <code>12345678</code> 。 <strong>请及时修改默认的账号及密码，任何能看到此使用手册的访问者均会知道此账号和密码。</strong></p>
@@ -293,9 +370,9 @@ XXX
   </entry>
   <entry>
     <title type="html">竞赛现场智能评分系统</title>
-    <id>https://note.gh.zhangkai.xin/project/pingfen/</id>
-    <link href="https://note.gh.zhangkai.xin/project/pingfen/"/>
-    <updated>2024-03-02T15:39:10.489Z</updated>
+    <id>https://note.zhangkai.xin/project/pingfen/</id>
+    <link href="https://note.zhangkai.xin/project/pingfen/"/>
+    <updated>2025-02-08T17:28:18.563Z</updated>
     <content type="html"><![CDATA[<p>pingfen</p>
 <blockquote>
 <p>使用ThinkPHP6.0框架，运行环境要求PHP7.2+，兼容PHP8.1</p>
@@ -321,9 +398,9 @@ XXX
   </entry>
   <entry>
     <title type="html">使用手册 - 赛时控制</title>
-    <id>https://note.gh.zhangkai.xin/project/pingfen/three.html</id>
-    <link href="https://note.gh.zhangkai.xin/project/pingfen/three.html"/>
-    <updated>2024-03-02T15:39:10.489Z</updated>
+    <id>https://note.zhangkai.xin/project/pingfen/three.html</id>
+    <link href="https://note.zhangkai.xin/project/pingfen/three.html"/>
+    <updated>2025-02-08T17:28:18.564Z</updated>
     <content type="html"><![CDATA[<h2 id="现场控制" tabindex="-1"> <i></i> 现场控制</h2>
 <p>在比赛开始前，请转到 <i></i> 现场控制页面，将评委的目前页面切换到等待评分第一组选手（例如等待评分: 1,2,3），评委的下一个页面切换到正在评分第一组选手（例如正在评分: 1,2,3），屏幕页面切换到背景。</p>
 <p>在此页面，最主要的两个功能是控制评委页面和屏幕页面。</p>
@@ -354,9 +431,9 @@ XXX
   </entry>
   <entry>
     <title type="html">使用手册 - 赛前准备</title>
-    <id>https://note.gh.zhangkai.xin/project/pingfen/two.html</id>
-    <link href="https://note.gh.zhangkai.xin/project/pingfen/two.html"/>
-    <updated>2024-03-02T15:39:10.489Z</updated>
+    <id>https://note.zhangkai.xin/project/pingfen/two.html</id>
+    <link href="https://note.zhangkai.xin/project/pingfen/two.html"/>
+    <updated>2025-02-08T17:28:18.564Z</updated>
     <content type="html"><![CDATA[<h2 id="新建比赛" tabindex="-1"> <i></i> 新建比赛</h2>
 <p>在修改完比赛的相关设置后，请点击 <i></i> 比赛列表，准备比赛。</p>
 <p>在此页面，你可以 <i></i> 新增比赛、 <i></i> 修改已有比赛、 <i></i> 删除比赛、 <i></i> 选择多个比赛并批量删除比赛，也可以直接进入比赛控制页面的 <i></i> <i></i> <i></i> <i></i> <i></i> 五个页面，点击 <i></i> 和 <i></i> 可以修改排序，该排序不会影响首页的显示顺序。</p>
@@ -380,6 +457,73 @@ XXX
 <p>选手项中的选手顺序不会在环境中使用，仅用来备注，管理员可以提前写好顺序，方便在比赛时参考输入选手序号。</p>
 <p>另外，选手项中不提供启用开关，如果管理员不想在比赛中使用某个选手，只需要不使用该选手的序号即可。</p>
 </blockquote>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html">CPPU-ClickToLogin</title>
+    <id>https://note.zhangkai.xin/project/logincampusnetwork/cppuctl.html</id>
+    <link href="https://note.zhangkai.xin/project/logincampusnetwork/cppuctl.html"/>
+    <updated>2025-02-08T17:28:18.564Z</updated>
+    <content type="html"><![CDATA[<p>CPPU上网认证客户端</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/CPPU-ClickToLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/CPPU-ClickToLogin?display_date=published_at" alt="GitHub Release Date"></p>
+<h2 id="使用" tabindex="-1"> 使用</h2>
+<p>从<a href="https://github.com/WilliamPeterMatthew/CPPU-ClickToLogin/releases" target="_blank" rel="noopener noreferrer">这里</a>下载。</p>
+<p>运行脚本或者从发行版中下载的程序，在对话框中输入账号和密码即可登录。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html">CPPU-OneClickLogin</title>
+    <id>https://note.zhangkai.xin/project/logincampusnetwork/cppuocl.html</id>
+    <link href="https://note.zhangkai.xin/project/logincampusnetwork/cppuocl.html"/>
+    <updated>2025-02-08T17:28:18.564Z</updated>
+    <content type="html"><![CDATA[<p>CPPU一键登录校园网</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/CPPU-OneClickLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/CPPU-OneClickLogin?display_date=published_at" alt="GitHub Release Date"></p>
+<h2 id="使用" tabindex="-1"> 使用</h2>
+<p>从<a href="https://github.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases" target="_blank" rel="noopener noreferrer">这里</a>下载。</p>
+<p>修改文件 <code>账号密码.txt</code> ，该文件第一行为你的账号，第二行为你的密码，然后运行脚本或者从发行版中下载的程序即可登录。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html">PPSUC-ClickToLogin</title>
+    <id>https://note.zhangkai.xin/project/logincampusnetwork/ppsucctl.html</id>
+    <link href="https://note.zhangkai.xin/project/logincampusnetwork/ppsucctl.html"/>
+    <updated>2025-02-08T17:28:18.564Z</updated>
+    <content type="html"><![CDATA[<p>PPSUC上网认证客户端</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/PPSUC-ClickToLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/PPSUC-ClickToLogin?display_date=published_at" alt="GitHub Release Date"></p>
+<h2 id="使用" tabindex="-1"> 使用</h2>
+<p>从<a href="https://github.com/WilliamPeterMatthew/PPSUC-ClickToLogin/releases" target="_blank" rel="noopener noreferrer">这里</a>下载。</p>
+<p>运行脚本或者从发行版中下载的程序，在对话框中输入账号和密码即可登录。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html">PPSUC-OneClickLogin</title>
+    <id>https://note.zhangkai.xin/project/logincampusnetwork/ppsucocl.html</id>
+    <link href="https://note.zhangkai.xin/project/logincampusnetwork/ppsucocl.html"/>
+    <updated>2025-02-08T17:28:18.565Z</updated>
+    <content type="html"><![CDATA[<p>PPSUC一键登录校园网</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/PPSUC-OneClickLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/PPSUC-OneClickLogin?display_date=published_at" alt="GitHub Release Date"></p>
+<h2 id="使用" tabindex="-1"> 使用</h2>
+<p>从<a href="https://github.com/WilliamPeterMatthew/PPSUC-OneClickLogin/releases" target="_blank" rel="noopener noreferrer">这里</a>下载。</p>
+<p>修改文件 <code>账号密码.txt</code> ，该文件第一行为你的账号，第二行为你的密码，然后运行脚本或者从发行版中下载的程序即可登录。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html">登录校园网</title>
+    <id>https://note.zhangkai.xin/project/logincampusnetwork/</id>
+    <link href="https://note.zhangkai.xin/project/logincampusnetwork/"/>
+    <updated>2025-02-08T17:28:18.565Z</updated>
+    <content type="html"><![CDATA[<p>本项目针对新华三的校园网登录方案，根据CPPU和PPSUC两个学校的登录入口，生成了如下四个项目：</p>
+<ul>
+<li><a href="/project/logincampusnetwork/cppuctl/">CPPU-ClickToLogin</a>，适用于CPPU，采用弹出对话框手动输入账号密码的方法登录。</li>
+<li><a href="/project/logincampusnetwork/cppuocl/">CPPU-OneClickLogin</a>，适用于CPPU，采用读取保存有账号密码的文件的方法登录。</li>
+<li><a href="/project/logincampusnetwork/ppsucctl/">PPSUC-ClickToLogin</a>，适用于PPSUC，采用弹出对话框手动输入账号密码的方法登录。</li>
+<li><a href="/project/logincampusnetwork/ppsucocl/">PPSUC-OneClickLogin</a>，适用于PPSCU，采用读取保存有账号密码的文件的方法登录。</li>
+</ul>
+<p>同时，为了能够让机房正常使用，适配了Win7x86系统。</p>
 ]]></content>
   </entry>
 </feed>
