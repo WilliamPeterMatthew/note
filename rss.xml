@@ -6,8 +6,8 @@
     <link>https://note.zhangkai.xin/</link>
     <description>A Konjac in Province H.A.'s Note</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 08 Feb 2025 17:28:18 GMT</pubDate>
-    <lastBuildDate>Sat, 08 Feb 2025 17:28:18 GMT</lastBuildDate>
+    <pubDate>Sun, 09 Feb 2025 16:04:32 GMT</pubDate>
+    <lastBuildDate>Sun, 09 Feb 2025 16:04:32 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -140,6 +140,42 @@
 <code>docker exec -it oj-backend /bin/bash</code></p>
 ]]></content:encoded>
       <enclosure url="https://img.shields.io/github/v/release/WPMZKX/CPPUOJ-Docker?sort=date&display_name=tag" type="image/"/>
+    </item>
+    <item>
+      <title>警察大学校赛客户端</title>
+      <link>https://note.zhangkai.xin/project/cppujcdxxs/</link>
+      <guid>https://note.zhangkai.xin/project/cppujcdxxs/</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">警察大学校赛客户端</source>
+      <content:encoded><![CDATA[<p>警察大学校赛客户端，主要给机房用户在比赛时连接CPPU OJ使用，以便于现场监考。</p>
+<p>由于机房使用了Win7x86系统，所以特别进行了适配。</p>
+<p>目前分为Tauri版和Electron版。</p>
+<h2 id="tauri版" tabindex="-1"> Tauri版</h2>
+<p>文件包含exe格式和msi格式的安装包，适配了x86架构和x86_64架构。</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-Tauri?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/JcdxXS-Tauri?display_date=published_at" alt="GitHub Release Date"></p>
+<p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-Tauri/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
+<h2 id="electron版" tabindex="-1"> Electron版</h2>
+<p>文件包含exe格式的安装包和zip格式的便携版压缩包，适配了x86架构和x86_64架构。</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-Electron?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/JcdxXS-Electron?display_date=published_at" alt="GitHub Release Date"></p>
+<p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-Electron/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-Tauri?sort=date&display_name=tag" type="image/"/>
+    </item>
+    <item>
+      <title>警察大学校赛进程监控客户端</title>
+      <link>https://note.zhangkai.xin/project/cppujcdxxspm/</link>
+      <guid>https://note.zhangkai.xin/project/cppujcdxxspm/</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">警察大学校赛进程监控客户端</source>
+      <content:encoded><![CDATA[<p>警察大学校赛进程监控客户端，主要给机房用户在比赛时记录选手进程，便于监考。</p>
+<p>由于机房使用了Win7x86系统，所以特别进行了适配。</p>
+<h2 id="下载" tabindex="-1"> 下载</h2>
+<p>文件包含zip格式的便携版压缩包，适配了x86架构和x86_64架构。</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-ProcessMonitor?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/JcdxXS-ProcessMonitor?display_date=published_at" alt="GitHub Release Date"></p>
+<p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-ProcessMonitor/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-ProcessMonitor?sort=date&display_name=tag" type="image/"/>
     </item>
     <item>
       <title>CPPU-TimeTableSearching</title>
@@ -323,25 +359,75 @@ XXX
 ]]></content:encoded>
     </item>
     <item>
-      <title>警察大学校赛客户端</title>
-      <link>https://note.zhangkai.xin/project/cppujcdxxs/</link>
-      <guid>https://note.zhangkai.xin/project/cppujcdxxs/</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">警察大学校赛客户端</source>
-      <content:encoded><![CDATA[<p>警察大学校赛客户端，主要给机房用户在比赛时连接CPPU OJ使用，以便于现场监考。</p>
-<p>由于机房使用了Win7x86系统，所以特别进行了适配。</p>
-<p>目前分为Tauri版和Electron版。</p>
-<h2 id="tauri版" tabindex="-1"> Tauri版</h2>
-<p>文件包含exe格式和msi格式的安装包，适配了x86架构和x86_64架构。</p>
-<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-Tauri?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
-<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/JcdxXS-Tauri?display_date=published_at" alt="GitHub Release Date"></p>
-<p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-Tauri/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
-<h2 id="electron版" tabindex="-1"> Electron版</h2>
-<p>文件包含exe格式的安装包和zip格式的便携版压缩包，适配了x86架构和x86_64架构。</p>
-<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-Electron?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
-<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/JcdxXS-Electron?display_date=published_at" alt="GitHub Release Date"></p>
-<p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-Electron/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
+      <title>CPPU-ClickToLogin</title>
+      <link>https://note.zhangkai.xin/project/logincampusnetwork/cppuctl.html</link>
+      <guid>https://note.zhangkai.xin/project/logincampusnetwork/cppuctl.html</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">CPPU-ClickToLogin</source>
+      <content:encoded><![CDATA[<p>CPPU上网认证客户端</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/CPPU-ClickToLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/CPPU-ClickToLogin?display_date=published_at" alt="GitHub Release Date"></p>
+<h2 id="使用" tabindex="-1"> 使用</h2>
+<p>从<a href="https://github.com/WilliamPeterMatthew/CPPU-ClickToLogin/releases" target="_blank" rel="noopener noreferrer">这里</a>下载。</p>
+<p>运行脚本或者从发行版中下载的程序，在对话框中输入账号和密码即可登录。</p>
 ]]></content:encoded>
-      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-Tauri?sort=date&display_name=tag" type="image/"/>
+      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/CPPU-ClickToLogin?sort=date&display_name=tag" type="image/"/>
+    </item>
+    <item>
+      <title>CPPU-OneClickLogin</title>
+      <link>https://note.zhangkai.xin/project/logincampusnetwork/cppuocl.html</link>
+      <guid>https://note.zhangkai.xin/project/logincampusnetwork/cppuocl.html</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">CPPU-OneClickLogin</source>
+      <content:encoded><![CDATA[<p>CPPU一键登录校园网</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/CPPU-OneClickLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/CPPU-OneClickLogin?display_date=published_at" alt="GitHub Release Date"></p>
+<h2 id="使用" tabindex="-1"> 使用</h2>
+<p>从<a href="https://github.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases" target="_blank" rel="noopener noreferrer">这里</a>下载。</p>
+<p>修改文件 <code>账号密码.txt</code> ，该文件第一行为你的账号，第二行为你的密码，然后运行脚本或者从发行版中下载的程序即可登录。</p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/CPPU-OneClickLogin?sort=date&display_name=tag" type="image/"/>
+    </item>
+    <item>
+      <title>PPSUC-ClickToLogin</title>
+      <link>https://note.zhangkai.xin/project/logincampusnetwork/ppsucctl.html</link>
+      <guid>https://note.zhangkai.xin/project/logincampusnetwork/ppsucctl.html</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">PPSUC-ClickToLogin</source>
+      <content:encoded><![CDATA[<p>PPSUC上网认证客户端</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/PPSUC-ClickToLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/PPSUC-ClickToLogin?display_date=published_at" alt="GitHub Release Date"></p>
+<h2 id="使用" tabindex="-1"> 使用</h2>
+<p>从<a href="https://github.com/WilliamPeterMatthew/PPSUC-ClickToLogin/releases" target="_blank" rel="noopener noreferrer">这里</a>下载。</p>
+<p>运行脚本或者从发行版中下载的程序，在对话框中输入账号和密码即可登录。</p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/PPSUC-ClickToLogin?sort=date&display_name=tag" type="image/"/>
+    </item>
+    <item>
+      <title>PPSUC-OneClickLogin</title>
+      <link>https://note.zhangkai.xin/project/logincampusnetwork/ppsucocl.html</link>
+      <guid>https://note.zhangkai.xin/project/logincampusnetwork/ppsucocl.html</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">PPSUC-OneClickLogin</source>
+      <content:encoded><![CDATA[<p>PPSUC一键登录校园网</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/PPSUC-OneClickLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/PPSUC-OneClickLogin?display_date=published_at" alt="GitHub Release Date"></p>
+<h2 id="使用" tabindex="-1"> 使用</h2>
+<p>从<a href="https://github.com/WilliamPeterMatthew/PPSUC-OneClickLogin/releases" target="_blank" rel="noopener noreferrer">这里</a>下载。</p>
+<p>修改文件 <code>账号密码.txt</code> ，该文件第一行为你的账号，第二行为你的密码，然后运行脚本或者从发行版中下载的程序即可登录。</p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/PPSUC-OneClickLogin?sort=date&display_name=tag" type="image/"/>
+    </item>
+    <item>
+      <title>登录校园网</title>
+      <link>https://note.zhangkai.xin/project/logincampusnetwork/</link>
+      <guid>https://note.zhangkai.xin/project/logincampusnetwork/</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">登录校园网</source>
+      <content:encoded><![CDATA[<p>本项目针对新华三的校园网登录方案，根据CPPU和PPSUC两个学校的登录入口，生成了如下四个项目：</p>
+<ul>
+<li><a href="/project/logincampusnetwork/cppuctl/">CPPU-ClickToLogin</a>，适用于CPPU，采用弹出对话框手动输入账号密码的方法登录。</li>
+<li><a href="/project/logincampusnetwork/cppuocl/">CPPU-OneClickLogin</a>，适用于CPPU，采用读取保存有账号密码的文件的方法登录。</li>
+<li><a href="/project/logincampusnetwork/ppsucctl/">PPSUC-ClickToLogin</a>，适用于PPSUC，采用弹出对话框手动输入账号密码的方法登录。</li>
+<li><a href="/project/logincampusnetwork/ppsucocl/">PPSUC-OneClickLogin</a>，适用于PPSCU，采用读取保存有账号密码的文件的方法登录。</li>
+</ul>
+<p>同时，为了能够让机房正常使用，适配了Win7x86系统。</p>
+]]></content:encoded>
     </item>
     <item>
       <title>使用手册 - 赛后工作</title>
@@ -463,77 +549,6 @@ XXX
 <p>选手项中的选手顺序不会在环境中使用，仅用来备注，管理员可以提前写好顺序，方便在比赛时参考输入选手序号。</p>
 <p>另外，选手项中不提供启用开关，如果管理员不想在比赛中使用某个选手，只需要不使用该选手的序号即可。</p>
 </blockquote>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>CPPU-ClickToLogin</title>
-      <link>https://note.zhangkai.xin/project/logincampusnetwork/cppuctl.html</link>
-      <guid>https://note.zhangkai.xin/project/logincampusnetwork/cppuctl.html</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">CPPU-ClickToLogin</source>
-      <content:encoded><![CDATA[<p>CPPU上网认证客户端</p>
-<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/CPPU-ClickToLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
-<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/CPPU-ClickToLogin?display_date=published_at" alt="GitHub Release Date"></p>
-<h2 id="使用" tabindex="-1"> 使用</h2>
-<p>从<a href="https://github.com/WilliamPeterMatthew/CPPU-ClickToLogin/releases" target="_blank" rel="noopener noreferrer">这里</a>下载。</p>
-<p>运行脚本或者从发行版中下载的程序，在对话框中输入账号和密码即可登录。</p>
-]]></content:encoded>
-      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/CPPU-ClickToLogin?sort=date&display_name=tag" type="image/"/>
-    </item>
-    <item>
-      <title>CPPU-OneClickLogin</title>
-      <link>https://note.zhangkai.xin/project/logincampusnetwork/cppuocl.html</link>
-      <guid>https://note.zhangkai.xin/project/logincampusnetwork/cppuocl.html</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">CPPU-OneClickLogin</source>
-      <content:encoded><![CDATA[<p>CPPU一键登录校园网</p>
-<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/CPPU-OneClickLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
-<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/CPPU-OneClickLogin?display_date=published_at" alt="GitHub Release Date"></p>
-<h2 id="使用" tabindex="-1"> 使用</h2>
-<p>从<a href="https://github.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases" target="_blank" rel="noopener noreferrer">这里</a>下载。</p>
-<p>修改文件 <code>账号密码.txt</code> ，该文件第一行为你的账号，第二行为你的密码，然后运行脚本或者从发行版中下载的程序即可登录。</p>
-]]></content:encoded>
-      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/CPPU-OneClickLogin?sort=date&display_name=tag" type="image/"/>
-    </item>
-    <item>
-      <title>PPSUC-ClickToLogin</title>
-      <link>https://note.zhangkai.xin/project/logincampusnetwork/ppsucctl.html</link>
-      <guid>https://note.zhangkai.xin/project/logincampusnetwork/ppsucctl.html</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">PPSUC-ClickToLogin</source>
-      <content:encoded><![CDATA[<p>PPSUC上网认证客户端</p>
-<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/PPSUC-ClickToLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
-<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/PPSUC-ClickToLogin?display_date=published_at" alt="GitHub Release Date"></p>
-<h2 id="使用" tabindex="-1"> 使用</h2>
-<p>从<a href="https://github.com/WilliamPeterMatthew/PPSUC-ClickToLogin/releases" target="_blank" rel="noopener noreferrer">这里</a>下载。</p>
-<p>运行脚本或者从发行版中下载的程序，在对话框中输入账号和密码即可登录。</p>
-]]></content:encoded>
-      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/PPSUC-ClickToLogin?sort=date&display_name=tag" type="image/"/>
-    </item>
-    <item>
-      <title>PPSUC-OneClickLogin</title>
-      <link>https://note.zhangkai.xin/project/logincampusnetwork/ppsucocl.html</link>
-      <guid>https://note.zhangkai.xin/project/logincampusnetwork/ppsucocl.html</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">PPSUC-OneClickLogin</source>
-      <content:encoded><![CDATA[<p>PPSUC一键登录校园网</p>
-<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/PPSUC-OneClickLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
-<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/PPSUC-OneClickLogin?display_date=published_at" alt="GitHub Release Date"></p>
-<h2 id="使用" tabindex="-1"> 使用</h2>
-<p>从<a href="https://github.com/WilliamPeterMatthew/PPSUC-OneClickLogin/releases" target="_blank" rel="noopener noreferrer">这里</a>下载。</p>
-<p>修改文件 <code>账号密码.txt</code> ，该文件第一行为你的账号，第二行为你的密码，然后运行脚本或者从发行版中下载的程序即可登录。</p>
-]]></content:encoded>
-      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/PPSUC-OneClickLogin?sort=date&display_name=tag" type="image/"/>
-    </item>
-    <item>
-      <title>登录校园网</title>
-      <link>https://note.zhangkai.xin/project/logincampusnetwork/</link>
-      <guid>https://note.zhangkai.xin/project/logincampusnetwork/</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">登录校园网</source>
-      <content:encoded><![CDATA[<p>本项目针对新华三的校园网登录方案，根据CPPU和PPSUC两个学校的登录入口，生成了如下四个项目：</p>
-<ul>
-<li><a href="/project/logincampusnetwork/cppuctl/">CPPU-ClickToLogin</a>，适用于CPPU，采用弹出对话框手动输入账号密码的方法登录。</li>
-<li><a href="/project/logincampusnetwork/cppuocl/">CPPU-OneClickLogin</a>，适用于CPPU，采用读取保存有账号密码的文件的方法登录。</li>
-<li><a href="/project/logincampusnetwork/ppsucctl/">PPSUC-ClickToLogin</a>，适用于PPSUC，采用弹出对话框手动输入账号密码的方法登录。</li>
-<li><a href="/project/logincampusnetwork/ppsucocl/">PPSUC-OneClickLogin</a>，适用于PPSCU，采用读取保存有账号密码的文件的方法登录。</li>
-</ul>
-<p>同时，为了能够让机房正常使用，适配了Win7x86系统。</p>
 ]]></content:encoded>
     </item>
   </channel>
