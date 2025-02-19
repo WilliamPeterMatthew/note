@@ -6,8 +6,8 @@
     <link>https://note.zhangkai.xin/</link>
     <description>A Konjac in Province H.A.'s Note</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 09 Feb 2025 16:04:32 GMT</pubDate>
-    <lastBuildDate>Sun, 09 Feb 2025 16:04:32 GMT</lastBuildDate>
+    <pubDate>Wed, 19 Feb 2025 18:50:50 GMT</pubDate>
+    <lastBuildDate>Wed, 19 Feb 2025 18:50:50 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -161,21 +161,6 @@
 <p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-Electron/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
 ]]></content:encoded>
       <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-Tauri?sort=date&display_name=tag" type="image/"/>
-    </item>
-    <item>
-      <title>警察大学校赛进程监控客户端</title>
-      <link>https://note.zhangkai.xin/project/cppujcdxxspm/</link>
-      <guid>https://note.zhangkai.xin/project/cppujcdxxspm/</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">警察大学校赛进程监控客户端</source>
-      <content:encoded><![CDATA[<p>警察大学校赛进程监控客户端，主要给机房用户在比赛时记录选手进程，便于监考。</p>
-<p>由于机房使用了Win7x86系统，所以特别进行了适配。</p>
-<h2 id="下载" tabindex="-1"> 下载</h2>
-<p>文件包含zip格式的便携版压缩包，适配了x86架构和x86_64架构。</p>
-<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-ProcessMonitor?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
-<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/JcdxXS-ProcessMonitor?display_date=published_at" alt="GitHub Release Date"></p>
-<p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-ProcessMonitor/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
-]]></content:encoded>
-      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-ProcessMonitor?sort=date&display_name=tag" type="image/"/>
     </item>
     <item>
       <title>CPPU-TimeTableSearching</title>
@@ -357,6 +342,29 @@ XX
 XXX
 </code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><p>第一行最后一部分就是统计出的人数，下方就是统计出来的人员名单。</p>
 ]]></content:encoded>
+    </item>
+    <item>
+      <title>警察大学校赛进程监控客户端</title>
+      <link>https://note.zhangkai.xin/project/cppujcdxxspm/</link>
+      <guid>https://note.zhangkai.xin/project/cppujcdxxspm/</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">警察大学校赛进程监控客户端</source>
+      <content:encoded><![CDATA[<p>这个程序的主要目的是获取进程监控器运行期间的程序变化情况，退出后在桌面生成一份加密的记录文件。通过监控校验器可以对记录进行校验和提取。</p>
+<h3 id="进程监控器-processmonitor" tabindex="-1"> 进程监控器（ProcessMonitor）</h3>
+<p>监控程序主客户端，双击打开，运行在系统托盘，右击图标可以选择退出。需要管理员权限。</p>
+<h3 id="监控校验器-pmrvalidator" tabindex="-1"> 监控校验器（PMRValidator）</h3>
+<p>监控文件校验器，通过命令行调用。需要管理员权限。</p>
+<div><pre><code><span># 指定文件即可进行校验</span>
+PMRValidator.exe MonitorFile_20250101_010101.pmr
+
+<span># 指定文件并使用-e指定目录即可在校验的同时提取记录</span>
+PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div></div></div><h2 id="下载" tabindex="-1"> 下载</h2>
+<p>两个程序的文件都包含zip格式的便携版压缩包，适配了x86架构和x86_64架构。</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-ProcessMonitor?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/JcdxXS-ProcessMonitor?display_date=published_at" alt="GitHub Release Date"></p>
+<p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-ProcessMonitor/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-ProcessMonitor?sort=date&display_name=tag" type="image/"/>
     </item>
     <item>
       <title>CPPU-ClickToLogin</title>
