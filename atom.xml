@@ -3,7 +3,7 @@
   <id>https://note.zhangkai.xin/</id>
   <title>Peter_Matthew的笔记</title>
   <subtitle>A Konjac in Province H.A.'s Note</subtitle>
-  <updated>2025-02-19T18:50:50.905Z</updated>
+  <updated>2025-03-08T07:45:41.925Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://note.zhangkai.xin/atom.xml"/>
   <link rel="alternate" href="https://note.zhangkai.xin/"/>
@@ -11,7 +11,7 @@
     <title type="html">【置顶】我和友链了解一下</title>
     <id>https://note.zhangkai.xin/posts/friend-links.html</id>
     <link href="https://note.zhangkai.xin/posts/friend-links.html"/>
-    <updated>2025-02-19T18:50:50.908Z</updated>
+    <updated>2025-03-08T07:45:41.927Z</updated>
     <content type="html"><![CDATA[<h2 id="我" tabindex="-1"> 我？</h2>
 <p>张开昕（男，2002/04/20 — ），（经常使用WilliamPeterMatthew、Peter_Matthew作为用户名，）一个曾经的HA省OIer，一名大学本科在读生，喜爱计算机。。。<br>
 <a href="https://www.zhangkai.xin/" target="_blank" rel="noopener noreferrer">我的博客</a> <a href="https://www.zhangkai.xin/atom.xml" target="_blank" rel="noopener noreferrer">RSS订阅</a></p>
@@ -71,7 +71,7 @@
     <title type="html">Hydro-Docker</title>
     <id>https://note.zhangkai.xin/posts/hydro-docker.html</id>
     <link href="https://note.zhangkai.xin/posts/hydro-docker.html"/>
-    <updated>2025-02-19T18:50:50.908Z</updated>
+    <updated>2025-03-08T07:45:41.928Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>对于CPPU正在运行的版本，我写了一个特别的版本在这里：<a href="https://github.com/WPMZKX/CPPUOJ-Docker" target="_blank" rel="noopener noreferrer">CPPUOJ-Docker</a>。</p>
 <p><img src="https://img.shields.io/github/v/release/WPMZKX/CPPUOJ-Docker?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
@@ -140,7 +140,7 @@
     <title type="html">警察大学校赛客户端</title>
     <id>https://note.zhangkai.xin/project/cppujcdxxs/</id>
     <link href="https://note.zhangkai.xin/project/cppujcdxxs/"/>
-    <updated>2025-02-19T18:50:50.908Z</updated>
+    <updated>2025-03-08T07:45:41.928Z</updated>
     <content type="html"><![CDATA[<p>警察大学校赛客户端，主要给机房用户在比赛时连接CPPU OJ使用，以便于现场监考。</p>
 <p>由于机房使用了Win7x86系统，所以特别进行了适配。</p>
 <p>目前分为Tauri版和Electron版。</p>
@@ -157,10 +157,32 @@
 ]]></content>
   </entry>
   <entry>
+    <title type="html">警察大学校赛进程监控客户端</title>
+    <id>https://note.zhangkai.xin/project/cppujcdxxspm/</id>
+    <link href="https://note.zhangkai.xin/project/cppujcdxxspm/"/>
+    <updated>2025-03-08T07:45:41.928Z</updated>
+    <content type="html"><![CDATA[<p>这个程序的主要目的是获取进程监控器运行期间的程序变化情况，退出后在桌面生成一份加密的记录文件。通过监控校验器可以对记录进行校验和提取。</p>
+<h3 id="进程监控器-processmonitor" tabindex="-1"> 进程监控器（ProcessMonitor）</h3>
+<p>监控程序主客户端，双击打开，运行在系统托盘，右击图标可以选择退出。需要管理员权限。</p>
+<h3 id="监控校验器-pmrvalidator" tabindex="-1"> 监控校验器（PMRValidator）</h3>
+<p>监控文件校验器，通过命令行调用。需要管理员权限。</p>
+<div><pre><code><span># 指定文件即可进行校验</span>
+PMRValidator.exe MonitorFile_20250101_010101.pmr
+
+<span># 指定文件并使用-e指定目录即可在校验的同时提取记录</span>
+PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div></div></div><h2 id="下载" tabindex="-1"> 下载</h2>
+<p>两个程序的文件都包含zip格式的便携版压缩包，适配了x86架构和x86_64架构。</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-ProcessMonitor?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/JcdxXS-ProcessMonitor?display_date=published_at" alt="GitHub Release Date"></p>
+<p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-ProcessMonitor/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
+]]></content>
+  </entry>
+  <entry>
     <title type="html">CPPU-TimeTableSearching</title>
     <id>https://note.zhangkai.xin/project/cpputts/</id>
     <link href="https://note.zhangkai.xin/project/cpputts/"/>
-    <updated>2025-02-19T18:50:50.909Z</updated>
+    <updated>2025-03-08T07:45:41.928Z</updated>
     <content type="html"><![CDATA[<p>CPPU查询某一节课有多少人上课</p>
 <p><a href="https://github.com/WilliamPeterMatthew/CPPU-TimeTableSearching/releases" target="_blank" rel="noopener noreferrer">Github下载</a> | <a href="https://gitee.com/WilliamPeterMatthew/CPPU-TimeTableSearching/releases/" target="_blank" rel="noopener noreferrer">Gitee下载</a></p>
 <h2 id="初始化" tabindex="-1"> 初始化</h2>
@@ -338,32 +360,10 @@ XXX
 ]]></content>
   </entry>
   <entry>
-    <title type="html">警察大学校赛进程监控客户端</title>
-    <id>https://note.zhangkai.xin/project/cppujcdxxspm/</id>
-    <link href="https://note.zhangkai.xin/project/cppujcdxxspm/"/>
-    <updated>2025-02-19T18:50:50.909Z</updated>
-    <content type="html"><![CDATA[<p>这个程序的主要目的是获取进程监控器运行期间的程序变化情况，退出后在桌面生成一份加密的记录文件。通过监控校验器可以对记录进行校验和提取。</p>
-<h3 id="进程监控器-processmonitor" tabindex="-1"> 进程监控器（ProcessMonitor）</h3>
-<p>监控程序主客户端，双击打开，运行在系统托盘，右击图标可以选择退出。需要管理员权限。</p>
-<h3 id="监控校验器-pmrvalidator" tabindex="-1"> 监控校验器（PMRValidator）</h3>
-<p>监控文件校验器，通过命令行调用。需要管理员权限。</p>
-<div><pre><code><span># 指定文件即可进行校验</span>
-PMRValidator.exe MonitorFile_20250101_010101.pmr
-
-<span># 指定文件并使用-e指定目录即可在校验的同时提取记录</span>
-PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
-</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div></div></div><h2 id="下载" tabindex="-1"> 下载</h2>
-<p>两个程序的文件都包含zip格式的便携版压缩包，适配了x86架构和x86_64架构。</p>
-<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-ProcessMonitor?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
-<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/JcdxXS-ProcessMonitor?display_date=published_at" alt="GitHub Release Date"></p>
-<p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-ProcessMonitor/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
-]]></content>
-  </entry>
-  <entry>
     <title type="html">CPPU-ClickToLogin</title>
     <id>https://note.zhangkai.xin/project/logincampusnetwork/cppuctl.html</id>
     <link href="https://note.zhangkai.xin/project/logincampusnetwork/cppuctl.html"/>
-    <updated>2025-02-19T18:50:50.909Z</updated>
+    <updated>2025-03-08T07:45:41.928Z</updated>
     <content type="html"><![CDATA[<p>CPPU上网认证客户端</p>
 <p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/CPPU-ClickToLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
 <p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/CPPU-ClickToLogin?display_date=published_at" alt="GitHub Release Date"></p>
@@ -376,7 +376,7 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
     <title type="html">CPPU-OneClickLogin</title>
     <id>https://note.zhangkai.xin/project/logincampusnetwork/cppuocl.html</id>
     <link href="https://note.zhangkai.xin/project/logincampusnetwork/cppuocl.html"/>
-    <updated>2025-02-19T18:50:50.909Z</updated>
+    <updated>2025-03-08T07:45:41.928Z</updated>
     <content type="html"><![CDATA[<p>CPPU一键登录校园网</p>
 <p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/CPPU-OneClickLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
 <p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/CPPU-OneClickLogin?display_date=published_at" alt="GitHub Release Date"></p>
@@ -389,7 +389,7 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
     <title type="html">PPSUC-ClickToLogin</title>
     <id>https://note.zhangkai.xin/project/logincampusnetwork/ppsucctl.html</id>
     <link href="https://note.zhangkai.xin/project/logincampusnetwork/ppsucctl.html"/>
-    <updated>2025-02-19T18:50:50.909Z</updated>
+    <updated>2025-03-08T07:45:41.928Z</updated>
     <content type="html"><![CDATA[<p>PPSUC上网认证客户端</p>
 <p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/PPSUC-ClickToLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
 <p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/PPSUC-ClickToLogin?display_date=published_at" alt="GitHub Release Date"></p>
@@ -402,7 +402,7 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
     <title type="html">PPSUC-OneClickLogin</title>
     <id>https://note.zhangkai.xin/project/logincampusnetwork/ppsucocl.html</id>
     <link href="https://note.zhangkai.xin/project/logincampusnetwork/ppsucocl.html"/>
-    <updated>2025-02-19T18:50:50.909Z</updated>
+    <updated>2025-03-08T07:45:41.929Z</updated>
     <content type="html"><![CDATA[<p>PPSUC一键登录校园网</p>
 <p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/PPSUC-OneClickLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
 <p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/PPSUC-OneClickLogin?display_date=published_at" alt="GitHub Release Date"></p>
@@ -415,7 +415,7 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
     <title type="html">登录校园网</title>
     <id>https://note.zhangkai.xin/project/logincampusnetwork/</id>
     <link href="https://note.zhangkai.xin/project/logincampusnetwork/"/>
-    <updated>2025-02-19T18:50:50.909Z</updated>
+    <updated>2025-03-08T07:45:41.929Z</updated>
     <content type="html"><![CDATA[<p>本项目针对新华三的校园网登录方案，根据CPPU和PPSUC两个学校的登录入口，生成了如下四个项目：</p>
 <ul>
 <li><a href="/project/logincampusnetwork/cppuctl/">CPPU-ClickToLogin</a>，适用于CPPU，采用弹出对话框手动输入账号密码的方法登录。</li>
@@ -430,7 +430,7 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
     <title type="html">使用手册 - 赛后工作</title>
     <id>https://note.zhangkai.xin/project/pingfen/four.html</id>
     <link href="https://note.zhangkai.xin/project/pingfen/four.html"/>
-    <updated>2025-02-19T18:50:50.909Z</updated>
+    <updated>2025-03-08T07:45:41.929Z</updated>
     <content type="html"><![CDATA[<h2 id="分数导出" tabindex="-1"> <i></i> 分数导出</h2>
 <p>点击 <i></i> 分数列表，进入页面。</p>
 <p>在此页面，你可以 <i></i> 删除分数、 <i></i> 选择多个分数并批量删除分数，点击 <i></i> 和 <i></i> 可以修改排序。为尽可能保障比赛公平， <strong>比赛后台无法直接修改分数</strong> ，仅能删除。如需修改，请通过数据库后台修改，或删除分数后修改 <i></i> 现场控制中的评委页面，在 <i></i> 评委列表同步对应评委的页面，然后通过评委端重新打分。</p>
@@ -444,7 +444,7 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
     <title type="html">使用手册 - 管理站点</title>
     <id>https://note.zhangkai.xin/project/pingfen/one.html</id>
     <link href="https://note.zhangkai.xin/project/pingfen/one.html"/>
-    <updated>2025-02-19T18:50:50.909Z</updated>
+    <updated>2025-03-08T07:45:41.929Z</updated>
     <content type="html"><![CDATA[<h2 id="登录管理后台" tabindex="-1"> <i></i> 登录管理后台</h2>
 <p>在您初次安装好此站点后，您已经在网站文件夹根目录下建立 <code>.env</code> 文件，并且导入了数据库文件 <code>pingfen.sql</code> 。</p>
 <p>接下来，您应该在右上角可以看到 <i></i> 图标，点击后可以进入管理后台的登录页面。我们已经在数据库中添加了一个超级管理员，账号是 <code>superadmin</code> ，密码是 <code>12345678</code> 。 <strong>请及时修改默认的账号及密码，任何能看到此使用手册的访问者均会知道此账号和密码。</strong></p>
@@ -461,7 +461,7 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
     <title type="html">竞赛现场智能评分系统</title>
     <id>https://note.zhangkai.xin/project/pingfen/</id>
     <link href="https://note.zhangkai.xin/project/pingfen/"/>
-    <updated>2025-02-19T18:50:50.909Z</updated>
+    <updated>2025-03-08T07:45:41.929Z</updated>
     <content type="html"><![CDATA[<p>pingfen</p>
 <blockquote>
 <p>使用ThinkPHP6.0框架，运行环境要求PHP7.2+，兼容PHP8.1</p>
@@ -489,7 +489,7 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
     <title type="html">使用手册 - 赛时控制</title>
     <id>https://note.zhangkai.xin/project/pingfen/three.html</id>
     <link href="https://note.zhangkai.xin/project/pingfen/three.html"/>
-    <updated>2025-02-19T18:50:50.909Z</updated>
+    <updated>2025-03-08T07:45:41.929Z</updated>
     <content type="html"><![CDATA[<h2 id="现场控制" tabindex="-1"> <i></i> 现场控制</h2>
 <p>在比赛开始前，请转到 <i></i> 现场控制页面，将评委的目前页面切换到等待评分第一组选手（例如等待评分: 1,2,3），评委的下一个页面切换到正在评分第一组选手（例如正在评分: 1,2,3），屏幕页面切换到背景。</p>
 <p>在此页面，最主要的两个功能是控制评委页面和屏幕页面。</p>
@@ -522,7 +522,7 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
     <title type="html">使用手册 - 赛前准备</title>
     <id>https://note.zhangkai.xin/project/pingfen/two.html</id>
     <link href="https://note.zhangkai.xin/project/pingfen/two.html"/>
-    <updated>2025-02-19T18:50:50.909Z</updated>
+    <updated>2025-03-08T07:45:41.929Z</updated>
     <content type="html"><![CDATA[<h2 id="新建比赛" tabindex="-1"> <i></i> 新建比赛</h2>
 <p>在修改完比赛的相关设置后，请点击 <i></i> 比赛列表，准备比赛。</p>
 <p>在此页面，你可以 <i></i> 新增比赛、 <i></i> 修改已有比赛、 <i></i> 删除比赛、 <i></i> 选择多个比赛并批量删除比赛，也可以直接进入比赛控制页面的 <i></i> <i></i> <i></i> <i></i> <i></i> 五个页面，点击 <i></i> 和 <i></i> 可以修改排序，该排序不会影响首页的显示顺序。</p>
