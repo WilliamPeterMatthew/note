@@ -6,8 +6,8 @@
     <link>https://note.zhangkai.xin/</link>
     <description>A Konjac in Province H.A.'s Note</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 08 Mar 2025 07:45:41 GMT</pubDate>
-    <lastBuildDate>Sat, 08 Mar 2025 07:45:41 GMT</lastBuildDate>
+    <pubDate>Fri, 30 May 2025 10:38:01 GMT</pubDate>
+    <lastBuildDate>Fri, 30 May 2025 10:38:01 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -142,27 +142,6 @@
       <enclosure url="https://img.shields.io/github/v/release/WPMZKX/CPPUOJ-Docker?sort=date&display_name=tag" type="image/"/>
     </item>
     <item>
-      <title>警察大学校赛客户端</title>
-      <link>https://note.zhangkai.xin/project/cppujcdxxs/</link>
-      <guid>https://note.zhangkai.xin/project/cppujcdxxs/</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">警察大学校赛客户端</source>
-      <content:encoded><![CDATA[<p>警察大学校赛客户端，主要给机房用户在比赛时连接CPPU OJ使用，以便于现场监考。</p>
-<p>由于机房使用了Win7x86系统，所以特别进行了适配。</p>
-<p>目前分为Tauri版和Electron版。</p>
-<h2 id="tauri版" tabindex="-1"> Tauri版</h2>
-<p>文件包含exe格式和msi格式的安装包，适配了x86架构和x86_64架构。</p>
-<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-Tauri?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
-<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/JcdxXS-Tauri?display_date=published_at" alt="GitHub Release Date"></p>
-<p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-Tauri/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
-<h2 id="electron版" tabindex="-1"> Electron版</h2>
-<p>文件包含exe格式的安装包和zip格式的便携版压缩包，适配了x86架构和x86_64架构。</p>
-<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-Electron?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
-<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/JcdxXS-Electron?display_date=published_at" alt="GitHub Release Date"></p>
-<p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-Electron/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
-]]></content:encoded>
-      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-Tauri?sort=date&display_name=tag" type="image/"/>
-    </item>
-    <item>
       <title>警察大学校赛进程监控客户端</title>
       <link>https://note.zhangkai.xin/project/cppujcdxxspm/</link>
       <guid>https://note.zhangkai.xin/project/cppujcdxxspm/</guid>
@@ -184,6 +163,27 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
 <p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-ProcessMonitor/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
 ]]></content:encoded>
       <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-ProcessMonitor?sort=date&display_name=tag" type="image/"/>
+    </item>
+    <item>
+      <title>警察大学校赛客户端</title>
+      <link>https://note.zhangkai.xin/project/cppujcdxxs/</link>
+      <guid>https://note.zhangkai.xin/project/cppujcdxxs/</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">警察大学校赛客户端</source>
+      <content:encoded><![CDATA[<p>警察大学校赛客户端，主要给机房用户在比赛时连接CPPU OJ使用，以便于现场监考。</p>
+<p>由于机房使用了Win7x86系统，所以特别进行了适配。</p>
+<p>目前分为Tauri版和Electron版。</p>
+<h2 id="tauri版" tabindex="-1"> Tauri版</h2>
+<p>文件包含exe格式和msi格式的安装包，适配了x86架构和x86_64架构。</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-Tauri?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/JcdxXS-Tauri?display_date=published_at" alt="GitHub Release Date"></p>
+<p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-Tauri/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
+<h2 id="electron版" tabindex="-1"> Electron版</h2>
+<p>文件包含exe格式的安装包和zip格式的便携版压缩包，适配了x86架构和x86_64架构。</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-Electron?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/JcdxXS-Electron?display_date=published_at" alt="GitHub Release Date"></p>
+<p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-Electron/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-Tauri?sort=date&display_name=tag" type="image/"/>
     </item>
     <item>
       <title>CPPU-TimeTableSearching</title>
@@ -438,6 +438,18 @@ XXX
 ]]></content:encoded>
     </item>
     <item>
+      <title>ss本地管理器</title>
+      <link>https://note.zhangkai.xin/project/sslocal-manager/</link>
+      <guid>https://note.zhangkai.xin/project/sslocal-manager/</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">ss本地管理器</source>
+      <content:encoded><![CDATA[<p>本项目根据不同系统所支持的软件，生成了如下两个项目：</p>
+<ul>
+<li><a href="/project/sslocal-manager/debian/">SSLocal-Manager</a>，构建基于Debian镜像，使用Shadowsocks-Libev的二进制文件。</li>
+<li><a href="/project/sslocal-manager/alpine/">SSLocal-Manager-Alpine</a>，构建基于Alpine镜像，使用Shadowsocks-Rust的二进制文件。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
       <title>使用手册 - 赛后工作</title>
       <link>https://note.zhangkai.xin/project/pingfen/four.html</link>
       <guid>https://note.zhangkai.xin/project/pingfen/four.html</guid>
@@ -558,6 +570,668 @@ XXX
 <p>另外，选手项中不提供启用开关，如果管理员不想在比赛中使用某个选手，只需要不使用该选手的序号即可。</p>
 </blockquote>
 ]]></content:encoded>
+    </item>
+    <item>
+      <title>通过网页调用Resend API发送邮件</title>
+      <link>https://note.zhangkai.xin/project/resend-mail-webpage/</link>
+      <guid>https://note.zhangkai.xin/project/resend-mail-webpage/</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">通过网页调用Resend API发送邮件</source>
+      <content:encoded><![CDATA[<h2 id="resend-mail-webpage" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/resend-mail-webpage" target="_blank" rel="noopener noreferrer">Resend Mail Webpage</a></h2>
+<p>一个通过网页调用Resend API发送邮件的项目。</p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/resendmail-web" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/resendmail-web" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/resendmail-web" alt="Docker Image Version"></p>
+<p>使用Docker Compose构建，使用Python Flask框架。</p>
+<h2 id="第一步" tabindex="-1"> 第一步</h2>
+<p>创建一个 <a href="https://resend.com/home" target="_blank" rel="noopener noreferrer">Resend</a> 账号。</p>
+<h2 id="第二步" tabindex="-1"> 第二步</h2>
+<p>添加一个域名到你的 Resend 账号。</p>
+<h2 id="第三步" tabindex="-1"> 第三步</h2>
+<p>创建你的账号的 API Key。</p>
+<h2 id="第四步" tabindex="-1"> 第四步</h2>
+<p>克隆这个仓库。</p>
+<div><pre><code><span>git</span> clone https://github.com/WilliamPeterMatthew/resend-mail-webpage.git
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="第五步" tabindex="-1"> 第五步</h2>
+<p>创建一个 <code>.env</code> 文件。</p>
+<div><pre><code><span>cp</span> .env.example .env
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="第六步" tabindex="-1"> 第六步</h2>
+<p>修改 <code>.env</code> 文件。</p>
+<table>
+<thead>
+<tr>
+<th>变量名</th>
+<th>描述</th>
+<th>示例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RESEND_API_KEY</td>
+<td>在第三步中获得的API Key</td>
+<td>re_1234567890aBcDeFgHiJkLmNoPqEsTuVw</td>
+</tr>
+<tr>
+<td>SITE_PASSWORD</td>
+<td>网站密码，防止其他人滥用</td>
+<td>P@ssw0rd</td>
+</tr>
+<tr>
+<td>PORT</td>
+<td>外部访问的端口</td>
+<td>5827</td>
+</tr>
+</tbody>
+</table>
+<h2 id="第七步" tabindex="-1"> 第七步</h2>
+<p>运行项目。</p>
+<div><pre><code><span>docker-compose</span> up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><p>你也可以使用预构建的镜像而不是本地构建。</p>
+<div><pre><code><span>docker-compose</span> -f docker-compose-prebuild.yml up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="恭喜" tabindex="-1"> 恭喜</h2>
+<p>现在你可以在第六步中设置的端口访问网页了。</p>
+<h2 id="可选" tabindex="-1"> 可选</h2>
+<p>你可以配置Apache或Nginx反向代理到端口80。</p>
+<p>Apache示例：</p>
+<div><pre><code>&lt;VirtualHost *:80&gt;
+    ServerName example.com
+
+    ProxyRequests Off
+    ProxyPreserveHost On
+    ProxyPass / http://localhost:&lt;你在第六步中设置的端口&gt;/
+    ProxyPassReverse / http://localhost:&lt;你在第六步中设置的端口&gt;/
+
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+&lt;/VirtualHost&gt;
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><p>Nginx示例：</p>
+<div><pre><code><span><span>server</span></span> <span>{</span>
+    <span><span>listen</span> <span>80</span></span><span>;</span>
+    <span><span>server_name</span> example.com</span><span>;</span>
+
+    <span><span>location</span> /</span> <span>{</span>
+        <span><span>proxy_pass</span> http://localhost:&lt;你在第六步中设置的端口></span><span>;</span>
+        <span><span>proxy_set_header</span> Host <span>$host</span></span><span>;</span>
+        <span><span>proxy_set_header</span> X-Real-IP <span>$remote_addr</span></span><span>;</span>
+        <span><span>proxy_set_header</span> X-Forwarded-For <span>$proxy_add_x_forwarded_for</span></span><span>;</span>
+        <span><span>proxy_set_header</span> X-Forwarded-Proto <span>$scheme</span></span><span>;</span>
+    <span>}</span>
+
+    <span><span>error_log</span> /var/log/nginx/resendmail_error.log</span><span>;</span>
+    <span><span>access_log</span> /var/log/nginx/resendmail_access.log</span><span>;</span>
+<span>}</span>
+
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>]]></content:encoded>
+      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/resendmail-web" type="image/"/>
+    </item>
+    <item>
+      <title>SSLocal-Manager-Alpine</title>
+      <link>https://note.zhangkai.xin/project/sslocal-manager/alpine/master.html</link>
+      <guid>https://note.zhangkai.xin/project/sslocal-manager/alpine/master.html</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">SSLocal-Manager-Alpine</source>
+      <content:encoded><![CDATA[<h2 id="sslocal-manager" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager-alpine/tree/master" target="_blank" rel="noopener noreferrer">sslocal-manager</a></h2>
+<p>一个用于管理 sslocal 的网页工具。</p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/sslocal-manager" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/sslocal-manager" alt="Docker Image Version"></p>
+<p>通过 Docker Compose 构建，基于 Python Flask 框架开发。</p>
+<blockquote>
+<p>如果需要同时在本地部署 ssserver-rust 和 ss-manager，可以参考分支 <a href="/project/sslocal-manager/alpine/proxy_local/">proxy_local</a> 的解决方案。</p>
+</blockquote>
+<h2 id="第1步" tabindex="-1"> 第1步</h2>
+<p>克隆本仓库。</p>
+<div><pre><code><span>git</span> clone https://github.com/WilliamPeterMatthew/sslocal-manager-alpine.git
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="第2步" tabindex="-1"> 第2步</h2>
+<p>修改 <code>.ssconfig.json</code> 文件，示例如下：</p>
+<div><pre><code>  {
+    "server": "ss.example.com",
+    "server_port": 8388,
+    "local_address": "0.0.0.0",
+    "local_port": 1080,
+    "password": "Password",
+    "timeout": 300,
+    "method": "aes-256-gcm"
+  }
+
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><h2 id="第3步" tabindex="-1"> 第3步</h2>
+<p>根据需要修改或保留 <code>docker-compose.yml</code> 文件中的端口（如果想使用预构建镜像，可使用 <code>docker-compose-prebuild.yml</code> 文件）。</p>
+<h2 id="第4步" tabindex="-1"> 第4步</h2>
+<p>在项目目录下运行以下命令启动项目：</p>
+<div><pre><code><span>docker-compose</span> up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><p>也可以使用预构建镜像启动：</p>
+<div><pre><code><span>docker-compose</span> -f docker-compose-prebuild.yml up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="恭喜" tabindex="-1"> 恭喜</h2>
+<p>现在可以通过第 3 步设置的端口访问网页管理界面。</p>
+<h2 id="可选配置" tabindex="-1"> 可选配置</h2>
+<p>可以通过 Apache 或 Nginx 配置反向代理到 80 端口。</p>
+<p>Apache Example</p>
+<div><pre><code>&lt;VirtualHost *:80&gt;
+    ServerName example.com
+
+    ProxyRequests Off
+    ProxyPreserveHost On
+    ProxyPass / http://localhost:&lt;你在第3步设置的端口&gt;/
+    ProxyPassReverse / http://localhost:&lt;你在第3步设置的端口&gt;/
+
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+&lt;/VirtualHost&gt;
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><p>Nginx Example</p>
+<div><pre><code><span><span>server</span></span> <span>{</span>
+    <span><span>listen</span> <span>80</span></span><span>;</span>
+    <span><span>server_name</span> example.com</span><span>;</span>
+
+    <span><span>location</span> /</span> <span>{</span>
+        <span><span>proxy_pass</span> http://localhost:&lt;你在第3步设置的端口></span><span>;</span>
+        <span><span>proxy_set_header</span> Host <span>$host</span></span><span>;</span>
+        <span><span>proxy_set_header</span> X-Real-IP <span>$remote_addr</span></span><span>;</span>
+        <span><span>proxy_set_header</span> X-Forwarded-For <span>$proxy_add_x_forwarded_for</span></span><span>;</span>
+        <span><span>proxy_set_header</span> X-Forwarded-Proto <span>$scheme</span></span><span>;</span>
+    <span>}</span>
+
+    <span><span>error_log</span> /var/log/nginx/sslocal_manager_error.log</span><span>;</span>
+    <span><span>access_log</span> /var/log/nginx/sslocal_manager_access.log</span><span>;</span>
+<span>}</span>
+
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>]]></content:encoded>
+      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager" type="image/"/>
+    </item>
+    <item>
+      <title>Proxy-Rust</title>
+      <link>https://note.zhangkai.xin/project/sslocal-manager/alpine/proxy-rust.html</link>
+      <guid>https://note.zhangkai.xin/project/sslocal-manager/alpine/proxy-rust.html</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">Proxy-Rust</source>
+      <content:encoded><![CDATA[<h2 id="proxy-rust" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager-alpine/tree/proxy-rust" target="_blank" rel="noopener noreferrer">Proxy-Rust</a></h2>
+<h3 id="sslocal-rust" tabindex="-1"> sslocal-rust</h3>
+<p>一个用于启动 sslocal 的镜像。</p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/sslocal-rust" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/sslocal-rust" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/sslocal-rust" alt="Docker Image Version"></p>
+<p>通过 Docker Compose 构建，二进制文件源仓库：<a href="https://github.com/shadowsocks/shadowsocks-rust/" target="_blank" rel="noopener noreferrer">shadowsocks-rust</a>。</p>
+<h3 id="ssserver-rust" tabindex="-1"> ssserver-rust</h3>
+<p>一个用于启动 ssserver 的镜像。</p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/ssserver-rust" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/ssserver-rust" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/ssserver-rust" alt="Docker Image Version"></p>
+<p>通过 Docker Compose 构建，二进制文件源仓库：<a href="https://github.com/shadowsocks/shadowsocks-rust/" target="_blank" rel="noopener noreferrer">shadowsocks-rust</a>。</p>
+<h2 id="第1步" tabindex="-1"> 第1步</h2>
+<p>克隆本仓库。</p>
+<div><pre><code><span>git</span> clone https://github.com/WilliamPeterMatthew/sslocal-manager-alpine.git -b proxy-rust
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="第2步" tabindex="-1"> 第2步</h2>
+<p>修改 <code>server.ssconfig.json</code> 文件，示例如下：</p>
+<div><pre><code>  {
+    "server": "0.0.0.0",
+    "server_port": 8388,
+    "password": "Password",
+    "timeout": 300,
+    "method": "aes-256-gcm"
+  }
+
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><p>同时，修改 <code>local.ssconfig.json</code> 文件，示例如下：</p>
+<div><pre><code>  {
+    "server": "ssserver-rust",
+    "server_port": 8388,
+    "local_address": "0.0.0.0",
+    "local_port": 1080,
+    "password": "Password",
+    "timeout": 300,
+    "method": "aes-256-gcm"
+  }
+
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><h2 id="第3步" tabindex="-1"> 第3步</h2>
+<p>根据需要修改或保留 <code>docker-compose.yml</code> 文件中的端口（如果想使用预构建镜像，可使用 <code>docker-compose-prebuild.yml</code> 文件）。</p>
+<h2 id="第4步" tabindex="-1"> 第4步</h2>
+<p>在项目目录下运行以下命令启动项目：</p>
+<div><pre><code><span>docker-compose</span> up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><p>也可以使用预构建镜像启动：</p>
+<div><pre><code><span>docker-compose</span> -f docker-compose-prebuild.yml up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="恭喜" tabindex="-1"> 恭喜</h2>
+<p>现在可以通过第 2 步设置的端口访问服务。</p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/sslocal-rust" type="image/"/>
+    </item>
+    <item>
+      <title>Proxy_Local</title>
+      <link>https://note.zhangkai.xin/project/sslocal-manager/alpine/proxy_local.html</link>
+      <guid>https://note.zhangkai.xin/project/sslocal-manager/alpine/proxy_local.html</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">Proxy_Local</source>
+      <content:encoded><![CDATA[<h2 id="proxy-local" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager-alpine/tree/proxy_local" target="_blank" rel="noopener noreferrer">Proxy_Local</a></h2>
+<h3 id="sslocal-manager" tabindex="-1"> sslocal-manager</h3>
+<p>一个用于管理 sslocal 的网页工具。</p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/sslocal-manager" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/sslocal-manager" alt="Docker Image Version"></p>
+<p>通过 Docker Compose 构建，基于 Python Flask 框架开发。</p>
+<h3 id="ssserver-rust" tabindex="-1"> ssserver-rust</h3>
+<p>一个用于启动 ssserver 的镜像。</p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/ssserver-rust" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/ssserver-rust" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/ssserver-rust" alt="Docker Image Version"></p>
+<p>通过 Docker Compose 构建，二进制文件源仓库：<a href="https://github.com/shadowsocks/shadowsocks-rust/" target="_blank" rel="noopener noreferrer">shadowsocks-rust</a>。</p>
+<h2 id="第1步" tabindex="-1"> 第1步</h2>
+<p>克隆本仓库。</p>
+<div><pre><code><span>git</span> clone https://github.com/WilliamPeterMatthew/sslocal-manager-alpine.git -b proxy_local
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="第2步" tabindex="-1"> 第2步</h2>
+<p>修改 <code>.ssconfig.json</code> 文件，示例如下：</p>
+<div><pre><code>  {
+    "server": "ssserver-rust",
+    "server_port": 8388,
+    "local_address": "0.0.0.0",
+    "local_port": 1080,
+    "password": "Password",
+    "timeout": 300,
+    "method": "aes-256-gcm"
+  }
+
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><p>同时，修改 <code>server.ssconfig.json</code> 文件，示例如下：</p>
+<div><pre><code>  {
+    "server": "0.0.0.0",
+    "server_port": 8388,
+    "password": "Password",
+    "timeout": 300,
+    "method": "aes-256-gcm"
+  }
+
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><h2 id="第3步" tabindex="-1"> 第3步</h2>
+<p>根据需要修改或保留 <code>docker-compose.yml</code> 文件中的端口（如果想使用预构建镜像，可使用 <code>docker-compose-prebuild.yml</code> 文件）。</p>
+<h2 id="第4步" tabindex="-1"> 第4步</h2>
+<p>在项目目录下运行以下命令启动项目：</p>
+<div><pre><code><span>docker-compose</span> up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><p>也可以使用预构建镜像启动：</p>
+<div><pre><code><span>docker-compose</span> -f docker-compose-prebuild.yml up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="恭喜" tabindex="-1"> 恭喜</h2>
+<p>现在可以通过第 3 步设置的端口访问网页管理界面。</p>
+<h2 id="可选配置" tabindex="-1"> 可选配置</h2>
+<p>可以通过 Apache 或 Nginx 配置反向代理到 80 端口。</p>
+<p>Apache Example</p>
+<div><pre><code>&lt;VirtualHost *:80&gt;
+    ServerName example.com
+
+    ProxyRequests Off
+    ProxyPreserveHost On
+    ProxyPass / http://localhost:&lt;你在第3步设置的端口&gt;/
+    ProxyPassReverse / http://localhost:&lt;你在第3步设置的端口&gt;/
+
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+&lt;/VirtualHost&gt;
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><p>Nginx Example</p>
+<div><pre><code><span><span>server</span></span> <span>{</span>
+    <span><span>listen</span> <span>80</span></span><span>;</span>
+    <span><span>server_name</span> example.com</span><span>;</span>
+
+    <span><span>location</span> /</span> <span>{</span>
+        <span><span>proxy_pass</span> http://localhost:&lt;你在第3步设置的端口></span><span>;</span>
+        <span><span>proxy_set_header</span> Host <span>$host</span></span><span>;</span>
+        <span><span>proxy_set_header</span> X-Real-IP <span>$remote_addr</span></span><span>;</span>
+        <span><span>proxy_set_header</span> X-Forwarded-For <span>$proxy_add_x_forwarded_for</span></span><span>;</span>
+        <span><span>proxy_set_header</span> X-Forwarded-Proto <span>$scheme</span></span><span>;</span>
+    <span>}</span>
+
+    <span><span>error_log</span> /var/log/nginx/sslocal_manager_error.log</span><span>;</span>
+    <span><span>access_log</span> /var/log/nginx/sslocal_manager_access.log</span><span>;</span>
+<span>}</span>
+
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>]]></content:encoded>
+      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager" type="image/"/>
+    </item>
+    <item>
+      <title>SSLocal-Manager-Alpine</title>
+      <link>https://note.zhangkai.xin/project/sslocal-manager/alpine/</link>
+      <guid>https://note.zhangkai.xin/project/sslocal-manager/alpine/</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">SSLocal-Manager-Alpine</source>
+      <content:encoded><![CDATA[<p>构建基于Alpine镜像，使用Shadowsocks-Rust的二进制文件。<br>
+本项目根据不同的功能，生成了如下五个分支：</p>
+<ul>
+<li><a href="/project/sslocal-manager/alpine/master/">SSLocal-Manager-Alpine</a>，使用网页管理SSLocal是否启动。</li>
+<li><a href="/project/sslocal-manager/alpine/ssserver-rust/">SSServer-Rust</a>，使用Shadowsocks-Rust的二进制文件构建的SSServer镜像。</li>
+<li><a href="/project/sslocal-manager/alpine/sslocal-rust/">SSLocal-Rust</a>，使用Shadowsocks-Rust的二进制文件构建的SSLocal镜像。</li>
+<li><a href="/project/sslocal-manager/alpine/proxy_local/">Proxy_Local</a>，使用网页管理SSLocal是否启动，同时在一台机器上启动SSServer镜像。</li>
+<li><a href="/project/sslocal-manager/alpine/proxy-rust/">Proxy-Rust</a>，同时在一台机器上启动SSLocal镜像和SSServer镜像。</li>
+</ul>
+<p>这些分支的关系如下：<br>
+<img src="/pic/rust1.png" alt="Rust1"></p>
+]]></content:encoded>
+      <enclosure url="https://note.zhangkai.xin/pic/rust1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>SSLocal-Rust</title>
+      <link>https://note.zhangkai.xin/project/sslocal-manager/alpine/sslocal-rust.html</link>
+      <guid>https://note.zhangkai.xin/project/sslocal-manager/alpine/sslocal-rust.html</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">SSLocal-Rust</source>
+      <content:encoded><![CDATA[<h2 id="sslocal-rust" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager-alpine/tree/sslocal-rust" target="_blank" rel="noopener noreferrer">sslocal-rust</a></h2>
+<p>一个用于启动 sslocal 的镜像。</p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/sslocal-rust" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/sslocal-rust" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/sslocal-rust" alt="Docker Image Version"></p>
+<p>通过 Docker Compose 构建，二进制文件源仓库：<a href="https://github.com/shadowsocks/shadowsocks-rust/" target="_blank" rel="noopener noreferrer">shadowsocks-rust</a>。</p>
+<blockquote>
+<p>如果需要同时在本地部署 ssserver-rust 和 sslocal-rust <a href="/project/sslocal-manager/alpine/proxy-rust/">proxy-libev</a> 的解决方案。</p>
+</blockquote>
+<h2 id="第1步" tabindex="-1"> 第1步</h2>
+<p>克隆本仓库。</p>
+<div><pre><code><span>git</span> clone https://github.com/WilliamPeterMatthew/sslocal-manager-alpine.git -b sslocal-rust
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="第2步" tabindex="-1"> 第2步</h2>
+<p>修改 <code>local.ssconfig.json</code> 文件，示例如下：</p>
+<div><pre><code>  {
+    "server": "ss.example.com",
+    "server_port": 8388,
+    "local_address": "0.0.0.0",
+    "local_port": 1080,
+    "password": "Password",
+    "timeout": 300,
+    "method": "aes-256-gcm"
+  }
+
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><h2 id="第3步" tabindex="-1"> 第3步</h2>
+<p>根据需要修改或保留 <code>docker-compose.yml</code> 文件中的端口（如果想使用预构建镜像，可使用 <code>docker-compose-prebuild.yml</code> 文件）。</p>
+<h2 id="第4步" tabindex="-1"> 第4步</h2>
+<p>在项目目录下运行以下命令启动项目：</p>
+<div><pre><code><span>docker-compose</span> up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><p>也可以使用预构建镜像启动：</p>
+<div><pre><code><span>docker-compose</span> -f docker-compose-prebuild.yml up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="恭喜" tabindex="-1"> 恭喜</h2>
+<p>现在可以通过第 2 步设置的端口访问服务。</p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/sslocal-rust" type="image/"/>
+    </item>
+    <item>
+      <title>SSServer-Rust</title>
+      <link>https://note.zhangkai.xin/project/sslocal-manager/alpine/ssserver-rust.html</link>
+      <guid>https://note.zhangkai.xin/project/sslocal-manager/alpine/ssserver-rust.html</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">SSServer-Rust</source>
+      <content:encoded><![CDATA[<h2 id="ssserver-rust" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager-alpine/tree/ssserver-rust" target="_blank" rel="noopener noreferrer">ssserver-rust</a></h2>
+<p>一个用于启动 ssserver 的镜像。</p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/ssserver-rust" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/ssserver-rust" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/ssserver-rust" alt="Docker Image Version"></p>
+<p>通过 Docker Compose 构建，二进制文件源仓库：<a href="https://github.com/shadowsocks/shadowsocks-rust/" target="_blank" rel="noopener noreferrer">shadowsocks-rust</a>。</p>
+<blockquote>
+<p>如果需要同时在本地部署 ssserver-rust 和 ss-manager，可以参考分支 <a href="/project/sslocal-manager/alpine/proxy_local/">proxy_local</a> 的解决方案。</p>
+<p>如果需要同时在本地部署 ssserver-rust 和 sslocal-rust <a href="/project/sslocal-manager/alpine/proxy-rust/">proxy-libev</a> 的解决方案。</p>
+</blockquote>
+<h2 id="第1步" tabindex="-1"> 第1步</h2>
+<p>克隆本仓库。</p>
+<div><pre><code><span>git</span> clone https://github.com/WilliamPeterMatthew/sslocal-manager-alpine.git -b ssserver-rust
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="第2步" tabindex="-1"> 第2步</h2>
+<p>修改 <code>server.ssconfig.json</code> 文件，示例如下：</p>
+<div><pre><code>  {
+    "server": "0.0.0.0",
+    "server_port": 8388,
+    "password": "Password",
+    "timeout": 300,
+    "method": "aes-256-gcm"
+  }
+
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><h2 id="第3步" tabindex="-1"> 第3步</h2>
+<p>根据需要修改或保留 <code>docker-compose.yml</code> 文件中的端口（如果想使用预构建镜像，可使用 <code>docker-compose-prebuild.yml</code> 文件）。</p>
+<h2 id="第4步" tabindex="-1"> 第4步</h2>
+<p>在项目目录下运行以下命令启动项目：</p>
+<div><pre><code><span>docker-compose</span> up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><p>也可以使用预构建镜像启动：</p>
+<div><pre><code><span>docker-compose</span> -f docker-compose-prebuild.yml up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="恭喜" tabindex="-1"> 恭喜</h2>
+<p>现在可以通过第 2 步设置的端口访问服务。</p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/ssserver-rust" type="image/"/>
+    </item>
+    <item>
+      <title>SSLocal-Manager</title>
+      <link>https://note.zhangkai.xin/project/sslocal-manager/debian/master.html</link>
+      <guid>https://note.zhangkai.xin/project/sslocal-manager/debian/master.html</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">SSLocal-Manager</source>
+      <content:encoded><![CDATA[<h2 id="sslocal-manager" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager/tree/master" target="_blank" rel="noopener noreferrer">sslocal-manager</a></h2>
+<p>一个用于管理 ss-local 的网页工具。</p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/sslocal-manager" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/sslocal-manager" alt="Docker Image Version"></p>
+<p>通过 Docker Compose 构建，基于 Python Flask 框架开发。</p>
+<blockquote>
+<p>如果需要同时在本地部署 ssserver-libev 和 ss-manager，可以参考分支 <a href="/project/sslocal-manager/debian/proxy_local/">proxy_local</a> 的解决方案。</p>
+</blockquote>
+<h2 id="第1步" tabindex="-1"> 第1步</h2>
+<p>克隆本仓库。</p>
+<div><pre><code><span>git</span> clone https://github.com/WilliamPeterMatthew/sslocal-manager.git
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="第2步" tabindex="-1"> 第2步</h2>
+<p>修改 <code>.ssconfig.json</code> 文件，示例如下：</p>
+<div><pre><code>  {
+    "server": "ss.example.com",
+    "server_port": 8388,
+    "local_address": "0.0.0.0",
+    "local_port": 1080,
+    "password": "Password",
+    "timeout": 300,
+    "method": "aes-256-gcm"
+  }
+
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><h2 id="第3步" tabindex="-1"> 第3步</h2>
+<p>根据需要修改或保留 <code>docker-compose.yml</code> 文件中的端口（如果想使用预构建镜像，可使用 <code>docker-compose-prebuild.yml</code> 文件）。</p>
+<h2 id="第4步" tabindex="-1"> 第4步</h2>
+<p>在项目目录下运行以下命令启动项目：</p>
+<div><pre><code><span>docker-compose</span> up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><p>也可以使用预构建镜像启动：</p>
+<div><pre><code><span>docker-compose</span> -f docker-compose-prebuild.yml up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="恭喜" tabindex="-1"> 恭喜</h2>
+<p>现在可以通过第 3 步设置的端口访问网页管理界面。</p>
+<h2 id="可选配置" tabindex="-1"> 可选配置</h2>
+<p>可以通过 Apache 或 Nginx 配置反向代理到 80 端口。</p>
+<p>Apache 示例</p>
+<div><pre><code>&lt;VirtualHost *:80&gt;
+    ServerName example.com
+
+    ProxyRequests Off
+    ProxyPreserveHost On
+    ProxyPass / http://localhost:&lt;你在第3步设置的端口&gt;/
+    ProxyPassReverse / http://localhost:&lt;你在第3步设置的端口&gt;/
+
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+&lt;/VirtualHost&gt;
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><p>Nginx 示例</p>
+<div><pre><code><span><span>server</span></span> <span>{</span>
+    <span><span>listen</span> <span>80</span></span><span>;</span>
+    <span><span>server_name</span> example.com</span><span>;</span>
+
+    <span><span>location</span> /</span> <span>{</span>
+        <span><span>proxy_pass</span> http://localhost:&lt;你在第3步设置的端口></span><span>;</span>
+        <span><span>proxy_set_header</span> Host <span>$host</span></span><span>;</span>
+        <span><span>proxy_set_header</span> X-Real-IP <span>$remote_addr</span></span><span>;</span>
+        <span><span>proxy_set_header</span> X-Forwarded-For <span>$proxy_add_x_forwarded_for</span></span><span>;</span>
+        <span><span>proxy_set_header</span> X-Forwarded-Proto <span>$scheme</span></span><span>;</span>
+    <span>}</span>
+
+    <span><span>error_log</span> /var/log/nginx/sslocal_manager_error.log</span><span>;</span>
+    <span><span>access_log</span> /var/log/nginx/sslocal_manager_access.log</span><span>;</span>
+<span>}</span>
+
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>]]></content:encoded>
+      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager" type="image/"/>
+    </item>
+    <item>
+      <title>Proxy-Libev</title>
+      <link>https://note.zhangkai.xin/project/sslocal-manager/debian/proxy-libev.html</link>
+      <guid>https://note.zhangkai.xin/project/sslocal-manager/debian/proxy-libev.html</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">Proxy-Libev</source>
+      <content:encoded><![CDATA[<h2 id="proxy-libev" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager/tree/proxy-libev" target="_blank" rel="noopener noreferrer">Proxy-Libev</a></h2>
+<h3 id="sslocal-libev" tabindex="-1"> sslocal-libev</h3>
+<p>一个用于启动 ss-local 的镜像。</p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/sslocal-libev" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/sslocal-libev" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/sslocal-libev" alt="Docker Image Version"></p>
+<p>通过 Docker Compose 构建，二进制文件源仓库：<a href="https://github.com/shadowsocks/shadowsocks-libev/" target="_blank" rel="noopener noreferrer">shadowsocks-libev</a>。</p>
+<h3 id="ssserver-libev" tabindex="-1"> ssserver-libev</h3>
+<p>一个用于启动 ss-server 的镜像。</p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/ssserver-libev" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/ssserver-libev" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/ssserver-libev" alt="Docker Image Version"></p>
+<p>通过 Docker Compose 构建，二进制文件源仓库：<a href="https://github.com/shadowsocks/shadowsocks-libev/" target="_blank" rel="noopener noreferrer">shadowsocks-libev</a>。</p>
+<h2 id="第1步" tabindex="-1"> 第1步</h2>
+<p>克隆本仓库。</p>
+<div><pre><code><span>git</span> clone https://github.com/WilliamPeterMatthew/sslocal-manager.git -b proxy-libev
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="第2步" tabindex="-1"> 第2步</h2>
+<p>根据需要修改或保留 <code>docker-compose.yml</code> 文件中的端口（如果想使用预构建镜像，可使用 <code>docker-compose-prebuild.yml</code> 文件）。</p>
+<h2 id="第3步" tabindex="-1"> 第3步</h2>
+<p>在项目目录下运行以下命令启动项目：</p>
+<div><pre><code><span>docker-compose</span> up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><p>也可以使用预构建镜像启动：</p>
+<div><pre><code><span>docker-compose</span> -f docker-compose-prebuild.yml up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="恭喜" tabindex="-1"> 恭喜</h2>
+<p>现在可以通过第 2 步设置的端口访问服务。</p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/sslocal-libev" type="image/"/>
+    </item>
+    <item>
+      <title>Proxy_Local</title>
+      <link>https://note.zhangkai.xin/project/sslocal-manager/debian/proxy_local.html</link>
+      <guid>https://note.zhangkai.xin/project/sslocal-manager/debian/proxy_local.html</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">Proxy_Local</source>
+      <content:encoded><![CDATA[<h2 id="proxy-local" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager/tree/proxy_local" target="_blank" rel="noopener noreferrer">Proxy_Local</a></h2>
+<h3 id="sslocal-manager" tabindex="-1"> sslocal-manager</h3>
+<p>一个用于管理 ss-local 的网页工具。</p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/sslocal-manager" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/sslocal-manager" alt="Docker Image Version"></p>
+<p>通过 Docker Compose 构建，基于 Python Flask 框架开发。</p>
+<h3 id="ssserver-libev" tabindex="-1"> ssserver-libev</h3>
+<p>一个用于启动 ss-server 的镜像。</p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/ssserver-libev" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/ssserver-libev" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/ssserver-libev" alt="Docker Image Version"></p>
+<p>通过 Docker Compose 构建，二进制文件源仓库：<a href="https://github.com/shadowsocks/shadowsocks-libev/" target="_blank" rel="noopener noreferrer">shadowsocks-libev</a>。</p>
+<h2 id="第1步" tabindex="-1"> 第1步</h2>
+<p>克隆本仓库。</p>
+<div><pre><code><span>git</span> clone https://github.com/WilliamPeterMatthew/sslocal-manager.git -b proxy_local
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="第2步" tabindex="-1"> 第2步</h2>
+<p>修改 <code>.ssconfig.json</code> 文件，示例如下：</p>
+<div><pre><code>  {
+    "server": "ssserver-libev",
+    "server_port": 8388,
+    "local_address": "0.0.0.0",
+    "local_port": 1080,
+    "password": "Password",
+    "timeout": 300,
+    "method": "aes-256-gcm"
+  }
+
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><h2 id="第3步" tabindex="-1"> 第3步</h2>
+<p>根据需要修改或保留 <code>docker-compose.yml</code> 文件中的端口（如果想使用预构建镜像，可使用 <code>docker-compose-prebuild.yml</code> 文件）。</p>
+<h2 id="第4步" tabindex="-1"> 第4步</h2>
+<p>在项目目录下运行以下命令启动项目：</p>
+<div><pre><code><span>docker-compose</span> up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><p>也可以使用预构建镜像启动：</p>
+<div><pre><code><span>docker-compose</span> -f docker-compose-prebuild.yml up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="恭喜" tabindex="-1"> 恭喜</h2>
+<p>现在可以通过第 3 步设置的端口访问网页管理界面。</p>
+<h2 id="可选配置" tabindex="-1"> 可选配置</h2>
+<p>可以通过 Apache 或 Nginx 配置反向代理到 80 端口。</p>
+<p>Apache 示例</p>
+<div><pre><code>&lt;VirtualHost *:80&gt;
+    ServerName example.com
+
+    ProxyRequests Off
+    ProxyPreserveHost On
+    ProxyPass / http://localhost:&lt;你在第3步设置的端口&gt;/
+    ProxyPassReverse / http://localhost:&lt;你在第3步设置的端口&gt;/
+
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+&lt;/VirtualHost&gt;
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><p>Nginx 示例</p>
+<div><pre><code><span><span>server</span></span> <span>{</span>
+    <span><span>listen</span> <span>80</span></span><span>;</span>
+    <span><span>server_name</span> example.com</span><span>;</span>
+
+    <span><span>location</span> /</span> <span>{</span>
+        <span><span>proxy_pass</span> http://localhost:&lt;你在第3步设置的端口></span><span>;</span>
+        <span><span>proxy_set_header</span> Host <span>$host</span></span><span>;</span>
+        <span><span>proxy_set_header</span> X-Real-IP <span>$remote_addr</span></span><span>;</span>
+        <span><span>proxy_set_header</span> X-Forwarded-For <span>$proxy_add_x_forwarded_for</span></span><span>;</span>
+        <span><span>proxy_set_header</span> X-Forwarded-Proto <span>$scheme</span></span><span>;</span>
+    <span>}</span>
+
+    <span><span>error_log</span> /var/log/nginx/sslocal_manager_error.log</span><span>;</span>
+    <span><span>access_log</span> /var/log/nginx/sslocal_manager_access.log</span><span>;</span>
+<span>}</span>
+
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>]]></content:encoded>
+      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager" type="image/"/>
+    </item>
+    <item>
+      <title>SSLocal-Manager</title>
+      <link>https://note.zhangkai.xin/project/sslocal-manager/debian/</link>
+      <guid>https://note.zhangkai.xin/project/sslocal-manager/debian/</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">SSLocal-Manager</source>
+      <content:encoded><![CDATA[<p>构建基于Debian镜像，使用Shadowsocks-Libev的二进制文件。<br>
+本项目根据不同的功能，生成了如下五个分支：</p>
+<ul>
+<li><a href="/project/sslocal-manager/debian/master/">SSLocal-Manager</a>，使用网页管理SSLocal是否启动。</li>
+<li><a href="/project/sslocal-manager/debian/ssserver-libev/">SSServer-Libev</a>，使用Shadowsocks-Libev的二进制文件构建的SSServer镜像。</li>
+<li><a href="/project/sslocal-manager/debian/sslocal-libev/">SSLocal-Libev</a>，使用Shadowsocks-Libev的二进制文件构建的SSLocal镜像。</li>
+<li><a href="/project/sslocal-manager/debian/proxy_local/">Proxy_Local</a>，使用网页管理SSLocal是否启动，同时在一台机器上启动SSServer镜像。</li>
+<li><a href="/project/sslocal-manager/debian/proxy-libev/">Proxy-Libev</a>，同时在一台机器上启动SSLocal镜像和SSServer镜像。</li>
+</ul>
+<p>这些分支的关系如下：<br>
+<img src="/pic/libev1.png" alt="Libev1"></p>
+]]></content:encoded>
+      <enclosure url="https://note.zhangkai.xin/pic/libev1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>SSLocal-Libev</title>
+      <link>https://note.zhangkai.xin/project/sslocal-manager/debian/sslocal-libev.html</link>
+      <guid>https://note.zhangkai.xin/project/sslocal-manager/debian/sslocal-libev.html</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">SSLocal-Libev</source>
+      <content:encoded><![CDATA[<h2 id="sslocal-libev" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager/tree/sslocal-libev" target="_blank" rel="noopener noreferrer">sslocal-libev</a></h2>
+<p>一个用于启动 ss-local 的镜像。</p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/sslocal-libev" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/sslocal-libev" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/sslocal-libev" alt="Docker Image Version"></p>
+<p>通过 Docker Compose 构建，二进制文件源仓库：<a href="https://github.com/shadowsocks/shadowsocks-libev/" target="_blank" rel="noopener noreferrer">shadowsocks-libev</a>。</p>
+<blockquote>
+<p>如果需要同时在本地部署 ssserver-libev 和 sslocal-libev，可以参考分支 <a href="/project/sslocal-manager/debian/proxy-libev/">proxy-libev</a> 的解决方案。</p>
+</blockquote>
+<h2 id="第1步" tabindex="-1"> 第1步</h2>
+<p>克隆本仓库。</p>
+<div><pre><code><span>git</span> clone https://github.com/WilliamPeterMatthew/sslocal-manager.git -b sslocal-libev
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="第2步" tabindex="-1"> 第2步</h2>
+<p>根据需要修改或保留 <code>docker-compose.yml</code> 文件中的端口（如果想使用预构建镜像，可使用 <code>docker-compose-prebuild.yml</code> 文件）。</p>
+<h2 id="第3步" tabindex="-1"> 第3步</h2>
+<p>在项目目录下运行以下命令启动项目：</p>
+<div><pre><code><span>docker-compose</span> up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><p>也可以使用预构建镜像启动：</p>
+<div><pre><code><span>docker-compose</span> -f docker-compose-prebuild.yml up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="恭喜" tabindex="-1"> 恭喜</h2>
+<p>现在可以通过第 2 步设置的端口访问服务。</p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/sslocal-libev" type="image/"/>
+    </item>
+    <item>
+      <title>SSServer-Libev</title>
+      <link>https://note.zhangkai.xin/project/sslocal-manager/debian/ssserver-libev.html</link>
+      <guid>https://note.zhangkai.xin/project/sslocal-manager/debian/ssserver-libev.html</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">SSServer-Libev</source>
+      <content:encoded><![CDATA[<h2 id="ssserver-libev" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager/tree/ssserver-libev" target="_blank" rel="noopener noreferrer">ssserver-libev</a></h2>
+<p>一个用于启动 ss-server 的镜像。</p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/ssserver-libev" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/ssserver-libev" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/ssserver-libev" alt="Docker Image Version"></p>
+<p>通过 Docker Compose 构建，二进制文件源仓库：<a href="https://github.com/shadowsocks/shadowsocks-libev/" target="_blank" rel="noopener noreferrer">shadowsocks-libev</a>。</p>
+<blockquote>
+<p>如果需要同时在本地部署 ssserver-libev 和 ss-manager，可以参考分支 <a href="/project/sslocal-manager/debian/proxy_local/">proxy_local</a> 的解决方案。</p>
+<p>如果需要同时在本地部署 ssserver-libev 和 sslocal-libev，可以参考分支 <a href="/project/sslocal-manager/debian/proxy-libev/">proxy-libev</a> 的解决方案。</p>
+</blockquote>
+<h2 id="第1步" tabindex="-1"> 第1步</h2>
+<p>克隆本仓库。</p>
+<div><pre><code><span>git</span> clone https://github.com/WilliamPeterMatthew/sslocal-manager.git -b ssserver-libev
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="第2步" tabindex="-1"> 第2步</h2>
+<p>根据需要修改或保留 <code>docker-compose.yml</code> 文件中的端口（如果想使用预构建镜像，可使用 <code>docker-compose-prebuild.yml</code> 文件）。</p>
+<h2 id="第3步" tabindex="-1"> 第3步</h2>
+<p>在项目目录下运行以下命令启动项目：</p>
+<div><pre><code><span>docker-compose</span> up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><p>也可以使用预构建镜像启动：</p>
+<div><pre><code><span>docker-compose</span> -f docker-compose-prebuild.yml up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="恭喜" tabindex="-1"> 恭喜</h2>
+<p>现在可以通过第 2 步设置的端口访问服务。</p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/ssserver-libev" type="image/"/>
     </item>
   </channel>
 </rss>
