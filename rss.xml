@@ -6,8 +6,8 @@
     <link>https://note.zhangkai.xin/</link>
     <description>A Konjac in Province H.A.'s Note</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 19 Aug 2025 09:12:27 GMT</pubDate>
-    <lastBuildDate>Tue, 19 Aug 2025 09:12:27 GMT</lastBuildDate>
+    <pubDate>Sun, 24 Aug 2025 15:48:31 GMT</pubDate>
+    <lastBuildDate>Sun, 24 Aug 2025 15:48:31 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -161,6 +161,100 @@
 <p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-Electron/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
 ]]></content:encoded>
       <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-Tauri?sort=date&display_name=tag" type="image/"/>
+    </item>
+    <item>
+      <title>警察大学校赛进程监控客户端</title>
+      <link>https://note.zhangkai.xin/project/cppujcdxxspm/</link>
+      <guid>https://note.zhangkai.xin/project/cppujcdxxspm/</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">警察大学校赛进程监控客户端</source>
+      <content:encoded><![CDATA[<p>这个程序的主要目的是获取进程监控器运行期间的程序变化情况，退出后在桌面生成一份加密的记录文件。通过监控校验器可以对记录进行校验和提取。</p>
+<h3 id="进程监控器-processmonitor" tabindex="-1"> 进程监控器（ProcessMonitor）</h3>
+<p>监控程序主客户端，双击打开，运行在系统托盘，右击图标可以选择退出。需要管理员权限。</p>
+<h3 id="监控校验器-pmrvalidator" tabindex="-1"> 监控校验器（PMRValidator）</h3>
+<p>监控文件校验器，通过命令行调用。需要管理员权限。</p>
+<div><pre><code><span># 指定文件即可进行校验</span>
+PMRValidator.exe MonitorFile_20250101_010101.pmr
+
+<span># 指定文件并使用-e指定目录即可在校验的同时提取记录</span>
+PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div></div></div><h2 id="下载" tabindex="-1"> 下载</h2>
+<p>两个程序的文件都包含zip格式的便携版压缩包，适配了x86架构和x86_64架构。</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-ProcessMonitor?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/JcdxXS-ProcessMonitor?display_date=published_at" alt="GitHub Release Date"></p>
+<p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-ProcessMonitor/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-ProcessMonitor?sort=date&display_name=tag" type="image/"/>
+    </item>
+    <item>
+      <title>CPPU-ClickToLogin</title>
+      <link>https://note.zhangkai.xin/project/logincampusnetwork/cppuctl.html</link>
+      <guid>https://note.zhangkai.xin/project/logincampusnetwork/cppuctl.html</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">CPPU-ClickToLogin</source>
+      <content:encoded><![CDATA[<p>CPPU上网认证客户端</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/CPPU-ClickToLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/CPPU-ClickToLogin?display_date=published_at" alt="GitHub Release Date"></p>
+<h2 id="使用" tabindex="-1"> 使用</h2>
+<p>从<a href="https://github.com/WilliamPeterMatthew/CPPU-ClickToLogin/releases" target="_blank" rel="noopener noreferrer">这里</a>下载。</p>
+<p>运行脚本或者从发行版中下载的程序，在对话框中输入账号和密码即可登录。</p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/CPPU-ClickToLogin?sort=date&display_name=tag" type="image/"/>
+    </item>
+    <item>
+      <title>CPPU-OneClickLogin</title>
+      <link>https://note.zhangkai.xin/project/logincampusnetwork/cppuocl.html</link>
+      <guid>https://note.zhangkai.xin/project/logincampusnetwork/cppuocl.html</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">CPPU-OneClickLogin</source>
+      <content:encoded><![CDATA[<p>CPPU一键登录校园网</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/CPPU-OneClickLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/CPPU-OneClickLogin?display_date=published_at" alt="GitHub Release Date"></p>
+<h2 id="使用" tabindex="-1"> 使用</h2>
+<p>从<a href="https://github.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases" target="_blank" rel="noopener noreferrer">这里</a>下载。</p>
+<p>修改文件 <code>账号密码.txt</code> ，该文件第一行为你的账号，第二行为你的密码，然后运行脚本或者从发行版中下载的程序即可登录。</p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/CPPU-OneClickLogin?sort=date&display_name=tag" type="image/"/>
+    </item>
+    <item>
+      <title>PPSUC-ClickToLogin</title>
+      <link>https://note.zhangkai.xin/project/logincampusnetwork/ppsucctl.html</link>
+      <guid>https://note.zhangkai.xin/project/logincampusnetwork/ppsucctl.html</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">PPSUC-ClickToLogin</source>
+      <content:encoded><![CDATA[<p>PPSUC上网认证客户端</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/PPSUC-ClickToLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/PPSUC-ClickToLogin?display_date=published_at" alt="GitHub Release Date"></p>
+<h2 id="使用" tabindex="-1"> 使用</h2>
+<p>从<a href="https://github.com/WilliamPeterMatthew/PPSUC-ClickToLogin/releases" target="_blank" rel="noopener noreferrer">这里</a>下载。</p>
+<p>运行脚本或者从发行版中下载的程序，在对话框中输入账号和密码即可登录。</p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/PPSUC-ClickToLogin?sort=date&display_name=tag" type="image/"/>
+    </item>
+    <item>
+      <title>PPSUC-OneClickLogin</title>
+      <link>https://note.zhangkai.xin/project/logincampusnetwork/ppsucocl.html</link>
+      <guid>https://note.zhangkai.xin/project/logincampusnetwork/ppsucocl.html</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">PPSUC-OneClickLogin</source>
+      <content:encoded><![CDATA[<p>PPSUC一键登录校园网</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/PPSUC-OneClickLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/PPSUC-OneClickLogin?display_date=published_at" alt="GitHub Release Date"></p>
+<h2 id="使用" tabindex="-1"> 使用</h2>
+<p>从<a href="https://github.com/WilliamPeterMatthew/PPSUC-OneClickLogin/releases" target="_blank" rel="noopener noreferrer">这里</a>下载。</p>
+<p>修改文件 <code>账号密码.txt</code> ，该文件第一行为你的账号，第二行为你的密码，然后运行脚本或者从发行版中下载的程序即可登录。</p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/PPSUC-OneClickLogin?sort=date&display_name=tag" type="image/"/>
+    </item>
+    <item>
+      <title>登录校园网</title>
+      <link>https://note.zhangkai.xin/project/logincampusnetwork/</link>
+      <guid>https://note.zhangkai.xin/project/logincampusnetwork/</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">登录校园网</source>
+      <content:encoded><![CDATA[<p>本项目针对新华三的校园网登录方案，根据CPPU和PPSUC两个学校的登录入口，生成了如下四个项目：</p>
+<ul>
+<li><a href="/project/logincampusnetwork/cppuctl/">CPPU-ClickToLogin</a>，适用于CPPU，采用弹出对话框手动输入账号密码的方法登录。</li>
+<li><a href="/project/logincampusnetwork/cppuocl/">CPPU-OneClickLogin</a>，适用于CPPU，采用读取保存有账号密码的文件的方法登录。</li>
+<li><a href="/project/logincampusnetwork/ppsucctl/">PPSUC-ClickToLogin</a>，适用于PPSUC，采用弹出对话框手动输入账号密码的方法登录。</li>
+<li><a href="/project/logincampusnetwork/ppsucocl/">PPSUC-OneClickLogin</a>，适用于PPSCU，采用读取保存有账号密码的文件的方法登录。</li>
+</ul>
+<p>同时，为了能够让机房正常使用，适配了Win7x86系统。</p>
+]]></content:encoded>
     </item>
     <item>
       <title>CPPU-TimeTableSearching</title>
@@ -344,100 +438,6 @@ XXX
 ]]></content:encoded>
     </item>
     <item>
-      <title>警察大学校赛进程监控客户端</title>
-      <link>https://note.zhangkai.xin/project/cppujcdxxspm/</link>
-      <guid>https://note.zhangkai.xin/project/cppujcdxxspm/</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">警察大学校赛进程监控客户端</source>
-      <content:encoded><![CDATA[<p>这个程序的主要目的是获取进程监控器运行期间的程序变化情况，退出后在桌面生成一份加密的记录文件。通过监控校验器可以对记录进行校验和提取。</p>
-<h3 id="进程监控器-processmonitor" tabindex="-1"> 进程监控器（ProcessMonitor）</h3>
-<p>监控程序主客户端，双击打开，运行在系统托盘，右击图标可以选择退出。需要管理员权限。</p>
-<h3 id="监控校验器-pmrvalidator" tabindex="-1"> 监控校验器（PMRValidator）</h3>
-<p>监控文件校验器，通过命令行调用。需要管理员权限。</p>
-<div><pre><code><span># 指定文件即可进行校验</span>
-PMRValidator.exe MonitorFile_20250101_010101.pmr
-
-<span># 指定文件并使用-e指定目录即可在校验的同时提取记录</span>
-PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
-</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div></div></div><h2 id="下载" tabindex="-1"> 下载</h2>
-<p>两个程序的文件都包含zip格式的便携版压缩包，适配了x86架构和x86_64架构。</p>
-<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-ProcessMonitor?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
-<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/JcdxXS-ProcessMonitor?display_date=published_at" alt="GitHub Release Date"></p>
-<p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-ProcessMonitor/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
-]]></content:encoded>
-      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-ProcessMonitor?sort=date&display_name=tag" type="image/"/>
-    </item>
-    <item>
-      <title>CPPU-ClickToLogin</title>
-      <link>https://note.zhangkai.xin/project/logincampusnetwork/cppuctl.html</link>
-      <guid>https://note.zhangkai.xin/project/logincampusnetwork/cppuctl.html</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">CPPU-ClickToLogin</source>
-      <content:encoded><![CDATA[<p>CPPU上网认证客户端</p>
-<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/CPPU-ClickToLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
-<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/CPPU-ClickToLogin?display_date=published_at" alt="GitHub Release Date"></p>
-<h2 id="使用" tabindex="-1"> 使用</h2>
-<p>从<a href="https://github.com/WilliamPeterMatthew/CPPU-ClickToLogin/releases" target="_blank" rel="noopener noreferrer">这里</a>下载。</p>
-<p>运行脚本或者从发行版中下载的程序，在对话框中输入账号和密码即可登录。</p>
-]]></content:encoded>
-      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/CPPU-ClickToLogin?sort=date&display_name=tag" type="image/"/>
-    </item>
-    <item>
-      <title>CPPU-OneClickLogin</title>
-      <link>https://note.zhangkai.xin/project/logincampusnetwork/cppuocl.html</link>
-      <guid>https://note.zhangkai.xin/project/logincampusnetwork/cppuocl.html</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">CPPU-OneClickLogin</source>
-      <content:encoded><![CDATA[<p>CPPU一键登录校园网</p>
-<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/CPPU-OneClickLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
-<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/CPPU-OneClickLogin?display_date=published_at" alt="GitHub Release Date"></p>
-<h2 id="使用" tabindex="-1"> 使用</h2>
-<p>从<a href="https://github.com/WilliamPeterMatthew/CPPU-OneClickLogin/releases" target="_blank" rel="noopener noreferrer">这里</a>下载。</p>
-<p>修改文件 <code>账号密码.txt</code> ，该文件第一行为你的账号，第二行为你的密码，然后运行脚本或者从发行版中下载的程序即可登录。</p>
-]]></content:encoded>
-      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/CPPU-OneClickLogin?sort=date&display_name=tag" type="image/"/>
-    </item>
-    <item>
-      <title>PPSUC-ClickToLogin</title>
-      <link>https://note.zhangkai.xin/project/logincampusnetwork/ppsucctl.html</link>
-      <guid>https://note.zhangkai.xin/project/logincampusnetwork/ppsucctl.html</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">PPSUC-ClickToLogin</source>
-      <content:encoded><![CDATA[<p>PPSUC上网认证客户端</p>
-<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/PPSUC-ClickToLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
-<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/PPSUC-ClickToLogin?display_date=published_at" alt="GitHub Release Date"></p>
-<h2 id="使用" tabindex="-1"> 使用</h2>
-<p>从<a href="https://github.com/WilliamPeterMatthew/PPSUC-ClickToLogin/releases" target="_blank" rel="noopener noreferrer">这里</a>下载。</p>
-<p>运行脚本或者从发行版中下载的程序，在对话框中输入账号和密码即可登录。</p>
-]]></content:encoded>
-      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/PPSUC-ClickToLogin?sort=date&display_name=tag" type="image/"/>
-    </item>
-    <item>
-      <title>PPSUC-OneClickLogin</title>
-      <link>https://note.zhangkai.xin/project/logincampusnetwork/ppsucocl.html</link>
-      <guid>https://note.zhangkai.xin/project/logincampusnetwork/ppsucocl.html</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">PPSUC-OneClickLogin</source>
-      <content:encoded><![CDATA[<p>PPSUC一键登录校园网</p>
-<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/PPSUC-OneClickLogin?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
-<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/PPSUC-OneClickLogin?display_date=published_at" alt="GitHub Release Date"></p>
-<h2 id="使用" tabindex="-1"> 使用</h2>
-<p>从<a href="https://github.com/WilliamPeterMatthew/PPSUC-OneClickLogin/releases" target="_blank" rel="noopener noreferrer">这里</a>下载。</p>
-<p>修改文件 <code>账号密码.txt</code> ，该文件第一行为你的账号，第二行为你的密码，然后运行脚本或者从发行版中下载的程序即可登录。</p>
-]]></content:encoded>
-      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/PPSUC-OneClickLogin?sort=date&display_name=tag" type="image/"/>
-    </item>
-    <item>
-      <title>登录校园网</title>
-      <link>https://note.zhangkai.xin/project/logincampusnetwork/</link>
-      <guid>https://note.zhangkai.xin/project/logincampusnetwork/</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">登录校园网</source>
-      <content:encoded><![CDATA[<p>本项目针对新华三的校园网登录方案，根据CPPU和PPSUC两个学校的登录入口，生成了如下四个项目：</p>
-<ul>
-<li><a href="/project/logincampusnetwork/cppuctl/">CPPU-ClickToLogin</a>，适用于CPPU，采用弹出对话框手动输入账号密码的方法登录。</li>
-<li><a href="/project/logincampusnetwork/cppuocl/">CPPU-OneClickLogin</a>，适用于CPPU，采用读取保存有账号密码的文件的方法登录。</li>
-<li><a href="/project/logincampusnetwork/ppsucctl/">PPSUC-ClickToLogin</a>，适用于PPSUC，采用弹出对话框手动输入账号密码的方法登录。</li>
-<li><a href="/project/logincampusnetwork/ppsucocl/">PPSUC-OneClickLogin</a>，适用于PPSCU，采用读取保存有账号密码的文件的方法登录。</li>
-</ul>
-<p>同时，为了能够让机房正常使用，适配了Win7x86系统。</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>使用手册 - 赛后工作</title>
       <link>https://note.zhangkai.xin/project/pingfen/four.html</link>
       <guid>https://note.zhangkai.xin/project/pingfen/four.html</guid>
@@ -560,6 +560,18 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
 ]]></content:encoded>
     </item>
     <item>
+      <title>ss本地管理器</title>
+      <link>https://note.zhangkai.xin/project/sslocal-manager/</link>
+      <guid>https://note.zhangkai.xin/project/sslocal-manager/</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">ss本地管理器</source>
+      <content:encoded><![CDATA[<p>本项目根据不同系统所支持的软件，生成了如下两个项目：</p>
+<ul>
+<li><a href="/project/sslocal-manager/debian/">SSLocal-Manager</a>，构建基于Debian镜像，使用Shadowsocks-Libev的二进制文件。</li>
+<li><a href="/project/sslocal-manager/alpine/">SSLocal-Manager-Alpine</a>，构建基于Alpine镜像，使用Shadowsocks-Rust的二进制文件。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
       <title>通过网页调用Resend API发送邮件</title>
       <link>https://note.zhangkai.xin/project/resend-mail-webpage/</link>
       <guid>https://note.zhangkai.xin/project/resend-mail-webpage/</guid>
@@ -652,27 +664,15 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
       <enclosure url="https://img.shields.io/docker/pulls/petermatthew/resendmail-web" type="image/"/>
     </item>
     <item>
-      <title>ss本地管理器</title>
-      <link>https://note.zhangkai.xin/project/sslocal-manager/</link>
-      <guid>https://note.zhangkai.xin/project/sslocal-manager/</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">ss本地管理器</source>
-      <content:encoded><![CDATA[<p>本项目根据不同系统所支持的软件，生成了如下两个项目：</p>
-<ul>
-<li><a href="/project/sslocal-manager/debian/">SSLocal-Manager</a>，构建基于Debian镜像，使用Shadowsocks-Libev的二进制文件。</li>
-<li><a href="/project/sslocal-manager/alpine/">SSLocal-Manager-Alpine</a>，构建基于Alpine镜像，使用Shadowsocks-Rust的二进制文件。</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>SSLocal-Manager-Alpine</title>
+      <title>SSLocal-Manager-Rust</title>
       <link>https://note.zhangkai.xin/project/sslocal-manager/alpine/master.html</link>
       <guid>https://note.zhangkai.xin/project/sslocal-manager/alpine/master.html</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">SSLocal-Manager-Alpine</source>
-      <content:encoded><![CDATA[<h2 id="sslocal-manager" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager-alpine/tree/master" target="_blank" rel="noopener noreferrer">sslocal-manager</a></h2>
+      <source url="https://note.zhangkai.xin/rss.xml">SSLocal-Manager-Rust</source>
+      <content:encoded><![CDATA[<h2 id="sslocal-manager-rust" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager-alpine/tree/master" target="_blank" rel="noopener noreferrer">sslocal-manager-rust</a></h2>
 <p>一个用于管理 sslocal 的网页工具。</p>
-<p><img src="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager" alt="Docker Pulls">
-<img src="https://img.shields.io/docker/image-size/petermatthew/sslocal-manager" alt="Docker Image Size">
-<img src="https://img.shields.io/docker/v/petermatthew/sslocal-manager" alt="Docker Image Version"></p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager-rust" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/sslocal-manager-rust" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/sslocal-manager-rust" alt="Docker Image Version"></p>
 <p>通过 Docker Compose 构建，基于 Python Flask 框架开发。</p>
 <blockquote>
 <p>如果需要同时在本地部署 local 和 server，可以参考分支 <a href="/project/sslocal-manager/alpine/proxy_local/">proxy_local</a> 的解决方案。</p>
@@ -734,7 +734,7 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
 <span>}</span>
 
 </code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>]]></content:encoded>
-      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager" type="image/"/>
+      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager-rust" type="image/"/>
     </item>
     <item>
       <title>Proxy_Local</title>
@@ -742,17 +742,17 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
       <guid>https://note.zhangkai.xin/project/sslocal-manager/alpine/proxy_local.html</guid>
       <source url="https://note.zhangkai.xin/rss.xml">Proxy_Local</source>
       <content:encoded><![CDATA[<h2 id="proxy-local" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager-alpine/tree/proxy_local" target="_blank" rel="noopener noreferrer">Proxy_Local</a></h2>
-<h3 id="sslocal-manager" tabindex="-1"> sslocal-manager</h3>
+<h3 id="sslocal-manager-rust" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager-alpine/tree/master" target="_blank" rel="noopener noreferrer">sslocal-manager-rust</a></h3>
 <p>一个用于管理 sslocal 的网页工具。</p>
-<p><img src="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager" alt="Docker Pulls">
-<img src="https://img.shields.io/docker/image-size/petermatthew/sslocal-manager" alt="Docker Image Size">
-<img src="https://img.shields.io/docker/v/petermatthew/sslocal-manager" alt="Docker Image Version"></p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager-rust" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/sslocal-manager-rust" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/sslocal-manager-rust" alt="Docker Image Version"></p>
 <p>通过 Docker Compose 构建，基于 Python Flask 框架开发。</p>
-<h3 id="ssserver-manager" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager-alpine/tree/ssserver-manager" target="_blank" rel="noopener noreferrer">ssserver-manager</a></h3>
+<h3 id="ssserver-manager-rust" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager-alpine/tree/ssserver-manager" target="_blank" rel="noopener noreferrer">ssserver-manager-rust</a></h3>
 <p>一个用于管理 ssserver 的网页工具。</p>
-<p><img src="https://img.shields.io/docker/pulls/petermatthew/ssserver-manager" alt="Docker Pulls">
-<img src="https://img.shields.io/docker/image-size/petermatthew/ssserver-manager" alt="Docker Image Size">
-<img src="https://img.shields.io/docker/v/petermatthew/ssserver-manager" alt="Docker Image Version"></p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/ssserver-manager-rust" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/ssserver-manager-rust" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/ssserver-manager-rust" alt="Docker Image Version"></p>
 <p>通过 Docker Compose 构建，基于 Python Flask 框架开发。</p>
 <h3 id="sslocal-rust" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager-alpine/tree/sslocal-rust" target="_blank" rel="noopener noreferrer">sslocal-rust</a></h3>
 <p>一个用于启动 sslocal 的镜像。</p>
@@ -760,7 +760,7 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
 <img src="https://img.shields.io/docker/image-size/petermatthew/sslocal-rust" alt="Docker Image Size">
 <img src="https://img.shields.io/docker/v/petermatthew/sslocal-rust" alt="Docker Image Version"></p>
 <p>通过 Docker Compose 构建，二进制文件源仓库：<a href="https://github.com/shadowsocks/shadowsocks-rust/" target="_blank" rel="noopener noreferrer">shadowsocks-rust</a>。</p>
-<h3 id="ssserver-rust" tabindex="-1"> ssserver-rust</h3>
+<h3 id="ssserver-rust" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager-alpine/tree/ssserver-rust" target="_blank" rel="noopener noreferrer">ssserver-rust</a></h3>
 <p>一个用于启动 ssserver 的镜像。</p>
 <p><img src="https://img.shields.io/docker/pulls/petermatthew/ssserver-rust" alt="Docker Pulls">
 <img src="https://img.shields.io/docker/image-size/petermatthew/ssserver-rust" alt="Docker Image Size">
@@ -855,7 +855,7 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
 <span>}</span>
 
 </code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>]]></content:encoded>
-      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager" type="image/"/>
+      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager-rust" type="image/"/>
     </item>
     <item>
       <title>SSLocal-Manager-Alpine</title>
@@ -865,8 +865,8 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
       <content:encoded><![CDATA[<p>构建基于Alpine镜像，使用Shadowsocks-Rust的二进制文件。<br>
 本项目根据不同的功能，生成了如下五个分支：</p>
 <ul>
-<li><a href="/project/sslocal-manager/alpine/master/">SSLocal-Manager-Alpine</a>，使用网页管理SSLocal是否启动。</li>
-<li><a href="/project/sslocal-manager/alpine/ssserver-manager/">SSServer-Manager-Alpine</a>，使用网页管理SSServer是否启动。</li>
+<li><a href="/project/sslocal-manager/alpine/master/">SSLocal-Manager-Rust</a>，使用网页管理SSLocal是否启动。</li>
+<li><a href="/project/sslocal-manager/alpine/ssserver-manager/">SSServer-Manager-Rust</a>，使用网页管理SSServer是否启动。</li>
 <li><a href="/project/sslocal-manager/alpine/sslocal-rust/">SSLocal-Rust</a>，使用Shadowsocks-Rust的二进制文件构建的SSLocal镜像。</li>
 <li><a href="/project/sslocal-manager/alpine/ssserver-rust/">SSServer-Rust</a>，使用Shadowsocks-Rust的二进制文件构建的SSServer镜像。</li>
 <li><a href="/project/sslocal-manager/alpine/proxy_local/">Proxy_Local</a>，在一台机器上同时启动或管理SSLocal和SSServer镜像。</li>
@@ -919,15 +919,15 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
       <enclosure url="https://img.shields.io/docker/pulls/petermatthew/sslocal-rust" type="image/"/>
     </item>
     <item>
-      <title>SSServer-Manager-Alpine</title>
+      <title>SSServer-Manager-Rust</title>
       <link>https://note.zhangkai.xin/project/sslocal-manager/alpine/ssserver-manager.html</link>
       <guid>https://note.zhangkai.xin/project/sslocal-manager/alpine/ssserver-manager.html</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">SSServer-Manager-Alpine</source>
-      <content:encoded><![CDATA[<h2 id="ssserver-manager" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager-alpine/tree/ssserver-manager" target="_blank" rel="noopener noreferrer">ssserver-manager</a></h2>
+      <source url="https://note.zhangkai.xin/rss.xml">SSServer-Manager-Rust</source>
+      <content:encoded><![CDATA[<h2 id="ssserver-manager-rust" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager-alpine/tree/ssserver-manager" target="_blank" rel="noopener noreferrer">ssserver-manager-rust</a></h2>
 <p>一个用于管理 ssserver 的网页工具。</p>
-<p><img src="https://img.shields.io/docker/pulls/petermatthew/ssserver-manager" alt="Docker Pulls">
-<img src="https://img.shields.io/docker/image-size/petermatthew/ssserver-manager" alt="Docker Image Size">
-<img src="https://img.shields.io/docker/v/petermatthew/ssserver-manager" alt="Docker Image Version"></p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/ssserver-manager-rust" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/ssserver-manager-rust" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/ssserver-manager-rust" alt="Docker Image Version"></p>
 <p>通过 Docker Compose 构建，基于 Python Flask 框架开发。</p>
 <blockquote>
 <p>如果需要同时在本地部署 local 和 server，可以参考分支 <a href="/project/sslocal-manager/alpine/proxy_local/">proxy_local</a> 的解决方案。</p>
@@ -987,7 +987,7 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
 <span>}</span>
 
 </code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>]]></content:encoded>
-      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/ssserver-manager" type="image/"/>
+      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/ssserver-manager-rust" type="image/"/>
     </item>
     <item>
       <title>SSServer-Rust</title>
@@ -1030,15 +1030,15 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
       <enclosure url="https://img.shields.io/docker/pulls/petermatthew/ssserver-rust" type="image/"/>
     </item>
     <item>
-      <title>SSLocal-Manager</title>
+      <title>SSLocal-Manager-Libev</title>
       <link>https://note.zhangkai.xin/project/sslocal-manager/debian/master.html</link>
       <guid>https://note.zhangkai.xin/project/sslocal-manager/debian/master.html</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">SSLocal-Manager</source>
-      <content:encoded><![CDATA[<h2 id="sslocal-manager" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager/tree/master" target="_blank" rel="noopener noreferrer">sslocal-manager</a></h2>
+      <source url="https://note.zhangkai.xin/rss.xml">SSLocal-Manager-Libev</source>
+      <content:encoded><![CDATA[<h2 id="sslocal-manager-libev" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager/tree/master" target="_blank" rel="noopener noreferrer">sslocal-manager-libev</a></h2>
 <p>一个用于管理 ss-local 的网页工具。</p>
-<p><img src="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager" alt="Docker Pulls">
-<img src="https://img.shields.io/docker/image-size/petermatthew/sslocal-manager" alt="Docker Image Size">
-<img src="https://img.shields.io/docker/v/petermatthew/sslocal-manager" alt="Docker Image Version"></p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager-libev" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/sslocal-manager-libev" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/sslocal-manager-libev" alt="Docker Image Version"></p>
 <p>通过 Docker Compose 构建，基于 Python Flask 框架开发。</p>
 <blockquote>
 <p>如果需要同时在本地部署 local 和 server，可以参考分支 <a href="/project/sslocal-manager/debian/proxy_local/">proxy_local</a> 的解决方案。</p>
@@ -1099,7 +1099,7 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
 <span>}</span>
 
 </code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>]]></content:encoded>
-      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager" type="image/"/>
+      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager-libev" type="image/"/>
     </item>
     <item>
       <title>Proxy_Local</title>
@@ -1107,17 +1107,17 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
       <guid>https://note.zhangkai.xin/project/sslocal-manager/debian/proxy_local.html</guid>
       <source url="https://note.zhangkai.xin/rss.xml">Proxy_Local</source>
       <content:encoded><![CDATA[<h2 id="proxy-local" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager/tree/proxy_local" target="_blank" rel="noopener noreferrer">Proxy_Local</a></h2>
-<h3 id="sslocal-manager" tabindex="-1"> sslocal-manager</h3>
+<h3 id="sslocal-manager-libev" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager/tree/master" target="_blank" rel="noopener noreferrer">sslocal-manager-libev</a></h3>
 <p>一个用于管理 ss-local 的网页工具。</p>
-<p><img src="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager" alt="Docker Pulls">
-<img src="https://img.shields.io/docker/image-size/petermatthew/sslocal-manager" alt="Docker Image Size">
-<img src="https://img.shields.io/docker/v/petermatthew/sslocal-manager" alt="Docker Image Version"></p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager-libev" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/sslocal-manager-libev" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/sslocal-manager-libev" alt="Docker Image Version"></p>
 <p>通过 Docker Compose 构建，基于 Python Flask 框架开发。</p>
-<h3 id="ssserver-manager" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager/tree/ssserver-manager" target="_blank" rel="noopener noreferrer">ssserver-manager</a></h3>
+<h3 id="ssserver-manager-libev" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager/tree/ssserver-manager" target="_blank" rel="noopener noreferrer">ssserver-manager-libev</a></h3>
 <p>一个用于管理 ss-server 的网页工具。</p>
-<p><img src="https://img.shields.io/docker/pulls/petermatthew/ssserver-manager" alt="Docker Pulls">
-<img src="https://img.shields.io/docker/image-size/petermatthew/ssserver-manager" alt="Docker Image Size">
-<img src="https://img.shields.io/docker/v/petermatthew/ssserver-manager" alt="Docker Image Version"></p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/ssserver-manager-libev" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/ssserver-manager-libev" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/ssserver-manager-libev" alt="Docker Image Version"></p>
 <p>通过 Docker Compose 构建，基于 Python Flask 框架开发。</p>
 <h3 id="sslocal-libev" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager/tree/sslocal-libev" target="_blank" rel="noopener noreferrer">sslocal-libev</a></h3>
 <p>一个用于启动 ss-local 的镜像。</p>
@@ -1125,7 +1125,7 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
 <img src="https://img.shields.io/docker/image-size/petermatthew/sslocal-libev" alt="Docker Image Size">
 <img src="https://img.shields.io/docker/v/petermatthew/sslocal-libev" alt="Docker Image Version"></p>
 <p>通过 Docker Compose 构建，二进制文件源仓库：<a href="https://github.com/shadowsocks/shadowsocks-libev/" target="_blank" rel="noopener noreferrer">shadowsocks-libev</a>。</p>
-<h3 id="ssserver-libev" tabindex="-1"> ssserver-libev</h3>
+<h3 id="ssserver-libev" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager/tree/ssserver-libev" target="_blank" rel="noopener noreferrer">ssserver-libev</a></h3>
 <p>一个用于启动 ss-server 的镜像。</p>
 <p><img src="https://img.shields.io/docker/pulls/petermatthew/ssserver-libev" alt="Docker Pulls">
 <img src="https://img.shields.io/docker/image-size/petermatthew/ssserver-libev" alt="Docker Image Size">
@@ -1196,7 +1196,7 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
 <span>}</span>
 
 </code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>]]></content:encoded>
-      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager" type="image/"/>
+      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/sslocal-manager-libev" type="image/"/>
     </item>
     <item>
       <title>SSLocal-Manager</title>
@@ -1206,8 +1206,8 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
       <content:encoded><![CDATA[<p>构建基于Debian镜像，使用Shadowsocks-Libev的二进制文件。<br>
 本项目根据不同的功能，生成了如下五个分支：</p>
 <ul>
-<li><a href="/project/sslocal-manager/debian/master/">SSLocal-Manager</a>，使用网页管理SSLocal是否启动。</li>
-<li><a href="/project/sslocal-manager/debian/ssserver-manager/">SSServer-Manager</a>，使用网页管理SSServer是否启动。</li>
+<li><a href="/project/sslocal-manager/debian/master/">SSLocal-Manager-Libev</a>，使用网页管理SSLocal是否启动。</li>
+<li><a href="/project/sslocal-manager/debian/ssserver-manager/">SSServer-Manager-Libev</a>，使用网页管理SSServer是否启动。</li>
 <li><a href="/project/sslocal-manager/debian/sslocal-libev/">SSLocal-Libev</a>，使用Shadowsocks-Libev的二进制文件构建的SSLocal镜像。</li>
 <li><a href="/project/sslocal-manager/debian/ssserver-libev/">SSServer-Libev</a>，使用Shadowsocks-Libev的二进制文件构建的SSServer镜像。</li>
 <li><a href="/project/sslocal-manager/debian/proxy_local/">Proxy_Local</a>，在一台机器上同时启动或管理SSLocal和SSServer镜像。</li>
@@ -1276,15 +1276,15 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
       <enclosure url="https://img.shields.io/docker/pulls/petermatthew/ssserver-libev" type="image/"/>
     </item>
     <item>
-      <title>SSServer-Manager</title>
+      <title>SSServer-Manager-Libev</title>
       <link>https://note.zhangkai.xin/project/sslocal-manager/debian/ssserver-manager.html</link>
       <guid>https://note.zhangkai.xin/project/sslocal-manager/debian/ssserver-manager.html</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">SSServer-Manager</source>
-      <content:encoded><![CDATA[<h2 id="ssserver-manager" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager/tree/ssserver-manager" target="_blank" rel="noopener noreferrer">ssserver-manager</a></h2>
+      <source url="https://note.zhangkai.xin/rss.xml">SSServer-Manager-Libev</source>
+      <content:encoded><![CDATA[<h2 id="ssserver-manager-libev" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/sslocal-manager/tree/ssserver-manager" target="_blank" rel="noopener noreferrer">ssserver-manager-libev</a></h2>
 <p>一个用于管理 ss-server 的网页工具。</p>
-<p><img src="https://img.shields.io/docker/pulls/petermatthew/ssserver-manager" alt="Docker Pulls">
-<img src="https://img.shields.io/docker/image-size/petermatthew/ssserver-manager" alt="Docker Image Size">
-<img src="https://img.shields.io/docker/v/petermatthew/ssserver-manager" alt="Docker Image Version"></p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/ssserver-manager-libev" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/ssserver-manager-libev" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/ssserver-manager-libev" alt="Docker Image Version"></p>
 <p>通过 Docker Compose 构建，基于 Python Flask 框架开发。</p>
 <blockquote>
 <p>如果需要同时在本地部署 local 和 server，可以参考分支 <a href="/project/sslocal-manager/debian/proxy_local/">proxy_local</a> 的解决方案。</p>
@@ -1343,7 +1343,7 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
 <span>}</span>
 
 </code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>]]></content:encoded>
-      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/ssserver-manager" type="image/"/>
+      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/ssserver-manager-libev" type="image/"/>
     </item>
   </channel>
 </rss>
