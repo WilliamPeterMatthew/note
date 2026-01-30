@@ -6,8 +6,8 @@
     <link>https://note.zhangkai.xin/</link>
     <description>A Konjac in Province H.A.'s Note</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 29 Jan 2026 17:26:10 GMT</pubDate>
-    <lastBuildDate>Thu, 29 Jan 2026 17:26:10 GMT</lastBuildDate>
+    <pubDate>Fri, 30 Jan 2026 08:32:47 GMT</pubDate>
+    <lastBuildDate>Fri, 30 Jan 2026 08:32:47 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -140,27 +140,6 @@
 <code>docker exec -it oj-backend /bin/bash</code></p>
 ]]></content:encoded>
       <enclosure url="https://img.shields.io/github/v/release/WPMZKX/CPPUOJ-Docker?sort=date&display_name=tag" type="image/"/>
-    </item>
-    <item>
-      <title>警察大学校赛客户端</title>
-      <link>https://note.zhangkai.xin/project/cppujcdxxs/</link>
-      <guid>https://note.zhangkai.xin/project/cppujcdxxs/</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">警察大学校赛客户端</source>
-      <content:encoded><![CDATA[<p>警察大学校赛客户端，主要给机房用户在比赛时连接CPPU OJ使用，以便于现场监考。</p>
-<p>由于机房使用了Win7x86系统，所以特别进行了适配。</p>
-<p>目前分为Tauri版和Electron版。</p>
-<h2 id="tauri版" tabindex="-1"> Tauri版</h2>
-<p>文件包含exe格式和msi格式的安装包，适配了x86架构和x86_64架构。</p>
-<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-Tauri?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
-<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/JcdxXS-Tauri?display_date=published_at" alt="GitHub Release Date"></p>
-<p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-Tauri/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
-<h2 id="electron版" tabindex="-1"> Electron版</h2>
-<p>文件包含exe格式的安装包和zip格式的便携版压缩包，适配了x86架构和x86_64架构。</p>
-<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-Electron?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
-<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/JcdxXS-Electron?display_date=published_at" alt="GitHub Release Date"></p>
-<p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-Electron/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
-]]></content:encoded>
-      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-Tauri?sort=date&display_name=tag" type="image/"/>
     </item>
     <item>
       <title>CPPU-TimeTableSearching</title>
@@ -342,6 +321,27 @@ XX
 XXX
 </code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><p>第一行最后一部分就是统计出的人数，下方就是统计出来的人员名单。</p>
 ]]></content:encoded>
+    </item>
+    <item>
+      <title>警察大学校赛客户端</title>
+      <link>https://note.zhangkai.xin/project/cppujcdxxs/</link>
+      <guid>https://note.zhangkai.xin/project/cppujcdxxs/</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">警察大学校赛客户端</source>
+      <content:encoded><![CDATA[<p>警察大学校赛客户端，主要给机房用户在比赛时连接CPPU OJ使用，以便于现场监考。</p>
+<p>由于机房使用了Win7x86系统，所以特别进行了适配。</p>
+<p>目前分为Tauri版和Electron版。</p>
+<h2 id="tauri版" tabindex="-1"> Tauri版</h2>
+<p>文件包含exe格式和msi格式的安装包，适配了x86架构和x86_64架构。</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-Tauri?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/JcdxXS-Tauri?display_date=published_at" alt="GitHub Release Date"></p>
+<p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-Tauri/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
+<h2 id="electron版" tabindex="-1"> Electron版</h2>
+<p>文件包含exe格式的安装包和zip格式的便携版压缩包，适配了x86架构和x86_64架构。</p>
+<p><img src="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-Electron?sort=date&amp;display_name=tag" alt="GitHub Release"></p>
+<p><img src="https://img.shields.io/github/release-date/WilliamPeterMatthew/JcdxXS-Electron?display_date=published_at" alt="GitHub Release Date"></p>
+<p><a href="https://github.com/WilliamPeterMatthew/JcdxXS-Electron/releases" target="_blank" rel="noopener noreferrer">下载链接</a>。</p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/github/v/release/WilliamPeterMatthew/JcdxXS-Tauri?sort=date&display_name=tag" type="image/"/>
     </item>
     <item>
       <title>CPPU-Drcom</title>
@@ -655,6 +655,30 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
 ]]></content:encoded>
     </item>
     <item>
+      <title>v2ray管理器</title>
+      <link>https://note.zhangkai.xin/project/v2ray-manager/</link>
+      <guid>https://note.zhangkai.xin/project/v2ray-manager/</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">v2ray管理器</source>
+      <content:encoded><![CDATA[<p>本项目根据不同系统所支持的软件，生成了如下两个项目：</p>
+<ul>
+<li><a href="/project/v2ray-manager/debian/">V2ray-Manager</a>，构建基于Debian镜像，使用V2ray的二进制文件。</li>
+<li><a href="/project/v2ray-manager/alpine/">V2ray-Manager-Alpine</a>，构建基于Alpine镜像，使用V2ray的二进制文件。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ss本地管理器</title>
+      <link>https://note.zhangkai.xin/project/sslocal-manager/</link>
+      <guid>https://note.zhangkai.xin/project/sslocal-manager/</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">ss本地管理器</source>
+      <content:encoded><![CDATA[<p>本项目根据不同系统所支持的软件，生成了如下两个项目：</p>
+<ul>
+<li><a href="/project/sslocal-manager/debian/">SSLocal-Manager</a>，构建基于Debian镜像，使用Shadowsocks-Libev的二进制文件。</li>
+<li><a href="/project/sslocal-manager/alpine/">SSLocal-Manager-Alpine</a>，构建基于Alpine镜像，使用Shadowsocks-Rust的二进制文件。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
       <title>通过网页调用Resend API发送邮件</title>
       <link>https://note.zhangkai.xin/project/resend-mail-webpage/</link>
       <guid>https://note.zhangkai.xin/project/resend-mail-webpage/</guid>
@@ -745,30 +769,6 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
 
 </code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>]]></content:encoded>
       <enclosure url="https://img.shields.io/docker/pulls/petermatthew/resendmail-web" type="image/"/>
-    </item>
-    <item>
-      <title>ss本地管理器</title>
-      <link>https://note.zhangkai.xin/project/sslocal-manager/</link>
-      <guid>https://note.zhangkai.xin/project/sslocal-manager/</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">ss本地管理器</source>
-      <content:encoded><![CDATA[<p>本项目根据不同系统所支持的软件，生成了如下两个项目：</p>
-<ul>
-<li><a href="/project/sslocal-manager/debian/">SSLocal-Manager</a>，构建基于Debian镜像，使用Shadowsocks-Libev的二进制文件。</li>
-<li><a href="/project/sslocal-manager/alpine/">SSLocal-Manager-Alpine</a>，构建基于Alpine镜像，使用Shadowsocks-Rust的二进制文件。</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>v2ray管理器</title>
-      <link>https://note.zhangkai.xin/project/v2ray-manager/</link>
-      <guid>https://note.zhangkai.xin/project/v2ray-manager/</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">v2ray管理器</source>
-      <content:encoded><![CDATA[<p>本项目根据不同系统所支持的软件，生成了如下两个项目：</p>
-<ul>
-<li><a href="/project/v2ray-manager/debian/">V2ray-Manager</a>，构建基于Debian镜像，使用V2ray的二进制文件。</li>
-<li><a href="/project/v2ray-manager/alpine/">V2ray-Manager-Alpine</a>，构建基于Alpine镜像，使用V2ray的二进制文件。</li>
-</ul>
-]]></content:encoded>
     </item>
     <item>
       <title>V2ray-Manager-Alpine</title>
@@ -1100,6 +1100,106 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
       <enclosure url="https://img.shields.io/docker/pulls/petermatthew/ssserver-rust" type="image/"/>
     </item>
     <item>
+      <title>V2ray-Manager-Debian</title>
+      <link>https://note.zhangkai.xin/project/v2ray-manager/debian/master.html</link>
+      <guid>https://note.zhangkai.xin/project/v2ray-manager/debian/master.html</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">V2ray-Manager-Debian</source>
+      <content:encoded><![CDATA[<h2 id="v2ray-manager-debian" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/v2ray-manager/tree/master" target="_blank" rel="noopener noreferrer">v2ray-manager-debian</a></h2>
+<p>一个用于管理 v2ray 的网页工具。</p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/v2ray-manager-debian" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/v2ray-manager-debian" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/v2ray-manager-debian" alt="Docker Image Version"></p>
+<p>通过 Docker Compose 构建，基于 Python Flask 框架开发。</p>
+<h2 id="第1步" tabindex="-1"> 第1步</h2>
+<p>克隆本仓库。</p>
+<div><pre><code><span>git</span> clone https://github.com/WilliamPeterMatthew/v2ray-manager.git
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="第2步" tabindex="-1"> 第2步</h2>
+<p>把你的 <code>config.json</code> 文件放在目录下。</p>
+<h2 id="第3步" tabindex="-1"> 第3步</h2>
+<p>根据需要修改或保留 <code>docker-compose.yml</code> 文件中的端口（如果想使用预构建镜像，可使用 <code>docker-compose-prebuild.yml</code> 文件）。</p>
+<h2 id="第4步" tabindex="-1"> 第4步</h2>
+<p>在项目目录下运行以下命令启动项目：</p>
+<div><pre><code><span>docker-compose</span> up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><p>也可以使用预构建镜像启动：</p>
+<div><pre><code><span>docker-compose</span> -f docker-compose-prebuild.yml up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="恭喜" tabindex="-1"> 恭喜</h2>
+<p>现在可以通过第 3 步设置的端口访问网页管理界面。</p>
+<h2 id="可选配置" tabindex="-1"> 可选配置</h2>
+<p>可以通过 Apache 或 Nginx 配置反向代理到 80 端口。</p>
+<p>Apache 示例</p>
+<div><pre><code>&lt;VirtualHost *:80&gt;
+    ServerName example.com
+
+    ProxyRequests Off
+    ProxyPreserveHost On
+    ProxyPass / http://localhost:&lt;你在第3步设置的端口&gt;/
+    ProxyPassReverse / http://localhost:&lt;你在第3步设置的端口&gt;/
+
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+&lt;/VirtualHost&gt;
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><p>Nginx 示例</p>
+<div><pre><code><span><span>server</span></span> <span>{</span>
+    <span><span>listen</span> <span>80</span></span><span>;</span>
+    <span><span>server_name</span> example.com</span><span>;</span>
+
+    <span><span>location</span> /</span> <span>{</span>
+        <span><span>proxy_pass</span> http://localhost:&lt;你在第3步设置的端口></span><span>;</span>
+        <span><span>proxy_set_header</span> Host <span>$host</span></span><span>;</span>
+        <span><span>proxy_set_header</span> X-Real-IP <span>$remote_addr</span></span><span>;</span>
+        <span><span>proxy_set_header</span> X-Forwarded-For <span>$proxy_add_x_forwarded_for</span></span><span>;</span>
+        <span><span>proxy_set_header</span> X-Forwarded-Proto <span>$scheme</span></span><span>;</span>
+    <span>}</span>
+
+    <span><span>error_log</span> /var/log/nginx/sslocal_manager_error.log</span><span>;</span>
+    <span><span>access_log</span> /var/log/nginx/sslocal_manager_access.log</span><span>;</span>
+<span>}</span>
+
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>]]></content:encoded>
+      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/v2ray-manager-debian" type="image/"/>
+    </item>
+    <item>
+      <title>V2ray-Manager</title>
+      <link>https://note.zhangkai.xin/project/v2ray-manager/debian/</link>
+      <guid>https://note.zhangkai.xin/project/v2ray-manager/debian/</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">V2ray-Manager</source>
+      <content:encoded><![CDATA[<p>构建基于Debian镜像，使用V2ray的二进制文件。<br>
+本项目根据不同的功能，生成了如下分支：</p>
+<ul>
+<li><a href="/project/v2ray-manager/debian/master/">V2ray-Manager-Debian</a>，使用网页管理V2ray是否启动。</li>
+<li><a href="/project/v2ray-manager/debian/v2ray-debian/">V2ray-Debian</a>，使用V2ray的二进制文件构建的V2ray镜像。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>V2ray-Debian</title>
+      <link>https://note.zhangkai.xin/project/v2ray-manager/debian/v2ray-debian.html</link>
+      <guid>https://note.zhangkai.xin/project/v2ray-manager/debian/v2ray-debian.html</guid>
+      <source url="https://note.zhangkai.xin/rss.xml">V2ray-Debian</source>
+      <content:encoded><![CDATA[<h2 id="v2ray-debian" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/v2ray-manager/tree/v2ray-debian" target="_blank" rel="noopener noreferrer">v2ray-debian</a></h2>
+<p>一个用于启动 v2ray 的镜像。</p>
+<p><img src="https://img.shields.io/docker/pulls/petermatthew/v2ray-debian" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/petermatthew/v2ray-debian" alt="Docker Image Size">
+<img src="https://img.shields.io/docker/v/petermatthew/v2ray-debian" alt="Docker Image Version"></p>
+<p>通过 Docker Compose 构建，二进制文件源仓库：<a href="https://github.com/v2fly/v2ray-core/" target="_blank" rel="noopener noreferrer">v2ray-core</a>。</p>
+<h2 id="第1步" tabindex="-1"> 第1步</h2>
+<p>克隆本仓库。</p>
+<div><pre><code><span>git</span> clone https://github.com/WilliamPeterMatthew/v2ray-manager.git -b v2ray-debian
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="第2步" tabindex="-1"> 第2步</h2>
+<p>把你的 <code>config.json</code> 文件放在目录下。</p>
+<h2 id="第3步" tabindex="-1"> 第3步</h2>
+<p>根据需要修改或保留 <code>docker-compose.yml</code> 文件中的端口（如果想使用预构建镜像，可使用 <code>docker-compose-prebuild.yml</code> 文件）。</p>
+<h2 id="第4步" tabindex="-1"> 第4步</h2>
+<p>在项目目录下运行以下命令启动项目：</p>
+<div><pre><code><span>docker-compose</span> up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><p>也可以使用预构建镜像启动：</p>
+<div><pre><code><span>docker-compose</span> -f docker-compose-prebuild.yml up -d
+</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="恭喜" tabindex="-1"> 恭喜</h2>
+<p>现在可以通过第 3 步设置的端口访问服务。</p>
+]]></content:encoded>
+      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/v2ray-debian" type="image/"/>
+    </item>
+    <item>
       <title>SSLocal-Manager-Libev</title>
       <link>https://note.zhangkai.xin/project/sslocal-manager/debian/master.html</link>
       <guid>https://note.zhangkai.xin/project/sslocal-manager/debian/master.html</guid>
@@ -1301,106 +1401,6 @@ PMRValidator.exe MonitorFile_20250101_010101.pmr -e ExtractFolder
 
 </code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>]]></content:encoded>
       <enclosure url="https://img.shields.io/docker/pulls/petermatthew/ssserver-manager-libev" type="image/"/>
-    </item>
-    <item>
-      <title>V2ray-Manager-Debian</title>
-      <link>https://note.zhangkai.xin/project/v2ray-manager/debian/master.html</link>
-      <guid>https://note.zhangkai.xin/project/v2ray-manager/debian/master.html</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">V2ray-Manager-Debian</source>
-      <content:encoded><![CDATA[<h2 id="v2ray-manager-debian" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/v2ray-manager/tree/master" target="_blank" rel="noopener noreferrer">v2ray-manager-debian</a></h2>
-<p>一个用于管理 v2ray 的网页工具。</p>
-<p><img src="https://img.shields.io/docker/pulls/petermatthew/v2ray-manager-debian" alt="Docker Pulls">
-<img src="https://img.shields.io/docker/image-size/petermatthew/v2ray-manager-debian" alt="Docker Image Size">
-<img src="https://img.shields.io/docker/v/petermatthew/v2ray-manager-debian" alt="Docker Image Version"></p>
-<p>通过 Docker Compose 构建，基于 Python Flask 框架开发。</p>
-<h2 id="第1步" tabindex="-1"> 第1步</h2>
-<p>克隆本仓库。</p>
-<div><pre><code><span>git</span> clone https://github.com/WilliamPeterMatthew/v2ray-manager.git
-</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="第2步" tabindex="-1"> 第2步</h2>
-<p>把你的 <code>config.json</code> 文件放在目录下。</p>
-<h2 id="第3步" tabindex="-1"> 第3步</h2>
-<p>根据需要修改或保留 <code>docker-compose.yml</code> 文件中的端口（如果想使用预构建镜像，可使用 <code>docker-compose-prebuild.yml</code> 文件）。</p>
-<h2 id="第4步" tabindex="-1"> 第4步</h2>
-<p>在项目目录下运行以下命令启动项目：</p>
-<div><pre><code><span>docker-compose</span> up -d
-</code></pre><div aria-hidden="true"><div></div></div></div><p>也可以使用预构建镜像启动：</p>
-<div><pre><code><span>docker-compose</span> -f docker-compose-prebuild.yml up -d
-</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="恭喜" tabindex="-1"> 恭喜</h2>
-<p>现在可以通过第 3 步设置的端口访问网页管理界面。</p>
-<h2 id="可选配置" tabindex="-1"> 可选配置</h2>
-<p>可以通过 Apache 或 Nginx 配置反向代理到 80 端口。</p>
-<p>Apache 示例</p>
-<div><pre><code>&lt;VirtualHost *:80&gt;
-    ServerName example.com
-
-    ProxyRequests Off
-    ProxyPreserveHost On
-    ProxyPass / http://localhost:&lt;你在第3步设置的端口&gt;/
-    ProxyPassReverse / http://localhost:&lt;你在第3步设置的端口&gt;/
-
-    ErrorLog ${APACHE_LOG_DIR}/error.log
-    CustomLog ${APACHE_LOG_DIR}/access.log combined
-&lt;/VirtualHost&gt;
-</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><p>Nginx 示例</p>
-<div><pre><code><span><span>server</span></span> <span>{</span>
-    <span><span>listen</span> <span>80</span></span><span>;</span>
-    <span><span>server_name</span> example.com</span><span>;</span>
-
-    <span><span>location</span> /</span> <span>{</span>
-        <span><span>proxy_pass</span> http://localhost:&lt;你在第3步设置的端口></span><span>;</span>
-        <span><span>proxy_set_header</span> Host <span>$host</span></span><span>;</span>
-        <span><span>proxy_set_header</span> X-Real-IP <span>$remote_addr</span></span><span>;</span>
-        <span><span>proxy_set_header</span> X-Forwarded-For <span>$proxy_add_x_forwarded_for</span></span><span>;</span>
-        <span><span>proxy_set_header</span> X-Forwarded-Proto <span>$scheme</span></span><span>;</span>
-    <span>}</span>
-
-    <span><span>error_log</span> /var/log/nginx/sslocal_manager_error.log</span><span>;</span>
-    <span><span>access_log</span> /var/log/nginx/sslocal_manager_access.log</span><span>;</span>
-<span>}</span>
-
-</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>]]></content:encoded>
-      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/v2ray-manager-debian" type="image/"/>
-    </item>
-    <item>
-      <title>V2ray-Manager</title>
-      <link>https://note.zhangkai.xin/project/v2ray-manager/debian/</link>
-      <guid>https://note.zhangkai.xin/project/v2ray-manager/debian/</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">V2ray-Manager</source>
-      <content:encoded><![CDATA[<p>构建基于Debian镜像，使用V2ray的二进制文件。<br>
-本项目根据不同的功能，生成了如下分支：</p>
-<ul>
-<li><a href="/project/v2ray-manager/debian/master/">V2ray-Manager-Debian</a>，使用网页管理V2ray是否启动。</li>
-<li><a href="/project/v2ray-manager/debian/v2ray-debian/">V2ray-Debian</a>，使用V2ray的二进制文件构建的V2ray镜像。</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>V2ray-Debian</title>
-      <link>https://note.zhangkai.xin/project/v2ray-manager/debian/v2ray-debian.html</link>
-      <guid>https://note.zhangkai.xin/project/v2ray-manager/debian/v2ray-debian.html</guid>
-      <source url="https://note.zhangkai.xin/rss.xml">V2ray-Debian</source>
-      <content:encoded><![CDATA[<h2 id="v2ray-debian" tabindex="-1"> <a href="https://github.com/WilliamPeterMatthew/v2ray-manager/tree/v2ray-debian" target="_blank" rel="noopener noreferrer">v2ray-debian</a></h2>
-<p>一个用于启动 v2ray 的镜像。</p>
-<p><img src="https://img.shields.io/docker/pulls/petermatthew/v2ray-debian" alt="Docker Pulls">
-<img src="https://img.shields.io/docker/image-size/petermatthew/v2ray-debian" alt="Docker Image Size">
-<img src="https://img.shields.io/docker/v/petermatthew/v2ray-debian" alt="Docker Image Version"></p>
-<p>通过 Docker Compose 构建，二进制文件源仓库：<a href="https://github.com/v2fly/v2ray-core/" target="_blank" rel="noopener noreferrer">v2ray-core</a>。</p>
-<h2 id="第1步" tabindex="-1"> 第1步</h2>
-<p>克隆本仓库。</p>
-<div><pre><code><span>git</span> clone https://github.com/WilliamPeterMatthew/v2ray-manager.git -b v2ray-debian
-</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="第2步" tabindex="-1"> 第2步</h2>
-<p>把你的 <code>config.json</code> 文件放在目录下。</p>
-<h2 id="第3步" tabindex="-1"> 第3步</h2>
-<p>根据需要修改或保留 <code>docker-compose.yml</code> 文件中的端口（如果想使用预构建镜像，可使用 <code>docker-compose-prebuild.yml</code> 文件）。</p>
-<h2 id="第4步" tabindex="-1"> 第4步</h2>
-<p>在项目目录下运行以下命令启动项目：</p>
-<div><pre><code><span>docker-compose</span> up -d
-</code></pre><div aria-hidden="true"><div></div></div></div><p>也可以使用预构建镜像启动：</p>
-<div><pre><code><span>docker-compose</span> -f docker-compose-prebuild.yml up -d
-</code></pre><div aria-hidden="true"><div></div></div></div><h2 id="恭喜" tabindex="-1"> 恭喜</h2>
-<p>现在可以通过第 3 步设置的端口访问服务。</p>
-]]></content:encoded>
-      <enclosure url="https://img.shields.io/docker/pulls/petermatthew/v2ray-debian" type="image/"/>
     </item>
   </channel>
 </rss>
